@@ -1,7 +1,9 @@
 ---
-title: "Course Title"
+title: "DAD 322 Audio Production II Multi-Track environments  "
 ---
 
-![placeholder.png](https://loremflickr.com/320/240)
+<a href="https://www.russianrecording.com/" target="_blank">
+    <img src="studio.jpg">
+</a>
 
-Veniam anim eiusmod culpa sunt incididunt sint. Anim ex non ad labore ut in velit in non culpa aliquip. Fugiat incididunt esse eu labore ipsum officia. Tempor proident velit duis nostrud laborum reprehenderit laboris ullamco aliqua commodo sint. Nisi laborum sint ex est minim mollit irure veniam commodo ad. Cupidatat id pariatur id veniam non qui elit voluptate non officia.
+Builds upon Audio Production I. Course focus is on multi-track recording, production, mixing, and editing in professional software applications. Other topics taught include mixing console management, signal processing, ear training, advanced audio for video editing, and live sound production techniques.
