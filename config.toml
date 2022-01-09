@@ -50,7 +50,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Course name"
+      logoText = "DAD 322 Audio Production II"
       logoHomeLink = "/"
 
     [languages.en.menu]
