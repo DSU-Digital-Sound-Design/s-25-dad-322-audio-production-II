@@ -12,6 +12,7 @@ author: ""
 
 - Syllabus overview
 - Semester introduction
+- Pick your DAW
 - Check out the recoding studio
 
 ## Wednesday 1/12
