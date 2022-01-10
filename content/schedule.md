@@ -12,8 +12,9 @@ author: ""
 
 - Syllabus overview
 - Semester introduction
+- Finding the textbooks in the library
 - Pick your DAW
-- Check out the recoding studio
+- [Short intro to Reaper](../posts/week-1/reaper-intro/)
 
 ## Wednesday 1/12
 
