@@ -20,11 +20,13 @@ author: ""
 
 ### Hearing and listening
 
-- Using nearfield monitors
-- Supplementary monitoring
+- [Using nearfield monitors](../posts/week-1/monitoring/) - [PDF](../posts/week-1/monitoring/monitoring-slides.pdf)
+- Listen to some of your favorite music and try to understand what you're hearing
 
 ## Friday 1/14
 
+- Supplementary monitoring
+- Setting up monitors and dealing with reflections
 - Technical Ear Training (TET) - defining technical ear training and active listening
 
 # Week 2
