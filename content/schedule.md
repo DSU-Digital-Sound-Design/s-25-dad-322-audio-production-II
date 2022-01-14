@@ -25,9 +25,9 @@ author: ""
 
 ## Friday 1/14
 
-- Supplementary monitoring
-- Setting up monitors and dealing with reflections
-- Technical Ear Training (TET) - defining technical ear training and active listening
+- [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
+- [Calibrating your listening environment](../posts/week-1/calibration/)
+- [Low end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
 
 # Week 2
 
