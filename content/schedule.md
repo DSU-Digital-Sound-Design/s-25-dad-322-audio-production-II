@@ -37,7 +37,9 @@ author: ""
 
 ## Wednesday 1/19
 
-- Recording - One source, no mics
+- [Supplemental Monitoring](../posts/week-2/wednesday)
+- Low end damage limitation
+- From subjection impressions to objective results
 
 ## Friday 1/21
 
