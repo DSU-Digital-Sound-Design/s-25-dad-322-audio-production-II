@@ -43,6 +43,7 @@ author: ""
 
 ### Mix preparation
 
+- discuss hi-passed mix
 - From subjection impressions to objective results
 - Essential groundwork
 - How to organize a mix
