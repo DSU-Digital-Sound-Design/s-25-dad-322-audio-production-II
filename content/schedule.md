@@ -37,7 +37,7 @@ author: ""
 
 ## Wednesday 1/19
 
-- [Supplemental Monitoring](../posts/week-2/wednesday) and low end damage limitation
+- [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
 
 ## Friday 1/21
 

@@ -6,6 +6,8 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 margin = 0.2
 +++
 
+<!-- show_notes = "separate-page" -->
+
 ## Phantom Image
 
 - It doesn't sound the same as point sources from single speakers
