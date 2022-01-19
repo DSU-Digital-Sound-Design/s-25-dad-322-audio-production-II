@@ -37,14 +37,13 @@ author: ""
 
 ## Wednesday 1/19
 
-- [Supplemental Monitoring](../posts/week-2/wednesday)
-- Low end damage limitation
-- From subjection impressions to objective results
+- [Supplemental Monitoring](../posts/week-2/wednesday) and low end damage limitation
 
 ## Friday 1/21
 
 ### Mix preparation
 
+- From subjection impressions to objective results
 - Essential groundwork
 - How to organize a mix
 
