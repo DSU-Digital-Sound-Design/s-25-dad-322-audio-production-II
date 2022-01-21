@@ -43,15 +43,27 @@ author: ""
 
 ### Mix preparation
 
-- discuss hi-passed mix
-- From subjection impressions to objective results
-- Essential groundwork
-- How to organize a mix
+- Mixing resources: [Sound on Sound](https://www.soundonsound.com/), [TapeOp](https://tapeop.com/), [Pensado's Place](https://www.pensadosplace.tv/)
+- [From subjection impressions to objective results](../posts/week-2/friday/)
+  - How to use a reference mix
+  - Setup a folder with all your tracks
+  - Add your reference mix outside of the folder, make sure this track isn't routed through your master if you have any master fx.
+  - Match the loudness with LUFS Meter, use your ears and the meter
+  - Now you can A/B between your reference mix and your own mix
+  - In Reaper use option + command to exclusive solo
+- Essential groundwork - How to organize a mix Lab
+  - Organize Tracks
+    - Pick a good order and use track folders
+  - Colors - color similar tracks the same
+  - Locators - add locators to map different parts of the song
+
+Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song explaining why you picked it.
 
 # Week 3
 
 ## Monday 1/24
 
+- Listen to some of your mix references
 - Timing and tuning adjustments
 
 ## Wednesday 1/26
