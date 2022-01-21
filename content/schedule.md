@@ -56,6 +56,7 @@ author: ""
     - Pick a good order and use track folders
   - Colors - color similar tracks the same
   - Locators - add locators to map different parts of the song
+  - Making and using a track template
 
 Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song explaining why you picked it.
 
