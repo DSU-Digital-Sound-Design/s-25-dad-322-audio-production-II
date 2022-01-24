@@ -66,10 +66,11 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 - Listen to some of your mix references
 - [More organization](../posts/week-3/monday/more-organization/)
-- [Timing adjustments](../posts/week-3/monday/timing-and-tuning/)
+- [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
 ## Wednesday 1/26
 
+- Timing adjustments with tempo stretching
 - Tuning adjustments
 - Comping and arrangement
 
