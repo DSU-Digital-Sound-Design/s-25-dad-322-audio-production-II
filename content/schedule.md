@@ -70,15 +70,15 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 1/26
 
-- Do track silencing and fading
-- Tempo mapping
-- Finish with drum quantization
-- Timing adjustments with tempo stretching
-- Tuning adjustments
-- Comping and arrangement
+- Review
+  - Do track silencing and fading
+  - Tempo mapping
+- [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 ## Friday 1/28
 
+- Tuning adjustments
+- Comping and arrangement
 - Recording - One source, one mic
 - [Project 1](../projects/#project-1) due
 
