@@ -84,9 +84,6 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - item navigation - moving between items
   - waveform size - Shift key plus up arrow.
 - Review drum quantization
-- Recording - One source (Percussion), one mic (ADK S7)
-  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
-  - Quantize them to the beat
 
 # Week 4
 
@@ -94,16 +91,20 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ### Balance
 
+- Recording - One source (Percussion), one mic (ADK S7)
+  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
+  - Quantize them to the beat
 - Tuning adjustments
+  - ReaTune - manual and automatic adjustments
 - Comping and arrangement
 
 ## Wednesday 2/2
 
-- [Project 1](../projects/#project-1) due
 - Building raw balance
 
 ## Friday 2/4
 
+- [Project 1](../projects/#project-1) due
 - Compressing for a reason
 
 # Week 5
