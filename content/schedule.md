@@ -77,10 +77,16 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 1/28
 
-- Tuning adjustments
-- Comping and arrangement
-- Recording - One source, one mic
-- [Project 1](../projects/#project-1) due
+- Reaper Tricks - keyboard shortcuts
+  - Zooming
+  - solo, mute
+  - quantize
+  - item navigation - moving between items
+  - waveform size - Shift key plus up arrow.
+- Review drum quantization
+- Recording - One source (Percussion), one mic (ADK S7)
+  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
+  - Quantize them to the beat
 
 # Week 4
 
@@ -88,15 +94,17 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ### Balance
 
-- Building raw balance
+- Tuning adjustments
+- Comping and arrangement
 
 ## Wednesday 2/2
 
-- Compressing for a reason
+- [Project 1](../projects/#project-1) due
+- Building raw balance
 
 ## Friday 2/4
 
-- TET - compression practice
+- Compressing for a reason
 
 # Week 5
 
