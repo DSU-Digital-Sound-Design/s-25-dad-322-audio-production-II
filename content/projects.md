@@ -10,7 +10,18 @@ author: ""
 
 # Project 1
 
-Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class. The most important thing is that your project is organized.
+Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class.
+
+The project should have the following:
+
+- the correct tempo set so that I can play the metronome with it
+- instruments organized by type and colored, group instruments accordingly
+- silences removed so you can clearly see the arrangement
+- markers at the start of new song sections, verse, chorus, bridge etc.
+- rhythmic quantization if necessary, you may not need to use stretch markers. See what you can do by just aligning off rhythm elements to the grid. Look at the synth bass and see what you can fix there.
+- Perform pitch correction with ReaTune on the lead and background vocals.
+  - Figure out the key of the song. With auto correction work or do you need to do manual correction?
+- align the background vocals to the grid and each other.
 
 # Project 2
 

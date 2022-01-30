@@ -91,12 +91,22 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ### Balance
 
-- Recording - One source (Percussion), one mic (ADK S7)
-  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
-  - Quantize them to the beat
 - Tuning adjustments
   - ReaTune - manual and automatic adjustments
-- Comping and arrangement
+- Show Broken Man mix, start working on this it's due on Friday
+- Vocal alignment
+- Takes and comping
+  - create splits between phrases
+  - choose which phrase you like better between the takes
+  - crop to active take
+  - or make a comp and name it to save the other takes
+  - then we have some comp options
+  - Then check out comp takes actions
+  - Lock to active take
+- Recording - One source (Percussion), one mic (ADK S7)
+  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
+  - We'll record takes so we can comp them together later
+  - Quantize them to the beat
 
 ## Wednesday 2/2
 
