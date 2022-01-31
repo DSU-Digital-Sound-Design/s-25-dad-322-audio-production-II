@@ -91,9 +91,9 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ### Balance
 
+- Show [Broken Man mix](https://mtkdata.cambridgemusictechnology.co.uk/MTK006/SpeakSoftly_BrokenMan_Full.zip), start working on this it's due on Friday
 - Tuning adjustments
   - ReaTune - manual and automatic adjustments
-- Show Broken Man mix, start working on this it's due on Friday
 - Vocal alignment
 - Takes and comping
   - create splits between phrases
