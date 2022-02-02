@@ -14,14 +14,16 @@ Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-new
 
 The project should have the following:
 
-- the correct tempo set so that I can play the metronome with it
-- instruments organized by type and colored, group instruments accordingly
-- silences removed so you can clearly see the arrangement
-- markers at the start of new song sections, verse, chorus, bridge etc.
-- rhythmic quantization if necessary, you may not need to use stretch markers. See what you can do by just aligning off rhythm elements to the grid. Look at the synth bass and see what you can fix there.
-- Perform pitch correction with ReaTune on the lead and background vocals.
-  - Figure out the key of the song. With auto correction work or do you need to do manual correction?
-- align the background vocals to the grid and each other.
+- Organization
+  - The correct tempo so that the transport timeline is in sync with the waveforms
+  - instruments organized by type and colored, group instruments accordingly
+  - markers at the start of new song sections, verse, chorus, bridge etc.
+- Cleaning up audio
+  - silences removed so you can clearly see the arrangement
+  - Rhythmic quantization if necessary. You may not need to use stretch markers. See what you can do by just aligning off rhythm elements to the grid. Look at the synth bass and see what you can fix there.
+  - Perform pitch correction with ReaTune on the lead and background vocals.
+    - Figure out the key of the song. With auto correction work or do you need to do manual correction?
+  - Align the background vocals to the grid and each other.
 
 # Project 2
 

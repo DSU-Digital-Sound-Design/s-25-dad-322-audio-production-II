@@ -95,13 +95,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 - Tuning adjustments
   - ReaTune - manual and automatic adjustments
 - Vocal alignment
-- Takes and comping
-  - create splits between phrases
-  - choose which phrase you like better between the takes
-  - crop to active take
-  - or make a comp and name it to save the other takes
-  - then we have some comp options
-  - Then check out comp takes actions
+  actions
   - Lock to active take
 - Recording - One source (Percussion), one mic (ADK S7)
   - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
@@ -110,7 +104,15 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 2/2
 
-- Building raw balance
+- [Building raw balance](../posts/week-4/balance/)
+- Takes and comping
+  - create splits between phrases
+  - choose which phrase you like better between the takes
+  - crop to active take
+  - or make a comp and name it to save the other takes
+  - then we have some comp options
+  - Then check out comp takes
+- Try again with drum recording
 
 ## Friday 2/4
 
