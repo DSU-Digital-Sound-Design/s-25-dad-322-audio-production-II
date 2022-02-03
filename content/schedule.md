@@ -116,18 +116,24 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 2/4
 
-- [Project 1](../projects/#project-1) due
-- Compressing for a reason
+- [Project 1](../projects/#project-1) due by midnight
+- More mixing of Broken Man
+  - Check balance again, lets try to keep the tracks from peaking
+  - then lets start mixing with the faders, setting them all to -inf dB then bringing them up in order of their importance.
+  - adjusting the faders will actually not keep us from doing volume automation later on. This is an issue with Ableton Live, but not Reaper.
+  - add [panning](../posts/week-4/panning)
+  - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds?
+  - This mix has no instruments that are multi-miked, this provides its own set of issues which we'll cover in other mixes.
 
 # Week 5
 
 ## Monday 2/7
 
-- Equalization for a reason
+- Compressing for a reason
 
 ## Wednesday 2/9
 
-- TET - eq practice
+- Equalization for a reason
 
 ## Friday 2/11
 
