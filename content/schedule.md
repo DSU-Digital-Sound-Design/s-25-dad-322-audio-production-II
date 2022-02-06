@@ -122,37 +122,41 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - then lets start mixing with the faders, setting them all to -inf dB then bringing them up in order of their importance.
   - adjusting the faders will actually not keep us from doing volume automation later on. This is an issue with Ableton Live, but not Reaper.
   - add [panning](../posts/week-4/panning)
-  - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds?
+  - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds? If we do let's narrow their image, especially if those are important elements.
   - This mix has no instruments that are multi-miked, this provides its own set of issues which we'll cover in other mixes.
 
 # Week 5
 
 ## Monday 2/7
 
-- Compressing for a reason
+- Introduce project 2
+- [Compressing for a reason](../posts/week-5/compression/)
 
 ## Wednesday 2/9
 
-- Equalization for a reason
+- More compression settings
+- Limiting
+- Parallel compression
+- More compression practice
 
 ## Friday 2/11
 
-- Beyond equalization
+- Beyond compression - Expansion, gating, transient enhancement
 
 # Week 6
 
 ## Monday 2/14
 
-- Frequency-selective dynamics
+- Equalization for a reason
+- Beyond equalization
 
 ## Wednesday 2/16
 
-- The power of sidechains
+- Frequency-selective dynamics
 
 ## Friday 2/18
 
-- Recording - one source, multiple mics
-- [Project 2](../projects/#project-2) Due
+- The power of sidechains
 
 # Week 7
 
@@ -162,13 +166,14 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 2/23
 
-## Sweetening to taste
-
-- Mixing with reverb
+- Recording - one source, multiple mics
+- [Project 2](../projects/#project-2) Due
 
 ## Friday 2/25
 
-- TET - reverb practice
+## Sweetening to taste
+
+- Mixing with reverb
 
 # Week 8
 
