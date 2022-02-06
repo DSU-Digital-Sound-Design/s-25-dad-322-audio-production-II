@@ -18,10 +18,11 @@ First let's look at [some compression examples](https://cambridge-mt.com/ms/ch9/
 
 Steps:
 
-1. Pick a compressor, i'll use ReaComp or MCompressor.
-2. Set the threshold and makeup gain
-3. Listen for how the track sounds in the mix. Does it sound better or worse? In context of the song, we'll try to back off of the compression to see if we can use less.
-4. Do we need to change the level of any of the media items before they get to the compressor for more consistent inputs?
+1. Before I start, I'm going to offset all of the fader values to the clip gain so that my faders are all at 0 dB. I'm using a script called "X-Raym_Offset selected items volume by their track fader value", which you can get from ReaPack. See [this video](https://youtu.be/gVbMbqGSB7E?t=369) for a description of how to install extensions for Reaper.
+2. Pick a compressor, i'll use ReaComp or MCompressor.
+3. Set the threshold and makeup gain
+4. Listen for how the track sounds in the mix. Does it sound better or worse? In context of the song, we'll try to back off of the compression to see if we can use less.
+5. Do we need to change the level of any of the media items before they get to the compressor for more consistent inputs?
 
 ## Class Lab
 
