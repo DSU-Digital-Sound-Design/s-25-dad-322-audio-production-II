@@ -134,10 +134,12 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 2/9
 
-- More compression settings
+- [More compression settings](../posts/week-5/compression-pt-2/)
 - Limiting
 - Parallel compression
 - More compression practice
+  - Practice with [TET Compression](https://webtet.net/apcl/#/compression) for 15 minutes using one of the recordings from our assignment.
+  - Move onto the assignment where I give you uncompressed and compressed versions of the same recordings. You need to recreate the compressed version of the recordings.
 
 ## Friday 2/11
 
