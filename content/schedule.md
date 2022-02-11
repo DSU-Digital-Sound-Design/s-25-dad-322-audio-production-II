@@ -143,7 +143,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 2/11
 
-- Beyond compression - Expansion, gating, transient enhancement
+- Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
 
 # Week 6
 
