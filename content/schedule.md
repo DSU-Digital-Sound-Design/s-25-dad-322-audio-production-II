@@ -149,15 +149,27 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 2/14
 
-- Equalization for a reason
-- Beyond equalization
+- Introduce [Project 2](../projects/#project-2)
+- Consolidate projects: new projects or projects you've already started
+  - In the project settings "Path to save media files" and call it Audio, or whatever you want
+  - Choose On import of media for new recordings "Copy media to project path"
+  - Save as default project settings
+  - Create a new project and save it, choose "Create a subdirectory for project".
+  - Now whatever files you add will be automatically moved to your "Audio" folder.
+- If you already have a project that isn't consolidated:
+  - Save project as..
+    Then use these settings:
+    ![](../consolidate.png)
+- Catch up on any other assignments
 
 ## Wednesday 2/16
 
-- Frequency-selective dynamics
+- [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
+- Beyond equalization
 
 ## Friday 2/18
 
+- Frequency-selective dynamics
 - The power of sidechains
 
 # Week 7

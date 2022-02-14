@@ -8,7 +8,7 @@ author: ""
 
 <!-- TODO: three major projects based on each part of the mix book -->
 
-# Project 1
+# Project 1 - preliminary mix tasks
 
 Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class.
 
@@ -25,9 +25,26 @@ The project should have the following:
     - Figure out the key of the song. With auto correction work or do you need to do manual correction?
   - Align the background vocals to the grid and each other.
 
-# Project 2
+# Project 2 - balance and dynamics processing
 
-Do a mix of a project from the small [scale projects section](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale)
+Mix of a project from the small [scale projects for building confidence section](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale). **Use only stock Reaper plugins**.
+
+This mix should include:
+
+1. Everything from project 1
+2. High-pass filter every track to remove unwanted low frequencies
+3. Use item gain to adjust the volume of each track so that there is no clipping. Do this before you begin your balancing tasks.
+4. After setting the item gain, set an initial mix balance with the faders.
+5. Pan tracks when necessary, remembering to use the stereo pan mode when panning stereo tracks to adjust the panning and wideness.
+6. Use compression to tame any tracks that are difficult to find stable fader positions for. By reducing their dynamic range, it should be easier to find a place for them in the mix.
+7. Use gating to remove unwanted elements from the mix, especially spill (ex. the snare mic recorded a lot of high hat).
+8. Use transient design to add back in transients that were dulled by compression or sustain to tracks that need it.
+
+A requirement that the mix is listened to in the studio on the mains, the behritone and headphones.
+
+Write about what differences you heard between the different speakers and how you accounted for them.
+
+Turn in your consolidated project file to D2L.
 
 # Project 3
 
