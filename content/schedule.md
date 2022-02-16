@@ -165,7 +165,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Wednesday 2/16
 
 - [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
-- Beyond equalization
+- [Beyond equalization](../posts/week-6/beyond-equalization/)
 
 ## Friday 2/18
 
