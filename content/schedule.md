@@ -181,6 +181,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Wednesday 2/23
 
 - Recording - one source, multiple mics
+- more percussion and other recording
 - [Project 2](../projects/#project-2) Due
 
 ## Friday 2/25
