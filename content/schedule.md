@@ -191,9 +191,11 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Monday 2/28
 
 - Recording day
-  - re-record guitars
-  - add melody: flute, alto saxophone, possibly guitar solo line?
-  - We can do these in takes and comp takes together
+  - Chords
+    - re-record guitars
+    - Deepmind - find a nice setting for chords
+  - melody: flute, alto saxophone, possibly guitar solo line?
+    - We can do these in takes and comp takes together
 
 ## Wednesday 3/2
 
