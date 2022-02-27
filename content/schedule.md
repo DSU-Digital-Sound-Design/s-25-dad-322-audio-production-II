@@ -186,17 +186,21 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 2/25
 
-## Sweetening to taste
-
-- Mixing with reverb
-
 # Week 8
 
 ## Monday 2/28
 
-- Mixing with delays
+- Recording day
+  - re-record guitars
+  - add melody: flute, alto saxophone, possibly guitar solo line?
+  - We can do these in takes and comp takes together
 
 ## Wednesday 3/2
+
+## Sweetening to taste
+
+- Mixing with reverb
+- Mixing with delays
 
 - Stereo enhancements
 
