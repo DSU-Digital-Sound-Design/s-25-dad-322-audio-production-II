@@ -201,28 +201,23 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Sweetening to taste
 
-- Mixing with reverb
-- Mixing with delays
-
-- Stereo enhancements
-
 ## Friday 3/4
 
-- Master-Buss Processing, Automation, and Endgame
+- Mixing with reverb
 
 # Week 9
 
 ## Monday 3/7
 
-- Multiple sources, multiple mics
+- Mixing with delays
 
 ## Wednesday 3/9
 
-- Multiple sources, multiple mics
+- Stereo enhancements
 
 ## Friday 3/11
 
-- Multiple sources, multiple mics
+- Master-Buss Processing, Automation, and Endgame
 
 # Week 10 - Spring break
 
