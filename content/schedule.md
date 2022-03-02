@@ -204,6 +204,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - Flute
   - Piano?
   - Bass solo?
+  - Re-track snare?
 
 ## Sweetening to taste
 
