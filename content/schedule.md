@@ -199,6 +199,12 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 3/2
 
+- More recording
+  - Finish Sax
+  - Flute
+  - Piano?
+  - Bass solo?
+
 ## Sweetening to taste
 
 ## Friday 3/4
