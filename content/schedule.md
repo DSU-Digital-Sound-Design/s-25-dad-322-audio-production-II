@@ -202,20 +202,21 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 - More recording
   - Finish Sax
   - Flute
-  - Piano?
-  - Bass solo?
   - Re-track snare?
 
 ## Sweetening to taste
 
 ## Friday 3/4
 
-- Mixing with reverb
+- Piano?
+- Bell kit
+- Bass solo?
 
 # Week 9
 
 ## Monday 3/7
 
+- Mixing with reverb
 - Mixing with delays
 
 ## Wednesday 3/9
@@ -235,14 +236,18 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Monday 3/21
 
 - work on project 3
+- I'll come around and listen to people's mixes and give critiques
 
 ## Wednesday 3/23
 
 - work on project 3
+- start preparing to teach a lesson
 
 ## Friday 3/25
 
 [Project 3](../projects/#project-3) Due - your mix of the recording project
+
+- Listen to project in class
 
 # Week 12
 
@@ -256,7 +261,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 4/1
 
-- Hip hop mix demo
+- Teach a lesson
 
 # Week 13
 

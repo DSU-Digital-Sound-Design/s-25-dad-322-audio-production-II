@@ -48,8 +48,17 @@ Turn in your consolidated project file to D2L.
 
 # Project 3
 
-- final mix - bringing it all together
-- your mix of our recording project
+Download the project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuWGkmSoIypMuOlPxDGoF08B9JTZjG3xsK0eAJyxHln1lg?e=26PgbD).
+
+Complete all mixing tasks from Projects 1 and 2, but this time for our class song. Make an arrangement out of the parts we recorded. This includes project organization, rhythmic quantization, pitch correction, EQ, balance, panning, dynamics processing and transient design.
+
+The project can include reverb and delay. Those effects will be covered the week of March 7 onward.
+
+It is up to you how long each part goes on for and how many parts are happening at once. Feel free to loop sections or time stretch them. Synthetic material can only be added if it reinforces something already in the mix, such as a kick enhancement or drum trigger. You may record elements to add to the song if you think they're necessary, ex. vocals.
+
+The arrangement should be at least 3 minutes long.
+
+Turn in a consolidated version of the mix file to D2L. If you use plugins that are not stock Reaper plugins they have to be free and cross platform (need to work for Windows and Mac).
 
 # Project 4 - final
 
