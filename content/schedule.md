@@ -216,15 +216,17 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 3/7
 
-- Mixing with reverb
-- Mixing with delays
+- [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
+- The power of sidechains
 
 ## Wednesday 3/9
 
-- Stereo enhancements
+- Mixing with reverb
 
 ## Friday 3/11
 
+- Mixing with delays
+- Stereo enhancements
 - Master-Buss Processing, Automation, and Endgame
 
 # Week 10 - Spring break
