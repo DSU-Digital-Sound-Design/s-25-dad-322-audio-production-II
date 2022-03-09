@@ -204,8 +204,6 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - Flute
   - Re-track snare?
 
-## Sweetening to taste
-
 ## Friday 3/4
 
 - Piano?
@@ -217,17 +215,20 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Monday 3/7
 
 - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
-- The power of sidechains
 
 ## Wednesday 3/9
 
-- Mixing with reverb
+- Look at your grades and redo anything that you need to
+- Finish FSD
+  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
 ## Friday 3/11
 
+- Dynamic Reverb, Layering Reverb, Abbey Road Reverb
+- Reverb in a mix context
+- Types of reverb: halls, plates, springs,
 - Mixing with delays
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
 
 # Week 10 - Spring break
 
@@ -237,6 +238,8 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 3/21
 
+- Stereo enhancements
+- Master-Buss Processing, Automation, and Endgame
 - work on project 3
 - I'll come around and listen to people's mixes and give critiques
 
