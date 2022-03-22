@@ -239,14 +239,12 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 3/21
 
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
 - work on project 3
-- I'll come around and listen to people's mixes and give critiques
 
 ## Wednesday 3/23
 
 - work on project 3
+- I'll come around and listen to people's mixes and give critiques
 - start preparing to teach a lesson
 
 ## Friday 3/25
@@ -259,6 +257,8 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 3/28
 
+- Stereo enhancements
+- Master-Buss Processing, Automation, and Endgame
 - Orchestral mix demo
 
 ## Wednesday 3/30
