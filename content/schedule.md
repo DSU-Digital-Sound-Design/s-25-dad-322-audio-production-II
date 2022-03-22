@@ -221,10 +221,11 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 - Look at your grades and redo anything that you need to
 - Finish FSD
   - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
 ## Friday 3/11
 
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
+- Making an IR??
 - Dynamic Reverb, Layering Reverb, Abbey Road Reverb
 - Reverb in a mix context
 - Types of reverb: halls, plates, springs,
