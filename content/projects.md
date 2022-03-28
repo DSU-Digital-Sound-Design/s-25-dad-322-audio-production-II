@@ -60,6 +60,12 @@ The arrangement should be at least 3 minutes long.
 
 Turn in a consolidated version of the mix file to D2L. If you use plugins that are not stock Reaper plugins they have to be free and cross platform (need to work for Windows and Mac).
 
+# Project 3.5 - Teaching a lesson
+
+Teach a 20 minute lesson on something that we have covered in the class so far. It can be a lecture style presentation with musical examples, or a discussion lead by you, or a more hands on project based lesson. We will leave 5 minutes for questions and to switch between lessons.
+
+Turn in a few sentences about what you want to do for your lesson by Friday 4/1.
+
 # Project 4 - final
 
 individual recording/mixing project

@@ -251,29 +251,30 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 [Project 3](../projects/#project-3) Due - your mix of the recording project
 
-- Listen to project in class
-
 # Week 12
 
 ## Monday 3/28
 
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
-- Orchestral mix demo
+- Talk about teaching a lesson
+- Listen to project in class
 
 ## Wednesday 3/30
 
-- Jazz mix demo
+- Mixing with delays
+- Stereo enhancements
+
+<!-- - Orchestral mix demo
+- Jazz mix demo -->
 
 ## Friday 4/1
 
-- Teach a lesson
+- Master-Buss Processing, Automation, and Endgame
 
 # Week 13
 
 ## Monday 4/4
 
-- Teach a lesson
+- Some other mixing topic
 
 ## Wednesday 4/6
 
@@ -288,6 +289,8 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 Start working on final project
 
 ## Monday 4/11
+
+- Teach a lesson
 
 ## Wednesday 4/13
 
