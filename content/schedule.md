@@ -260,14 +260,15 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Wednesday 3/30
 
-- Mixing with delays
-- Stereo enhancements
+- Back to [reverb](../posts/week-12/reverb/)
 
 <!-- - Orchestral mix demo
 - Jazz mix demo -->
 
 ## Friday 4/1
 
+- Mixing with delays
+- Stereo enhancements
 - Master-Buss Processing, Automation, and Endgame
 
 # Week 13
