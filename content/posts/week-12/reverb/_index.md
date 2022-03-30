@@ -33,14 +33,11 @@ Let's download and install the following reverb plugins:
 - Convolution
   - [MConvolutionEZ](https://www.meldaproduction.com/MConvolutionEZ)
 
-> When working with multiple tracks of the same type, you may want to control the send amounts at the same time. There's no easy way to group these send amounts, but we'll use a different method.
-> Create a new track and call it `Drum Verb`. Move your FX over to that track by clicking the FX icon and dragging with the `option` key held down. Rename your original reverb track to `Drum Verb Send`. Take the `Drum Verb Send` track out of the master parent send by clicking on the routing and unchecking the `Parent send` checkbox. Finally route the `Drum Verb Send` track to the `Drum Verb` track. Now you have a master control over the send levels of all of the drum tracks. Now it's really easy to automate this reverb as a group. Let's try this now.
-
-## Tone and sustain
-
-Let's start with tone and sustain reverbs. These are more more about creatively enhancing the character of the sound. The goal here is not to make the sounds act like their coming from large spaces, but to change the overall tone of the sound. These do not need to sound natural, unlike the blend and size reverbs. Spend some time looking through your reverbs to find the ones that create unique sounds.
+Let's go to [Mike's page](https://cambridge-mt.com/ms/ch16/) for some advice on choosing reverbs and working with them.
 
 ## Size
+
+Let's follow Mike's method for finding a reverb preset for size that sounds good. He uses [this drum sound](https://audio.cambridge-mt.com/MSFTSS/Ch16/MS1601_Preset0Dry.wav) played through different reverbs to compare them.
 
 Find an instrument that could have a larger size in the mix. Use the suggestions from the book to find a good preset for the instrument.
 
@@ -56,3 +53,10 @@ Find an instrument that could have a larger size in the mix. Use the suggestions
 You'll want the most natural sounding reverbs for the blending process. Pay special attention to the predelay settings. Predelay cues us into the size of the room. In a large room the predelay would be longer, because it would take more time for the reflections to reflect and come back to the listener. Generally use a predelay between 10-20ms.
 
 Try to blend like elements. Drums should blend, vocals and back ground vocals, horn sections.
+
+> When working with multiple tracks of the same type, you may want to control the send amounts at the same time. There's no easy way to group these send amounts, but we'll use a different method.
+> Create a new track and call it `Drum Verb`. Move your FX over to that track by clicking the FX icon and dragging with the `option` key held down. Rename your original reverb track to `Drum Verb Send`. Take the `Drum Verb Send` track out of the master parent send by clicking on the routing and unchecking the `Parent send` checkbox. Finally route the `Drum Verb Send` track to the `Drum Verb` track. Now you have a master control over the send levels of all of the drum tracks. Now it's really easy to automate this reverb as a group. Let's try this now.
+
+## Tone and sustain
+
+Let's start with tone and sustain reverbs. These are more more about creatively enhancing the character of the sound. The goal here is not to make the sounds act like their coming from large spaces, but to change the overall tone of the sound. These do not need to sound natural, unlike the blend and size reverbs. Spend some time looking through your reverbs to find the ones that create unique sounds.
