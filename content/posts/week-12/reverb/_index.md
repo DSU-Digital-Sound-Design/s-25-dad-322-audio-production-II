@@ -24,6 +24,7 @@ Let's download and install the following reverb plugins:
   - [PSP PianoVerb](https://www.pspaudioware.com/products/psp-pianoverb)
   - [Valhalla Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
   - [KR-Reverb FS R1.5.0](https://www.kresearch.com/Products/Details/17)
+    - The UI on this looks strange but it sounds really great. Notice the unique "listener position" setting. You can also set the size of the early reflections and tail separately.
   - [Dragonfly Reverb](https://michaelwillis.github.io/dragonfly-reverb/) - [Manual](https://michaelwillis.github.io/dragonfly-reverb/manuals.html)
   - [Riviera: Hyper-room reverb](https://nuspaceaudio.com/2017/02/07/riviera-fast-hybrid-reverb-plugin-for-modeling-high-dimensional-spaces/)
   - [TAL Reverb 2 + 3](https://tal-software.com/products/tal-reverb)
@@ -37,9 +38,19 @@ Let's go to [Mike's page](https://cambridge-mt.com/ms/ch16/) for some advice on 
 
 ## Size
 
-Let's follow Mike's method for finding a reverb preset for size that sounds good. He uses [this drum sound](https://audio.cambridge-mt.com/MSFTSS/Ch16/MS1601_Preset0Dry.wav) played through different reverbs to compare them.
+Let's follow Mike's method for finding a reverb preset for blend/size that sounds good. He uses [this drum sound](https://audio.cambridge-mt.com/MSFTSS/Ch16/MS1601_Preset0Dry.wav) played through different reverbs to compare them. Create a new project and include this sample. Create a reverb bus and send the drum sample through it.
 
 Find an instrument that could have a larger size in the mix. Use the suggestions from the book to find a good preset for the instrument.
+
+> The biggest difference between reverbs designed for blend and size is that where the former is best provided by the earlier reverb reflections, the latter is best created by focusing the effect sound on the remainder of the reverb tail.
+
+I'll try OrilRiver for this. If you could get Sanford or Ambience to work those are also good options. Let's check out the [manual](orilriver-manual.pdf). Lets explore the settings of this reverb.
+
+Try turning off the reverb tail so that you can listen only to the early reflections variations. Adjust the room size parameter to hear the early reflections more. Then do the same with the reverb tail, turning the early reflections off.
+
+Play with the room size parameter. This seems to effect mostly the early reflections.
+
+Try to mimic the first 4 presets that Mike lists on [his site](https://cambridge-mt.com/ms/ch16/).
 
 > - Beware of unnatural-sounding presets, as these will have trouble creating the sound of a larger space convincingly. CPU-light plug-ins will typically sound less natural than more computationally hungry algorithms.
 > - Feel free to ignore the preset names with impunity—the main goal is to try to imagine the space implied by each preset and decide whether it’s the right kind of space for your mix to exist within.
@@ -59,4 +70,4 @@ Try to blend like elements. Drums should blend, vocals and back ground vocals, h
 
 ## Tone and sustain
 
-Let's start with tone and sustain reverbs. These are more more about creatively enhancing the character of the sound. The goal here is not to make the sounds act like their coming from large spaces, but to change the overall tone of the sound. These do not need to sound natural, unlike the blend and size reverbs. Spend some time looking through your reverbs to find the ones that create unique sounds.
+Let's move on to the tone and sustain reverbs. These are more more about creatively enhancing the character of the sound. The goal here is not to make the sounds act like their coming from large spaces, but to change the overall tone of the sound. These do not need to sound natural, unlike the blend and size reverbs. Spend some time looking through your reverbs to find the ones that create unique sounds.

@@ -267,15 +267,17 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Friday 4/1
 
-- Mixing with delays
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
+- Talk about teaching lesson topics
+- Plan lesson dates and times
+- More on [reverb](../posts/week-12/reverb/)
 
 # Week 13
 
 ## Monday 4/4
 
-- Some other mixing topic
+- Mixing with delays
+- Stereo enhancements
+- Master-Buss Processing, Automation, and Endgame
 
 ## Wednesday 4/6
 
