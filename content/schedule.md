@@ -275,9 +275,9 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday 4/4
 
+- Talk about teaching lesson topics and plan lesson dates and times
+- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 - Mixing with delays
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
 
 ## Wednesday 4/6
 
@@ -304,6 +304,9 @@ Start working on final project
 # Week 15
 
 ## Monday 4/18
+
+- Stereo enhancements
+- Master-Buss Processing, Automation, and Endgame
 
 ## Wednesday 4/20
 
