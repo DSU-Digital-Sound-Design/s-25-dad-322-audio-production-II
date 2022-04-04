@@ -282,10 +282,12 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Wednesday 4/6
 
 - Teach a lesson
+- Kinsey, Martin, Carter
 
 ## Friday 4/8
 
 - Teach a lesson
+- Tomas, Guitar god, Angela
 
 # Week 14
 
@@ -294,6 +296,7 @@ Start working on final project
 ## Monday 4/11
 
 - Teach a lesson
+- Sean A, Hanna, Sean T
 
 ## Wednesday 4/13
 
