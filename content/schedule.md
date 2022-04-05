@@ -282,12 +282,16 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 ## Wednesday 4/6
 
 - Teach a lesson
-- Kinsey, Martin, Carter
+  - Kinsey - reverb for a horror movie
+  - Martin - vocal processing
+  - Carter - volume and panning automation
 
 ## Friday 4/8
 
 - Teach a lesson
-- Tomas, Guitar god, Angela
+  - Tomas - modular synthesis
+  - Jason - amp sims
+  - Angela - panning automation with examples
 
 # Week 14
 
@@ -296,7 +300,9 @@ Start working on final project
 ## Monday 4/11
 
 - Teach a lesson
-- Sean A, Hanna, Sean T
+  - Sean A -
+  - Hanna - types of reverb and examples
+  - Sean T -
 
 ## Wednesday 4/13
 
