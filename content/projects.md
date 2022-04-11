@@ -68,4 +68,4 @@ Turn in a few sentences about what you want to do for your lesson by Friday 4/1.
 
 # Project 4 - final
 
-individual recording/mixing project
+Make a recording with at least 15 tracks and mix it using everything we have learned so far in the class. See the specific project requirements listed in the rubric [here](https://docs.google.com/spreadsheets/d/1nYIMVII_1_kSKZnwc59caMSjpjRcNrvCmMJkOqts6kI/edit?usp=sharing).

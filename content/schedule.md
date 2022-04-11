@@ -299,10 +299,11 @@ Start working on final project
 
 ## Monday 4/11
 
+- Introduce final project
 - Teach a lesson
   - Sean A -
   - Hanna - types of reverb and examples
-  - Sean T -
+  - Sean T - Vocal distortion
 
 ## Wednesday 4/13
 
