@@ -295,17 +295,19 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 # Week 14
 
-Start working on final project
+Start working on the final project
 
 ## Monday 4/11
 
-- Introduce final project
+- Introduce the final project
 - Teach a lesson
   - Sean A -
   - Hanna - types of reverb and examples
   - Sean T - Vocal distortion
 
 ## Wednesday 4/13
+
+- Mixing with [Delays](../posts/week-14/delays/)
 
 ## Friday 4/15
 
