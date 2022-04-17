@@ -24,6 +24,8 @@ Creative delay effects:
 - [Soundhack - Delay Bundle](https://www.soundhack.com/freeware/)
 - [Rift Feedback delay](https://www.minimal.audio/products/rift-feedback-lite) - very interesting for comb filtering and tuned feedback
 
+> Download the mixing with delays project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuEB1ZtogCZPg4foIeq3X3IBDKrU6LHAolNgZ2pBtSsRVg?e=dB9Hxj).
+
 ## Tone Delay
 
 Let's use a delay to get a more exciting tone on the acoustic guitar track. First, set up a delay send track. Use the `Full Bucket Brigade Delay` plugin and dial in a simple delay setting with no modulation. Experiment with very short delay time settings to get a comb-filtering effect. Next, add some feedback to intensify the tonal effect of the delay on the guitar track. Also, experiment with adding a bandpass filter on the delay send to filter out some of the harsh effects of the added feedback.
