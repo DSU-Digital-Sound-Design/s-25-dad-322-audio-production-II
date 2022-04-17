@@ -2,7 +2,7 @@
 title: "More on delays"
 ---
 
-In this lesson, we'll look at our project from the reverb lesson and try to replace the reverb effects with delays. But, first, let's listen to [Mike Senior's](https://cambridge-mt.com/ms/ch17/) examples of using delay for blend, size, and overall effects.
+In this lesson, we'll look at our project from the reverb lesson and try to replace the reverb effects with delays.
 
 Many third-party delay plugins have unique features, so we'll spend some time installing some of them and exploring their parameters and presets.
 
