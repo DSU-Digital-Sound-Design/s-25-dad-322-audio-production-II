@@ -317,14 +317,22 @@ Start working on the final project
 
 ## Monday 4/18
 
-- Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
+- Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
+- Look at all these free plugins from [Plugin Alliance](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html)
+- [More delay](../posts/week-15-/more-delays) - third party plugins
 
 ## Wednesday 4/20
 
+- Stereo enhancements
+
 ## Friday 4/22
 
+- Master-Buss Processing, Automation, and Endgame
+- [ABLevelMatching JSFX](https://www.tbproaudio.de/download)
+
 # Week 16
+
+Final project work week. Come in with your recording done and start complete your mix.
 
 ## Monday 4/25
 
