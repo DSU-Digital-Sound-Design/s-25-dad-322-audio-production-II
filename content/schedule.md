@@ -321,6 +321,7 @@ Start working on the final project
 
 ## Wednesday 4/20
 
+- Please upload your project 3 to google drive or a similar service.
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 - Look at all these free plugins from [Plugin Alliance](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html)
 - [More delay](../posts/week-15/more-delays) - third party plugins
