@@ -329,17 +329,18 @@ Start working on the final project
 ## Friday 4/22
 
 - Stereo enhancements
-- Master-Buss Processing, Automation, and Endgame
-- Automation Items
-- [ReaPack additions](https://forum.cockos.com/showthread.php?t=176878)
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
 - Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
-- [ABLevelMatching JSFX](https://www.tbproaudio.de/download)
+  <!-- - [ReaPack additions](https://forum.cockos.com/showthread.php?t=176878) -->
+  <!-- - [ABLevelMatching JSFX](https://www.tbproaudio.de/download) -->
 
 # Week 16
 
 Final project work week. Come in with your recording done and start completing your mix.
 
 ## Monday 4/25
+
+- Automation?
 
 ## Wednesday 4/27
 
