@@ -56,6 +56,6 @@ To compare these plugins, we need to AB them. If we want to compare plugins on t
 
 A straightforward way to do this is to use the SWS Extensions Snapshots feature. You can download these extensions [here](https://www.sws-extension.org/). The snapshots feature allows you to save and load your current track state snapshot. We can save one version with the original plugins and another version with the third-party plugins. We can easily switch between them by clicking `next` or `previous.`
 
-## Automation
+## Reference Mix
 
-## Automation Items
+Finally we need to set up a reference mix to check this against other popular songs. We can add a song, then take it out of the master parent send, so that it's not getting our master fx added to it. Then we send it directly to our speakers, outputs 1-2.
