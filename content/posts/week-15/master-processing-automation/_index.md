@@ -38,6 +38,7 @@ Freeware plugin options:
   - [TDR Kotelnikov (Tokyo Dawn Labs)](https://www.tokyodawn.net/tdr-kotelnikov/) - you may have this from the compressors lesson.
   - [TDR Molotok](https://www.tokyodawn.net/tdr-molotok/) - color compressor
 - Multi-band Compressor
+  - [OTT](https://xferrecords.com/freeware) - a bit aggressive, very good for electronic music. Just use ReaXComp for acoustic music.
 - Limiters
   - [W1 Limiter](http://www.yohng.com/software/w1limit.html) - a clone of, famous, Waves L1.
   - [Limited Z](https://lvcaudio.com/plugins/limited-z/) - many more features.
@@ -47,11 +48,13 @@ Freeware plugin options:
 - All in one - these plugins do a bit of all of the above.
   - bx_masterdesk - included in the bundle.
 
-> Now try to recreate our FX chain but with 3rd party plugins.
+> Now try to recreate our FX chain but with 3rd party plugins. See your settings from the Reaper plugins and figure out how to get the same effect with the 3rd party plugins. Save each of your chains as a FX chain in Reaper.
 
 ## AB
 
-To compare these plugins we need to AB them. A really easy way to do this is to use the SWS Extensions Snapshots feature. You can download these extensions [here](https://www.sws-extension.org/). The snapshots feature allows you to save and load a snapshot of your current track state. With this we can save one version with the original plugins and another version with the third-party plugins. We can then easily switch between them by clicking `next` or `previous.`
+To compare these plugins, we need to AB them. If we want to compare plugins on the same track, they can be toggled on or off using the key command `command + b.`
+
+A straightforward way to do this is to use the SWS Extensions Snapshots feature. You can download these extensions [here](https://www.sws-extension.org/). The snapshots feature allows you to save and load your current track state snapshot. We can save one version with the original plugins and another version with the third-party plugins. We can easily switch between them by clicking `next` or `previous.`
 
 ## Automation
 
