@@ -107,7 +107,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 
 ## Monday
 
-- Pick a different mix
+- [Benjamin John](https://cambridge-mt.com/ms/mtk-newbies/#BenjaminJohn) - this is a possibility
 - Tuning adjustments
   - ReaTune - manual and automatic adjustments
 - Vocal alignment
