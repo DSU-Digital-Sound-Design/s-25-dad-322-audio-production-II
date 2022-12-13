@@ -37,7 +37,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "DAD 322 Audio Production II"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A course at DSU in Audio Productoin"
     owner = "Tate Carson"
     keywords = ""
     copyright = ""

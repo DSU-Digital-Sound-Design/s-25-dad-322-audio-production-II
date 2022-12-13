@@ -1,55 +1,70 @@
 ---
 title: "Schedule"
-date: "2021-01-02"
+date: "2023-1-9"
 author: ""
 ---
 
 {{< toc >}}
 
-# Week 1
+<!-- TODO: Also, Part 3, Understanding the Mix: Developing Listening and Sound-Evaluation Skills; Part Four. Crafting the Mix: Shaping Music and Sound, and Controlling the Recording Process -->
+<!--
+This class will build on the listening and analysis they learned in MUS 109 while adding the practical part of learning to mix.
 
-## Monday 1/10
+Maybe have them read that Moyan article instead? -->
+
+# Week 1 (1/9)
+
+> Read: Eno, Brian (2004). “The studio as a compositional tool.”
+
+## Monday
 
 - Syllabus overview
-- Semester introduction
+- Semester Introduction
 - Finding the textbooks in the library
 - Pick your DAW
 - [Short intro to Reaper](../posts/week-1/reaper-intro/)
 
-## Wednesday 1/12
+> Assignment [wr1 Edison's List](x-devonthink-item://035A534A-FE95-46A8-948D-DA1FA08DF50C)
 
-### Hearing and listening
+## Wednesday
 
 - [Using nearfield monitors](../posts/week-1/monitoring/) - [PDF](../posts/week-1/monitoring/monitoring-slides.pdf)
 - Listen to some of your favorite music and try to understand what you're hearing
 
-## Friday 1/14
+> Reading: Exploring Potential of the Mix: Historical Milestones and Expanded Perspectives
 
+<!--
+## Friday
+
+- Discuss Reading on historical milestones in recording
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
 - [Calibrating your listening environment](../posts/week-1/calibration/)
-- [Low end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
+- [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
 
-# Week 2
+> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
-## Monday 1/17
+# Week 2 (1/16)
 
-- Martin Luther King Jr. Day - no classes
+> Reading: How to Listen, What to Hear by William Moylan (this is a summary of the book "Understanding and Crafting the Mix"
 
-## Wednesday 1/19
+## Monday
+
+- No class - MLK Day
+
+## Wednesday
 
 - [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
+- Mixing Consoles presentation - [Mixing consoles](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=356)
 
-## Friday 1/21
-
-### Mix preparation
+## Friday
 
 - Mixing resources: [Sound on Sound](https://www.soundonsound.com/), [TapeOp](https://tapeop.com/), [Pensado's Place](https://www.pensadosplace.tv/)
 - [From subjection impressions to objective results](../posts/week-2/friday/)
   - How to use a reference mix
   - Setup a folder with all your tracks
-  - Add your reference mix outside of the folder, make sure this track isn't routed through your master if you have any master fx.
-  - Match the loudness with LUFS Meter, use your ears and the meter
-  - Now you can A/B between your reference mix and your own mix
+  - Add your reference mix outside of the folder. Make sure this track isn't routed through your master if you have any master fx.
+  - Match the loudness with LUFS Meter. Use your ears and the meter
+  - Now you can A/B between your reference mix and your mix
   - In Reaper use option + command to exclusive solo
 - Essential groundwork - How to organize a mix Lab
   - Organize Tracks
@@ -58,24 +73,27 @@ author: ""
   - Locators - add locators to map different parts of the song
   - Making and using a track template
 
-Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song explaining why you picked it.
+Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
 
-# Week 3
+# Week 3 (1/23)
 
-## Monday 1/24
+## Monday
 
-- Listen to some of your mix references
 - [More organization](../posts/week-3/monday/more-organization/)
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
-## Wednesday 1/26
+> [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
+
+## Wednesday
 
 - Review
   - Do track silencing and fading
   - Tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-## Friday 1/28
+> Reading: Audio Editing In/and Mixing by Alastair Sims with Jay Hodgson
+
+## Friday
 
 - Reaper Tricks - keyboard shortcuts
   - Zooming
@@ -85,26 +103,25 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - waveform size - Shift key plus up arrow.
 - Review drum quantization
 
-# Week 4
+# Week 4 (1/30)
 
-## Monday 1/31
+## Monday
 
-### Balance
-
-- Show [Broken Man mix](https://mtkdata.cambridgemusictechnology.co.uk/MTK006/SpeakSoftly_BrokenMan_Full.zip), start working on this it's due on Friday
+- Pick a different mix
 - Tuning adjustments
   - ReaTune - manual and automatic adjustments
 - Vocal alignment
   actions
   - Lock to active take
 - Recording - One source (Percussion), one mic (ADK S7)
-  - Use [Groove Pizza](https://apps.musedlab.org/groovepizza) as ideas for recording percussion tracks
-  - We'll record takes so we can comp them together later
-  - Quantize them to the beat
+  - Use backing tracks from Mike Senior's website?
 
-## Wednesday 2/2
+> Read: [Building Raw Balance](x-devonthink-item://4728FAE2-440C-449E-B62F-2D8289F9C122) and answer questions
+
+## Wednesday
 
 - [Building raw balance](../posts/week-4/balance/)
+- [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398)
 - Takes and comping
   - create splits between phrases
   - choose which phrase you like better between the takes
@@ -114,9 +131,9 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - Then check out comp takes
 - Try again with drum recording
 
-## Friday 2/4
+## Friday
 
-- [Project 1](../projects/#project-1) due by midnight
+- [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE) Due by midnight
 - More mixing of Broken Man
   - Check balance again, lets try to keep the tracks from peaking
   - then lets start mixing with the faders, setting them all to -inf dB then bringing them up in order of their importance.
@@ -125,31 +142,38 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
   - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds? If we do let's narrow their image, especially if those are important elements.
   - This mix has no instruments that are multi-miked, this provides its own set of issues which we'll cover in other mixes.
 
-# Week 5
+> Read and respond to questions - [Dynamics and Compressors](x-devonthink-item://27FEB754-E762-4258-982F-52CEC8C93672)
 
-## Monday 2/7
+# Week 5 (2/6)
 
-- Introduce project 2
+## Monday
+
 - [Compressing for a reason](../posts/week-5/compression/)
+- [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
+- [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
 
-## Wednesday 2/9
+> [Editing 3 - Dynamic Range Processing](x-devonthink-item://B94F0128-8D37-4729-9542-E49BF5FD4277)
+
+## Wednesday
 
 - [More compression settings](../posts/week-5/compression-pt-2/)
 - Limiting
 - Parallel compression
 - More compression practice
-  - Practice with [TET Compression](https://webtet.net/apcl/#/compression) for 15 minutes using one of the recordings from our assignment.
-  - Move onto the assignment where I give you uncompressed and compressed versions of the same recordings. You need to recreate the compressed version of the recordings.
 
-## Friday 2/11
+## Friday
 
 - Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
 
-# Week 6
+# Week 6 (2/13)
 
-## Monday 2/14
+## Monday
 
+- Editing 3 - Dynamic Range Processing DUE
 - Introduce [Project 2](../projects/#project-2)
+  - Add details from [Editing 4 - Preparing Stems](x-devonthink-item://DF873DEF-C711-45C4-9739-22D4393022DA) to this project, whichever mix you choose will be used for the following project
+  - Instead of turning in stems, ensure students mix the folder groups like stems.
+  - Also add [stem mixdown](x-devonthink-item://B2DFF06E-5D92-4411-B761-77F3D44A0303) details to the project description.
 - Consolidate projects: new projects or projects you've already started
   - In the project settings "Path to save media files" and call it Audio, or whatever you want
   - Choose On import of media for new recordings "Copy media to project path"
@@ -162,67 +186,71 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
     ![](../consolidate.png)
 - Catch up on any other assignments
 
-## Wednesday 2/16
+> Read: [Equalizing for a reason](x-devonthink-item://83365DAB-2A9F-46C0-9933-0BD669BDFA1D) and turn in response to questions
+
+## Wednesday
 
 - [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
+- [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
+- [equalization notes](x-devonthink-item://F6881B98-DA1E-40A3-AB7A-CEE58F0AEEC1)
 - [Beyond equalization](../posts/week-6/beyond-equalization/)
 
-## Friday 2/18
+> [Editing 2 - Equalization](x-devonthink-item://0850320E-BC6F-48E0-A63E-92A7830F2E62)
 
+## Friday
+
+- [Quiz](x-devonthink-item://D382622D-335D-4FBD-BDC6-763C38F89C16) - Compression and Equalization
 - Frequency-selective dynamics
 - The power of sidechains
 
-# Week 7
+# Week 7 (2/20)
 
-## Monday 2/21
+## Monday
 
-- President's Day - no classes
+- No class - President's Day
 
-## Wednesday 2/23
+## Wednesday
 
 - Recording - one source, multiple mics
-- more percussion and other recording
-- [Project 2](../projects/#project-2) Due
+- more percussion and other recordings
+- Editing 2 - Equalization DUE
 
-## Friday 2/25
+> Reading: Pre-Production in Mixing Mixing in Pre-Production by Dylan Lauzon
 
-# Week 8
+## Friday
 
-## Monday 2/28
+- In class work on project 2, listening to stems
+
+# Week 8 (2/27)
+
+## Monday
 
 - Recording day
-  - Chords
-    - re-record guitars
-    - Deepmind - find a nice setting for chords
-  - melody: flute, alto saxophone, possibly guitar solo line?
-    - We can do these in takes and comp takes together
 
-## Wednesday 3/2
+## Wednesday
 
 - More recording
-  - Finish Sax
-  - Flute
-  - Re-track snare?
 
-## Friday 3/4
+## Friday
 
-- Piano?
-- Bell kit
-- Bass solo?
+- Recording
 
-# Week 9
+# Week 9 (3/6)
 
-## Monday 3/7
+## Monday
 
 - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
+- [Project 2](../projects/#project-2) Due
 
-## Wednesday 3/9
+## Wednesday
 
 - Look at your grades and redo anything that you need to
 - Finish FSD
   - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
 
-## Friday 3/11
+> Introduce Project 3 - mixing our class song - add details from [Mixing with reverb](x-devonthink-item://6DB02ECA-9D0F-4750-9BE7-96A8208A2A3C)
+
+## Friday
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 - Making an IR??
@@ -231,119 +259,97 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 - Types of reverb: halls, plates, springs,
 - Mixing with delays
 
-# Week 10 - Spring break
+# Week 10 (3/13)
 
-- Spring break no classes
+- Spring Break - No Classes
 
-# Week 11
+# Week 11 (3/20)
 
-## Monday 3/21
+## Monday
 
+- Quiz 3 - Mixing strategies details from [Quiz 3](x-devonthink-item://DCA23335-753C-45ED-9F87-C448E2AED96D)
 - work on project 3
 
-## Wednesday 3/23
+## Wednesday
 
 - work on project 3
 - I'll come around and listen to people's mixes and give critiques
 - start preparing to teach a lesson
 
-## Friday 3/25
+## Friday
 
 [Project 3](../projects/#project-3) Due - your mix of the recording project
 
-# Week 12
+# Week 12 (3/27)
 
-## Monday 3/28
+## Monday
 
 - Talk about teaching a lesson
 - Listen to project in class
 
-## Wednesday 3/30
+## Wednesday
 
 - Back to [reverb](../posts/week-12/reverb/)
 
-<!-- - Orchestral mix demo
-- Jazz mix demo -->
-
-## Friday 4/1
+## Friday
 
 - Talk about teaching lesson topics
 - Plan lesson dates and times
 - More on [reverb](../posts/week-12/reverb/)
 
-# Week 13
+# Week 13 (4/3)
 
-## Monday 4/4
+## Monday
 
 - Talk about teaching lesson topics and plan lesson dates and times
 - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 - Mixing with delays
 
-## Wednesday 4/6
+## Wednesday
 
-- Teach a lesson
-  - Kinsey - reverb for a horror movie
-  - Martin - vocal processing
-  - Carter - volume and panning automation
+- Teach lesson
 
-## Friday 4/8
+## Friday
 
-- Teach a lesson
-  - Tomas - modular synthesis
-  - Jason - amp sims
-  - Angela - panning automation with examples
+- No class - Easter Holiday
 
-# Week 14
+# Week 14 (4/10)
 
-Start working on the final project
+## Monday
 
-## Monday 4/11
+- Teach lesson
 
-- Introduce the final project
-- Teach a lesson
-  - Sean A -
-  - Hanna - types of reverb and examples
-  - Sean T - Vocal distortion
+## Wednesday
 
-## Wednesday 4/13
+- Teach lesson
+- Introduce Final - include details from [session documentation](x-devonthink-item://591C32A5-6151-4E86-B31A-582BE582C540)
+
+## Friday
 
 - Mixing with [Delays](../posts/week-14/delays/)
 
-## Friday 4/15
+# Week 15 (4/17)
 
-- Easter Holiday - no classes
-
-# Week 15
-
-## Monday 4/18
-
-- Still easter holiday - no classes
-
-## Wednesday 4/20
+## Monday
 
 - Please upload your project 3 to google drive or a similar service.
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 - Look at all these free plugins from [Plugin Alliance](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html)
 - [More delay](../posts/week-15/more-delays) - third party plugins
 
-## Friday 4/22
+## Wednesday
 
 - Stereo enhancements
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
 - Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
-  <!-- - [ReaPack additions](https://forum.cockos.com/showthread.php?t=176878) -->
-  <!-- - [ABLevelMatching JSFX](https://www.tbproaudio.de/download) -->
 
-# Week 16
 
-Final project work week. Come in with your recording done and start completing your mix.
+## Friday
 
-## Monday 4/25
+- Work day
 
-- Automation?
+# Week 16 (4/24)
 
-## Wednesday 4/27
-
-## Friday 4/29
-
-- Complete the [IDEA Survey](https://sdbor.campuslabs.com/eval-home/direct/3597143)
+> Exam - Monday, May 1st 1 - 3:00 pm
+>
+> -->

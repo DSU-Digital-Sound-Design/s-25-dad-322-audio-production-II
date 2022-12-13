@@ -6,11 +6,9 @@ author: ""
 
 {{< toc >}}
 
-<!-- TODO: three major projects based on each part of the mix book -->
-
 # Project 1 - preliminary mix tasks
 
-Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class.
+<!-- Create a mix of [Broken Man by Speak Softly](https://cambridge-mt.com/ms/mtk-newbies/#SpeakSoftly). Use the techniques we've learned so far in the class.
 
 The project should have the following:
 
@@ -23,7 +21,7 @@ The project should have the following:
   - Rhythmic quantization if necessary. You may not need to use stretch markers. See what you can do by just aligning off rhythm elements to the grid. Look at the synth bass and see what you can fix there.
   - Perform pitch correction with ReaTune on the lead and background vocals.
     - Figure out the key of the song. With auto correction work or do you need to do manual correction?
-  - Align the background vocals to the grid and each other.
+  - Align the background vocals to the grid and each other. -->
 
 # Project 2 - balance and dynamics processing
 
@@ -48,7 +46,7 @@ Turn in your consolidated project file to D2L.
 
 # Project 3
 
-Download the project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuWGkmSoIypMuOlPxDGoF08B9JTZjG3xsK0eAJyxHln1lg?e=26PgbD).
+<!-- Download the project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuWGkmSoIypMuOlPxDGoF08B9JTZjG3xsK0eAJyxHln1lg?e=26PgbD). -->
 
 Complete all mixing tasks from Projects 1 and 2, but this time for our class song. Make an arrangement out of the parts we recorded. This includes project organization, rhythmic quantization, pitch correction, EQ, balance, panning, dynamics processing and transient design.
 
