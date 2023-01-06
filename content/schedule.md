@@ -14,17 +14,14 @@ Maybe have them read that Moyan article instead? -->
 
 # Week 1 (1/9)
 
-> Read: Eno, Brian (2004). “The studio as a compositional tool.”
-
 ## Monday
 
 - Syllabus overview
 - Semester Introduction
-- Finding the textbooks in the library
-- Pick your DAW
+- Finding the textbooks in the [DSU Library](https://library.dsu.edu)
 - [Short intro to Reaper](../posts/week-1/reaper-intro/)
 
-> Assignment [wr1 Edison's List](x-devonthink-item://035A534A-FE95-46A8-948D-DA1FA08DF50C)
+> Assignment [Written Assignment 1 - Edison's List](../assignments/wr1/)
 
 ## Wednesday
 
