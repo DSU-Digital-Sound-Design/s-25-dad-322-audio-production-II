@@ -49,7 +49,7 @@ Prepare a written reply for an in-class discussion:
   Consider the sociocultural changes that accompany these developments, to which degree you are in favor of them, but also in
   which respects you are not.
 
-# 2 Submission format
+# Submission format
 
 Submit a single-page Microsoft Word document named writeup.docx (300 words max.).
 
