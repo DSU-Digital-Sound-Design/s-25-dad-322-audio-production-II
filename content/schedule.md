@@ -30,12 +30,12 @@ Maybe have them read that Moyan article instead? -->
   - the technology of listening
 - Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint.
 
-> Reading: Exploring Potential of the Mix: Historical Milestones and Expanded Perspectives
+> `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
 
 <!--
 ## Friday
 
-- Discuss Reading on historical milestones in recording
+- Discuss Eno reading
 - More Nearfield monitoring setup
   - positioning the speakers, acoustic reflections, room resonances
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
