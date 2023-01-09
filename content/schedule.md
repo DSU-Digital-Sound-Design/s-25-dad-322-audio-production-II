@@ -25,8 +25,10 @@ Maybe have them read that Moyan article instead? -->
 
 ## Wednesday
 
-- [Using nearfield monitors](../posts/week-1/monitoring/) - [PDF](../posts/week-1/monitoring/monitoring-slides.pdf)
-- Listen to some of your favorite music and try to understand what you're hearing
+- Review Edison homework
+- [Hearing and listening + Using nearfield monitors](../posts/week-1/monitoring/) - [PDF](../posts/week-1/monitoring/monitoring-slides.pdf)
+  - the technology of listening
+- Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint.
 
 > Reading: Exploring Potential of the Mix: Historical Milestones and Expanded Perspectives
 
@@ -34,6 +36,8 @@ Maybe have them read that Moyan article instead? -->
 ## Friday
 
 - Discuss Reading on historical milestones in recording
+- More Nearfield monitoring setup
+  - positioning the speakers, acoustic reflections, room resonances
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
 - [Calibrating your listening environment](../posts/week-1/calibration/)
 - [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
