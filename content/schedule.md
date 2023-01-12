@@ -28,21 +28,22 @@ Maybe have them read that Moyan article instead? -->
 - Review Edison homework
 - [Hearing and listening + Using nearfield monitors](../posts/week-1/monitoring/) - [PDF](../posts/week-1/monitoring/monitoring-slides.pdf)
   - the technology of listening
-- Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint.
 
 > `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
 
-<!--
 ## Friday
 
 - Discuss Eno reading
-- More Nearfield monitoring setup
-  - positioning the speakers, acoustic reflections, room resonances
+  - [Recorded lecture on the studio as a compositional tool](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
-- [Calibrating your listening environment](../posts/week-1/calibration/)
 - [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
+- Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint. These might be songs you use for a reference mix later in the semester.
+- A field trip to my office to see how you shouldn't setup your studio.
+  - Listen to some of the same songs and try to hear the deficiencies in my room.
 
-> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
+<!-- - [Calibrating your listening environment](../posts/week-1/calibration/) -->
+
+<!--
 
 # Week 2 (1/16)
 
@@ -56,6 +57,8 @@ Maybe have them read that Moyan article instead? -->
 
 - [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
 - Mixing Consoles presentation - [Mixing consoles](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=356)
+
+> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
 ## Friday
 
