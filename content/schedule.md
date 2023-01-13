@@ -35,6 +35,7 @@ Maybe have them read that Moyan article instead? -->
 
 - Discuss Eno reading
   - [Recorded lecture on the studio as a compositional tool](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
+  - [Questions](../posts/week-1/studio-as-a-compositional-tool/)
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
 - [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
 - Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint. These might be songs you use for a reference mix later in the semester.
