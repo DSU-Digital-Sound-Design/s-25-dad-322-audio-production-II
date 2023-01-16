@@ -48,8 +48,6 @@ author: ""
 - [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
 - Mixing Consoles presentation - [Mixing consoles](../posts/week-2/wednesday/mixers.pdf)
 
-<!-- TODO: review this ^^^ -->
-
 <!--
 ## Friday
 
