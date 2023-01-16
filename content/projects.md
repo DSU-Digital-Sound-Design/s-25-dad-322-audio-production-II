@@ -27,6 +27,10 @@ The project should have the following:
 
 Mix of a project from the small [scale projects for building confidence section](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale). **Use only stock Reaper plugins**.
 
+Or:
+
+Pick one of Caleb's jazz recordings. Download it [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EmJEOi7u24JEu0Ch2EXOc3oB02JyS_hgZ1pqz7rZiJN53Q?e=H6uwM5).
+
 This mix should include:
 
 1. Everything from project 1

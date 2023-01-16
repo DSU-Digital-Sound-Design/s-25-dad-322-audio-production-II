@@ -6,12 +6,6 @@ author: ""
 
 {{< toc >}}
 
-<!-- TODO: Also, Part 3, Understanding the Mix: Developing Listening and Sound-Evaluation Skills; Part Four. Crafting the Mix: Shaping Music and Sound, and Controlling the Recording Process -->
-<!--
-This class will build on the listening and analysis they learned in MUS 109 while adding the practical part of learning to mix.
-
-Maybe have them read that Moyan article instead? -->
-
 # Week 1 (1/9)
 
 ## Monday
@@ -42,13 +36,7 @@ Maybe have them read that Moyan article instead? -->
 - A field trip to my office to see how you shouldn't setup your studio.
   - Listen to some of the same songs and try to hear the deficiencies in my room.
 
-<!-- - [Calibrating your listening environment](../posts/week-1/calibration/) -->
-
-<!--
-
 # Week 2 (1/16)
-
-> Reading: How to Listen, What to Hear by William Moylan (this is a summary of the book "Understanding and Crafting the Mix"
 
 ## Monday
 
@@ -56,11 +44,13 @@ Maybe have them read that Moyan article instead? -->
 
 ## Wednesday
 
+- Listen to students bass references - 20 minutes
 - [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
-- Mixing Consoles presentation - [Mixing consoles](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=356)
+- Mixing Consoles presentation - [Mixing consoles](../posts/week-2/wednesday/mixers.pdf)
 
-> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
+<!-- TODO: review this ^^^ -->
 
+<!--
 ## Friday
 
 - Mixing resources: [Sound on Sound](https://www.soundonsound.com/), [TapeOp](https://tapeop.com/), [Pensado's Place](https://www.pensadosplace.tv/)
@@ -79,6 +69,7 @@ Maybe have them read that Moyan article instead? -->
   - Making and using a track template
 
 Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
+> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
 # Week 3 (1/23)
 

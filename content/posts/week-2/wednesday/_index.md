@@ -8,14 +8,6 @@ margin = 0.2
 
 <!-- show_notes = "separate-page" -->
 
-## Phantom Image
-
-- It doesn't sound the same as point sources from single speakers
-- use StereoTest as demo
-- Madonna's "American Life" - at 45 seconds we hear a hard panned acoustic guitar, then 15 seconds later a hard panned synth. They sound more present than the vocals.
-
----
-
 ## Real-world playback systems
 
 - Monitors don't sound like what we listen to music on for fun
@@ -83,7 +75,7 @@ Tom Elmhirst on working with Adele:
 
 ## Mono compatibility
 
-- we can listen to just one to check hwo it would sound without stereo imaging
+- we can listen to just one to check how it would sound without stereo imaging
 - most listening environments won't have sweet spots that people sit in regularly
 - or acoustic treatment etc
 - headphones are the best place to experience stereo
