@@ -41,4 +41,5 @@ margin = 0.2
 - resources:
   - A list: [Honor Roll](https://www.digido.com/honor-roll/) - hasn't been updated in a while
   - [The Mix Review](https://themixreview.org/) - a good resource
+  - [Best Reference Track For All Genres – Mastering The Mix](https://www.masteringthemix.com/blogs/learn/best-reference-track-for-all-genres)
 - You can't copy the mix, but you can compare

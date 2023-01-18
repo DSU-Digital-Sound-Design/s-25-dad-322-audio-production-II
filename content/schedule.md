@@ -48,27 +48,17 @@ author: ""
 - [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
 - Mixing Consoles presentation - [Mixing consoles](../posts/week-2/wednesday/mixers.pdf)
 
-<!--
 ## Friday
 
+- [Presonus Monitor Station reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)
+- [Supplemental Monitoring](../posts/week-2/wednesday) - Finish talking about SPAN
 - Mixing resources: [Sound on Sound](https://www.soundonsound.com/), [TapeOp](https://tapeop.com/), [Pensado's Place](https://www.pensadosplace.tv/)
 - [From subjection impressions to objective results](../posts/week-2/friday/)
-  - How to use a reference mix
-  - Setup a folder with all your tracks
-  - Add your reference mix outside of the folder. Make sure this track isn't routed through your master if you have any master fx.
-  - Match the loudness with LUFS Meter. Use your ears and the meter
-  - Now you can A/B between your reference mix and your mix
-  - In Reaper use option + command to exclusive solo
-- Essential groundwork - How to organize a mix Lab
-  - Organize Tracks
-    - Pick a good order and use track folders
-  - Colors - color similar tracks the same
-  - Locators - add locators to map different parts of the song
-  - Making and using a track template
+- [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)
 
-Homework: Make a list of two mix references for three styles of music. Turn in the list on d2l. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
-> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
+> Homework: Make a list of six mix references. Your list should represent three styles of music . Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
 
+<!--
 # Week 3 (1/23)
 
 ## Monday
@@ -77,6 +67,7 @@ Homework: Make a list of two mix references for three styles of music. Turn in t
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
 > [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
+> [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
 ## Wednesday
 
