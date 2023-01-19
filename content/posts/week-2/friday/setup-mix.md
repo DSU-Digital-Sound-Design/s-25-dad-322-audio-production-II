@@ -14,9 +14,13 @@ Organize like tracks into folders. Drums will all go into a drums folder. Guitar
 
 Insert markers to delineate song sections using the _M_ shortcut. View all of your markers easily in the _Region/Marker Manager_.
 
-## Clean up the track view
+## Trimming silence
 
-Remove any unwanted audio from the tracks to remove noise and clean up the track view. You can do this by hand or with _Dynamic Split_.
+We're now going to clean up up each track by editing out the silences and sections where other instruments bleed into the mic. We have to listen to each track one by one to do this. It will also help us learn the mix. We should also listen for any imperfection in the recording to try to fix them before we start the mixing.
+
+This process is often called "strip silence" in various DAWs. Follow [this tutorial](https://www.youtube.com/watch?v=T1FIzLPMzRA) to do this in Logic Pro X.
+
+In Reaper this can be done with "Dynamic Split". First, make the track large with "shift + !".Then click "D" to open up the dynamic split dialogue. Select "when gate opens" and "when gate closes". Then change the gate threshold until you reach your desired outcome. It's better to take out less because it can sound really artificial to cut in and out. Try this first on a vocal track.
 
 ## How to use a reference mix
 

@@ -58,24 +58,23 @@ author: ""
 
 > Homework: Make a list of six mix references. Your list should represent three styles of music . Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
 
-<!--
 # Week 3 (1/23)
 
 ## Monday
 
+- Listen to one of each of your mix references
 - [More organization](../posts/week-3/monday/more-organization/)
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
-> [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
 > [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
+<!--
 ## Wednesday
 
-- Review
-  - Do track silencing and fading
-  - Tempo mapping
+- Do quantization with stretch markers?
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
+> [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
 > Reading: Audio Editing In/and Mixing by Alastair Sims with Jay Hodgson
 
 ## Friday
