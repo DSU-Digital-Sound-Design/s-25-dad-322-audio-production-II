@@ -62,6 +62,7 @@ author: ""
 
 ## Monday
 
+- set up mix references in Reaper
 - Listen to one of each of your mix references
 - [More organization](../posts/week-3/monday/more-organization/)
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
