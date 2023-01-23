@@ -20,7 +20,7 @@ Next, delete the empty time so that your timeline starts with the start of the s
 
 Make a tempo map to align things to your drums without having it be a strict grid. Click view and tempo map to see the tempo. Use an instrument that plays on the 1 of a measure to make a tempo map. Now you can use the tempo map to align your tracks to the drums.
 
-To create the sample map, we'll use a few SWS extension actions. Open the actions list and search for _sws grid line_. Find the _SWS/BR: Move closest grid line to play cursor_ action and add a shortcut. Close the actions list and experiment with how this works for a minute. Next, add another short cut to the _SWS/BR: Move closest tempo marker to mouse cursor (perform until shortcut released)_ action. You will use the first action to set your tempo markers, and the second action to edit them if needed.
+To create the sample map, we'll use a few SWS extension actions. Add a maker at the start of each bar while listening to the track. Then use the SWS extension "Convert project markers to tempo markers." This will remove your markers and add tempo changes. Do this before you add organizational markers. Before you move on, remove the stretch markers. We won't be using them this time.
 
 After you make the tempo map you can now edit the drums and other parts to match the real tempo of the song. Group (G) your drum tracks together so you can edit them at the same time. Make sure when you select one item it doesn't select every other item in the group. Next, make sure these options are selected in the options menu:
 

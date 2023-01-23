@@ -72,6 +72,7 @@ author: ""
 <!--
 ## Wednesday
 
+- [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 - Do quantization with stretch markers?
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
