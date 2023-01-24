@@ -69,16 +69,18 @@ author: ""
 
 > [Production Analysis - In-class presentation](x-devonthink-item://E55D27FD-04EA-46ED-9333-3C571EE787B9) - schedule in five minute sections throughout the semester
 
-<!--
 ## Wednesday
 
+<!-- TODO: edit the instructions so that today is finishing the tempo mapping with markers, then drum editing with and without stretch markers -->
+
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
-- Do quantization with stretch markers?
+  - finish tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 > [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
 > Reading: Audio Editing In/and Mixing by Alastair Sims with Jay Hodgson
 
+<!--
 ## Friday
 
 - Reaper Tricks - keyboard shortcuts

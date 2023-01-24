@@ -4,9 +4,13 @@ title: "Drum Editing"
 
 ## With stretch markers
 
-Download these [multi-track drum recordings](https://dakotastateuniversity-my.sharepoint.com/:u:/g/personal/tate_carson_dsu_edu/ESKPQULosVtBkw8LU4tYthMBuK_U4w5S7-GzmA30tjEtvg?e=KjL4Op). Import them into your DAW and set the tempo to 100 bpm. Next, group all of the items together so that editing one track will edit all of them. Copy this project to create an identical project to edit the drums without using stretch markers. It's important to know how to do it with and without stretch markers.
+We'll be using the Hurray For the Riff Raff's _Living in the City_ tracks to learn drum editing. So, make sure you have those loaded up.
 
-Add warp markers to the transients of the snare track. Next, duplicate the kick track and add transients to the duplicated kick track. You have to do this or it will delete your stretch markers from the snare track. Now you can delete the copied kick track. You should now have stretch markers on all your tracks for the kick and snare.
+Next, group all of the items together so that editing one track will edit all of them. Copy this project to create an identical project to edit the drums without using stretch markers. It's important to know how to do it with and without stretch markers.
+
+Add stretch markers to the transients of the snare track. Make sure you select the action "Add stretch markers to selected items and grouped items."
+
+Next, duplicate the kick track and add transients to the duplicated kick track. You have to do this or it will delete your stretch markers from the snare track. Now you can delete the copied kick track. You should now have stretch markers on all your tracks for the kick and snare.
 
 Go through the song and check to see if there are any kick or snare hits that do not have stretch markers on them. You can add them manually in Reaper using "shift + w".
 
@@ -16,7 +20,9 @@ Right click on a kick track, stretch markers -> stretch markers in selected item
 
 ## Without stretch markers
 
-This method doesn't require time stretching, so can be better in some circumstances. Make sure your drums are grouped so we can edit them at the same time. Next, make sure these options are selected in the options menu:
+This method doesn't require time stretching, so can be better in some circumstances.
+
+Make sure your drums are grouped so we can edit them at the same time. Next, make sure these options are selected in the options menu:
 
 - Auto-crossfade media items when editing
 - Trim content behind media items when editing

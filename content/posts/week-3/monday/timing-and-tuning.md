@@ -22,19 +22,4 @@ Make a tempo map to align things to your drums without having it be a strict gri
 
 To create the sample map, we'll use a few SWS extension actions. Add a maker at the start of each bar while listening to the track. Then use the SWS extension "Convert project markers to tempo markers." This will remove your markers and add tempo changes. Do this before you add organizational markers. Before you move on, remove the stretch markers. We won't be using them this time.
 
-After you make the tempo map you can now edit the drums and other parts to match the real tempo of the song. Group (G) your drum tracks together so you can edit them at the same time. Make sure when you select one item it doesn't select every other item in the group. Next, make sure these options are selected in the options menu:
-
-- Auto-crossfade media items when editing
-- Trim content behind media items when editing
-
-Now pick a drum sound that you feel has the most importance. The edits will be in relation to this part. It should probably be the kick or snare. Split it by its transients using "Dynamic split items". Deselect "when get opens" and "when gate closes". Set the transient sensitivity so it selects all of the kicks. Then, set the action to "Split selected and grouped items". Notice how all of your drums are split at the same place as the kick.
-
-If you "split selected and grouped items" then all of your drums will be split based on the snare, or whichever drum you picked. Now do the same process to the other drum, i'll do the kick now. Now quantize your drum group to the grid.
-
-Use the following quanitze settings:
-
-![](../quantize.png)
-
-Go through and check that your crossfades aren't covering up the transients of your kick or snare. Move to each crossfade with "command + ]". If you find a crossfade that's out of place you can move it with the shift key.
-
-Continue this process of quantization to the other instruments in the mix until you can get it to sound as natural as possible, but more metronomic in time.
+Check your tempo map to make sure the tempo markers are in the correct locations.
