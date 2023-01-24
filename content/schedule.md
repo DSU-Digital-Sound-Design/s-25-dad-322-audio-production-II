@@ -77,8 +77,7 @@ author: ""
   - finish tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-> [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE)
-> Reading: Audio Editing In/and Mixing by Alastair Sims with Jay Hodgson
+> Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Monday
 
 <!--
 ## Friday
