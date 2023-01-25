@@ -71,25 +71,20 @@ author: ""
 
 ## Wednesday
 
-<!-- TODO: edit the instructions so that today is finishing the tempo mapping with markers, then drum editing with and without stretch markers -->
-
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
   - finish tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 > Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Monday
 
-<!--
 ## Friday
 
-- Reaper Tricks - keyboard shortcuts
-  - Zooming
-  - solo, mute
-  - quantize
-  - item navigation - moving between items
-  - waveform size - Shift key plus up arrow.
 - Review drum quantization
+  - Answer any questions related to this
+- Do a different [drum edit](../posts/week-3/friday/)
+  - This time with a manual method, leaving more of the original intact
 
+<!--
 # Week 4 (1/30)
 
 ## Monday
