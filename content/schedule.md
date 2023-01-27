@@ -84,22 +84,25 @@ author: ""
 - Do a different [drum edit](../posts/week-3/friday/)
   - This time with a manual method, leaving more of the original intact
 
-<!--
 # Week 4 (1/30)
 
 ## Monday
 
 - [Benjamin John](https://cambridge-mt.com/ms/mtk-newbies/#BenjaminJohn) - this is a possibility
-- Tuning adjustments
+- [Tuning and vocal aligning](../posts/week-4/tuning/)
   - ReaTune - manual and automatic adjustments
-- Vocal alignment
-  actions
-  - Lock to active take
-- Recording - One source (Percussion), one mic (ADK S7)
-  - Use backing tracks from Mike Senior's website?
+  - Vocal Alignment
+  <!-- - Recording - One source (Percussion), one mic (ADK S7)
+  - Use backing tracks from Mike Senior's website? -->
+
+<!-- TODO: add chapter and questions, due Wendesday -->
+<!-- TODO: add place to turn in vocal align -->
 
 > Read: [Building Raw Balance](x-devonthink-item://4728FAE2-440C-449E-B62F-2D8289F9C122) and answer questions
+>
+> Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Friday
 
+<!--
 ## Wednesday
 
 - [Building raw balance](../posts/week-4/balance/)
