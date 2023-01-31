@@ -88,37 +88,25 @@ author: ""
 
 ## Monday
 
-- [Benjamin John](https://cambridge-mt.com/ms/mtk-newbies/#BenjaminJohn) - this is a possibility
 - [Tuning and vocal aligning](../posts/week-4/tuning/)
   - ReaTune - manual and automatic adjustments
   - Vocal Alignment
-  <!-- - Recording - One source (Percussion), one mic (ADK S7)
-  - Use backing tracks from Mike Senior's website? -->
 
-<!-- TODO: add chapter and questions, due Wendesday -->
-<!-- TODO: add place to turn in vocal align -->
-
-> Read: [Building Raw Balance](x-devonthink-item://4728FAE2-440C-449E-B62F-2D8289F9C122) and answer questions
->
 > Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Friday
 
-<!--
 ## Wednesday
+
+- Finish Vocal Alignment - backing vocals
+- Drum recording - One source (Percussion), one mic (ADK S7)
+  - What kind of composition do we want to create?
+  - Create backing tracks for playing to?
+- [Takes and comping](../posts/week-4/takes-comping/)
+
+<!--
+## Friday
 
 - [Building raw balance](../posts/week-4/balance/)
 - [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398)
-- Takes and comping
-  - create splits between phrases
-  - choose which phrase you like better between the takes
-  - crop to active take
-  - or make a comp and name it to save the other takes
-  - then we have some comp options
-  - Then check out comp takes
-- Try again with drum recording
-
-## Friday
-
-- [Editing 1 - Drum Loop](x-devonthink-item://0F3BAC04-9EA1-441D-BBDB-29B59B315FAE) Due by midnight
 - More mixing of Broken Man
   - Check balance again, lets try to keep the tracks from peaking
   - then lets start mixing with the faders, setting them all to -inf dB then bringing them up in order of their importance.
