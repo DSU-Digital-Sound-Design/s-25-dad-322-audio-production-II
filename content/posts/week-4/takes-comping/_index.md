@@ -15,3 +15,5 @@ If we want to be able to compare different comps, we can save the comps instead 
 When you decide on the take you want you should lock your takes so that you don't accidentally chose the wrong take. Do this with _Item properties: Lock to active take (mouse click will not change active take)_.
 
 We can now use these techniques to comp together different takes from our percussion recording.
+
+If we're happy with the take or comp we can collapse the take lanes by selecting _Options: Show all takes in lanes (when room)_ and turning it off.

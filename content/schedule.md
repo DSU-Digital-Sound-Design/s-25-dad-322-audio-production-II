@@ -100,10 +100,20 @@ author: ""
 - Drum recording - One source (Percussion), one mic (ADK S7)
   - What kind of composition do we want to create?
   - Create backing tracks for playing to?
+
+## Friday
+
 - [Takes and comping](../posts/week-4/takes-comping/)
+- [Punching in](../posts/week-4/punching-in/)
+- Let's spend the rest of the class building up enough tracks to be able to mix later in the semester.
+
+<!-- > Read and respond to questions - [Dynamics and Compressors](x-devonthink-item://27FEB754-E762-4258-982F-52CEC8C93672) -->
 
 <!--
-## Friday
+# Week 5 (2/6)
+
+## Monday
+
 
 - [Building raw balance](../posts/week-4/balance/)
 - [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398)
@@ -114,13 +124,6 @@ author: ""
   - add [panning](../posts/week-4/panning)
   - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds? If we do let's narrow their image, especially if those are important elements.
   - This mix has no instruments that are multi-miked, this provides its own set of issues which we'll cover in other mixes.
-
-> Read and respond to questions - [Dynamics and Compressors](x-devonthink-item://27FEB754-E762-4258-982F-52CEC8C93672)
-
-# Week 5 (2/6)
-
-## Monday
-
 - [Compressing for a reason](../posts/week-5/compression/)
 - [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
 - [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
