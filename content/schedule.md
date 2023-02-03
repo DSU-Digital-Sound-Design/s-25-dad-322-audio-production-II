@@ -109,33 +109,33 @@ author: ""
 
 <!-- > Read and respond to questions - [Dynamics and Compressors](x-devonthink-item://27FEB754-E762-4258-982F-52CEC8C93672) -->
 
-<!--
 # Week 5 (2/6)
 
 ## Monday
 
+- [Building raw balance](../posts/week-5/balance/)
+- [Panning](../posts/week-5/panning)
+<!-- - [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398) -->
 
-- [Building raw balance](../posts/week-4/balance/)
-- [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398)
-- More mixing of Broken Man
-  - Check balance again, lets try to keep the tracks from peaking
-  - then lets start mixing with the faders, setting them all to -inf dB then bringing them up in order of their importance.
-  - adjusting the faders will actually not keep us from doing volume automation later on. This is an issue with Ableton Live, but not Reaper.
-  - add [panning](../posts/week-4/panning)
-  - let's not forget to listen to our panning changes in mono with the Behritone! do we loose any sounds? If we do let's narrow their image, especially if those are important elements.
-  - This mix has no instruments that are multi-miked, this provides its own set of issues which we'll cover in other mixes.
-- [Compressing for a reason](../posts/week-5/compression/)
-- [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
-- [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
+> Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. Render any edits you made before starting to balance the mix.
+>
+> - [The 'Mixing Secrets' Free Multitrack Download Library - Suggestions For Newbies!](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale) provides some good suggestions for simple projects to start with. Chose one that has at least 10 tracks.
+>
+> Use [this document](../assignments/stem-mixdown.pdf) as a basis for the assignment
 
-> [Editing 3 - Dynamic Range Processing](x-devonthink-item://B94F0128-8D37-4729-9542-E49BF5FD4277)
+<!--
 
 ## Wednesday
 
+- [Compressing for a reason](../posts/week-5/compression/)
+- [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
+- [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
 - [More compression settings](../posts/week-5/compression-pt-2/)
 - Limiting
 - Parallel compression
 - More compression practice
+
+> [Editing 3 - Dynamic Range Processing](x-devonthink-item://B94F0128-8D37-4729-9542-E49BF5FD4277)
 
 ## Friday
 
