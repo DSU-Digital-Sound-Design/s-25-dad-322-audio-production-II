@@ -107,25 +107,29 @@ author: ""
 - [Punching in](../posts/week-4/punching-in/)
 - Let's spend the rest of the class building up enough tracks to be able to mix later in the semester.
 
-<!-- > Read and respond to questions - [Dynamics and Compressors](x-devonthink-item://27FEB754-E762-4258-982F-52CEC8C93672) -->
-
 # Week 5 (2/6)
 
 ## Monday
 
 - [Building raw balance](../posts/week-5/balance/)
 - [Panning](../posts/week-5/panning)
-<!-- - [Mixing strategies](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=398) -->
+
+## Wednesday
+
+- Intro Mix assignment 1
+- Finish balance on Better way
+  - add HPF
+  - panning
+  - copy fader values to items
+- Drum recording - One source (Percussion), one mic
 
 > Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. Render any edits you made before starting to balance the mix.
 >
 > - [The 'Mixing Secrets' Free Multitrack Download Library - Suggestions For Newbies!](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale) provides some good suggestions for simple projects to start with. Chose one that has at least 10 tracks.
->
-> Use [this document](../assignments/stem-mixdown.pdf) as a basis for the assignment
 
 <!--
 
-## Wednesday
+## Friday
 
 - [Compressing for a reason](../posts/week-5/compression/)
 - [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
@@ -136,9 +140,6 @@ author: ""
 - More compression practice
 
 > [Editing 3 - Dynamic Range Processing](x-devonthink-item://B94F0128-8D37-4729-9542-E49BF5FD4277)
-
-## Friday
-
 - Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
 
 # Week 6 (2/13)
