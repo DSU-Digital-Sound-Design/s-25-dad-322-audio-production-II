@@ -14,7 +14,7 @@ If tracks have too much dynamic range they can stick out of a mix in an unpleasa
 
 First let's look at [some compression examples](https://cambridge-mt.com/ms/ch9/) from the book.
 
-## Compression in Broken man
+## Compression in Better Way
 
 Steps:
 

@@ -127,26 +127,25 @@ author: ""
 >
 > - [The 'Mixing Secrets' Free Multitrack Download Library - Suggestions For Newbies!](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale) provides some good suggestions for simple projects to start with. Chose one that has at least 10 tracks.
 
-<!--
-
 ## Friday
 
 - [Compressing for a reason](../posts/week-5/compression/)
+
+> HW: See the class song I emailed out and write something to add to it.
+
+<!--
+
+# Week 6 (2/13)
+
+## Monday
+
 - [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
 - [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
 - [More compression settings](../posts/week-5/compression-pt-2/)
 - Limiting
 - Parallel compression
 - More compression practice
-
-> [Editing 3 - Dynamic Range Processing](x-devonthink-item://B94F0128-8D37-4729-9542-E49BF5FD4277)
 - Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
-
-# Week 6 (2/13)
-
-## Monday
-
-- Editing 3 - Dynamic Range Processing DUE
 - Introduce [Project 2](../projects/#project-2)
   - Add details from [Editing 4 - Preparing Stems](x-devonthink-item://DF873DEF-C711-45C4-9739-22D4393022DA) to this project, whichever mix you choose will be used for the following project
   - Instead of turning in stems, ensure students mix the folder groups like stems.
@@ -163,6 +162,7 @@ author: ""
     ![](../consolidate.png)
 - Catch up on any other assignments
 
+> [Editing 3 - Dynamic Range Processing](../assignments/dynamic%20range%20processing.pdf)
 > Read: [Equalizing for a reason](x-devonthink-item://83365DAB-2A9F-46C0-9933-0BD669BDFA1D) and turn in response to questions
 
 ## Wednesday
