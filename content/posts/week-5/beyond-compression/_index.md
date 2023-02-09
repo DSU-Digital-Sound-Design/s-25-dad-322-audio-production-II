@@ -28,6 +28,8 @@ Also, turn the gate off and listen to the timbre of the sound. Make sure you are
 
 If we need to we can use the filter section to limit what the gate is hearing. We can click the "preview filter output" check box to hear what we're filtering out.
 
+> Also try to gate the snare tracks.
+
 # Transient Enhancement
 
 Transient design allows us to control the transient and sustain of our sounds independently. In Reaper we can use the "Transient Control" plugin to control transients in our tracks.
@@ -40,6 +42,6 @@ We can try this parallel trick on our snare track as well.
 
 Then let's try it on the room mics. You may want this mic to get more sustain.
 
-Maybe this will help our electronic drum track? What other tracks from the Broken Man mix did we loose transients on when compressing?
+> Can we use transient enhancement on our other mix? I tried smoothing out the picking noise on the solo acoustic guitars and that worked well.
 
 After we add our gating and transient processing where necessary let's rebuild the balance to see if things feel more stable.

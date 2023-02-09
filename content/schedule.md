@@ -134,35 +134,17 @@ author: ""
 
 > HW: See the class song I emailed out and write something to add to it.
 
-<!--
-
 # Week 6 (2/13)
 
 ## Monday
 
-- [Dynamics & compression](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=313)
-- [dynamics and compression notes](x-devonthink-item://AD78CDAE-7CB8-4F3B-9A47-5CBBB7E4A8FA)
 - [More compression settings](../posts/week-5/compression-pt-2/)
+- Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
 - Limiting
 - Parallel compression
 - More compression practice
-- Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
-- Introduce [Project 2](../projects/#project-2)
-  - Add details from [Editing 4 - Preparing Stems](x-devonthink-item://DF873DEF-C711-45C4-9739-22D4393022DA) to this project, whichever mix you choose will be used for the following project
-  - Instead of turning in stems, ensure students mix the folder groups like stems.
-  - Also add [stem mixdown](x-devonthink-item://B2DFF06E-5D92-4411-B761-77F3D44A0303) details to the project description.
-- Consolidate projects: new projects or projects you've already started
-  - In the project settings "Path to save media files" and call it Audio, or whatever you want
-  - Choose On import of media for new recordings "Copy media to project path"
-  - Save as default project settings
-  - Create a new project and save it, choose "Create a subdirectory for project".
-  - Now whatever files you add will be automatically moved to your "Audio" folder.
-- If you already have a project that isn't consolidated:
-  - Save project as..
-    Then use these settings:
-    ![](../consolidate.png)
-- Catch up on any other assignments
 
+<!--
 > [Editing 3 - Dynamic Range Processing](../assignments/dynamic%20range%20processing.pdf)
 > Read: [Equalizing for a reason](x-devonthink-item://83365DAB-2A9F-46C0-9933-0BD669BDFA1D) and turn in response to questions
 
