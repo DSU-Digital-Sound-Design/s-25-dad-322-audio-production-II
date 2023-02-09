@@ -130,6 +130,7 @@ author: ""
 ## Friday
 
 - [Compressing for a reason](../posts/week-5/compression/)
+- Go over your mixing balance projects (if we have time)
 
 > HW: See the class song I emailed out and write something to add to it.
 
