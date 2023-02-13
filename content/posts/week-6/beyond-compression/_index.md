@@ -4,7 +4,7 @@ title: "Beyond Compression"
 
 {{<toc>}}
 
-# Expansion and Gating
+# Gating
 
 We can use gating to do the opposite of compression. We can turn down the quiet sounds that we might not want in our recording. I'll look at the Hurray For the Riff Raff recording and use Gating and dynamic split to clean up the recording.
 

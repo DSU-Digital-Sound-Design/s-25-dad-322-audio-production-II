@@ -138,32 +138,27 @@ author: ""
 
 ## Monday
 
-- Listen to your balance mixes so far. Class critique. 
+- Listen to your balance mixes so far. Class critique.
 - [More compression settings](../posts/week-6/compression-pt-2/)
 - [Compression Lab](../posts/week-6/compression-lab/)
 
-<!--
-
-
 ## Wednesday
 
-- Recording day 
+- Recording day
 
 ## Friday
 
-- Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
+<!-- TODO: show alternative transient design plugins: https://cambridge-mt.com/ms/ch10/
+read tempo drive dynamics section and look at some of the freeware plugins
+download some freeware limiteresr
+-->
+
+- Show alternative compressor plugins
 - Limiting
-- Parallel compression
-- More compression practice
-- [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
-- [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
-- [equalization notes](x-devonthink-item://F6881B98-DA1E-40A3-AB7A-CEE58F0AEEC1)
-- [Beyond equalization](../posts/week-6/beyond-equalization/)
+  - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
+- Beyond compression - [gating, transient enhancement](../posts/week-5/beyond-compression/)
 
-> [Editing 2 - Equalization](x-devonthink-item://0850320E-BC6F-48E0-A63E-92A7830F2E62)
-- Frequency-selective dynamics
-- The power of sidechains
-
+<!--
 # Week 7 (2/20)
 
 ## Monday
@@ -180,6 +175,14 @@ author: ""
 
 ## Friday
 
+- [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
+- [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
+- [equalization notes](x-devonthink-item://F6881B98-DA1E-40A3-AB7A-CEE58F0AEEC1)
+- [Beyond equalization](../posts/week-6/beyond-equalization/)
+
+> [Editing 2 - Equalization](x-devonthink-item://0850320E-BC6F-48E0-A63E-92A7830F2E62)
+- Frequency-selective dynamics
+- The power of sidechains
 - In class work on project 2, listening to stems
 
 # Week 8 (2/27)
