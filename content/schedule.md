@@ -139,9 +139,8 @@ author: ""
 ## Monday
 
 - Listen to your balance mixes so far. Class critique. 
-- [More compression settings](../posts/week-5/compression-pt-2/)
+- [More compression settings](../posts/week-6/compression-pt-2/)
 - [Compression Lab](../posts/week-6/compression-lab/)
-
 
 <!--
 

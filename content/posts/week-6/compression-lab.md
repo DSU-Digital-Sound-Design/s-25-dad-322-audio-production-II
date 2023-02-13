@@ -9,17 +9,17 @@ Let's get some hands on experimenting with balance and compression in your own m
 - Install a few types of compressors and experiment with them
 - [MCompressor](https://www.meldaproduction.com/MCompressor), [RoughRider 3](https://www.audiodamage.com/pages/free-downloads), [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 
+Spend a minute exploring each of these compressor's settings. Look at the documentation if you're unsure of what a parameter does. 
+
 Instructions:
 
-Open the Hurray For the Riff Raff drum editing project we did a few weeks ago. Add ReaComp to the kick drum track. Turn on auto-makeup gain. Set the ratio to 4:1. For every 1 dB of signal we'll decrease the gain by 4 dB. 
-
-The attack setting determine how long the compressor takes to respond to a change in volume. The release setting determines how long the compressor takes to recover from a change in volume.
+Open the Hurray For the Riff Raff drum editing project we did a few weeks ago. Add ReaComp or another compressor to the kick drum track. Turn on auto-makeup gain if the plugin has that setting. Set the ratio to 4:1. For every 1 dB of input signal we'll decrease the gain by 4 dB. 
 
 Now do the same to the other kicks and snares, then the hi-hats.
 
 As you add plugins, check the "Project Media Bay/FX" view to bypass all compressors at once. Use this to hear the cumulative difference.
 
-Now compress your room microphones, but this time with the 1175 Compressor that comes with Reaper. Set the ratio to 4. Adjust the threshold to your liking. with this plugin you have to adjust teh gain manually. Try to get it back to the input level.
+Now compress your room microphones, but this time with the 1175 Compressor that comes with Reaper. You could try one of the new plugins aswell. Set the ratio to 4:1. Adjust the threshold to your liking. With this plugin you have to adjust the gain manually. Try to get it back to the input level.
 
 Finally, group all of the drums in a folder and apply a 1175 compressor to the folder. Notice how extreme parameter settings can have a drastic effect on the timbre of the track.
 
