@@ -138,28 +138,30 @@ author: ""
 
 ## Monday
 
+- Listen to your balance mixes so far. Class critique. 
 - [More compression settings](../posts/week-5/compression-pt-2/)
+- [Compression Lab](../posts/week-6/compression-lab/)
+
+
+<!--
+
+
+## Wednesday
+
+- Recording day 
+
+## Friday
+
 - Beyond compression - [Expansion, gating, transient enhancement](../posts/week-5/beyond-compression/)
 - Limiting
 - Parallel compression
 - More compression practice
-
-<!--
-> [Editing 3 - Dynamic Range Processing](../assignments/dynamic%20range%20processing.pdf)
-> Read: [Equalizing for a reason](x-devonthink-item://83365DAB-2A9F-46C0-9933-0BD669BDFA1D) and turn in response to questions
-
-## Wednesday
-
 - [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
 - [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
 - [equalization notes](x-devonthink-item://F6881B98-DA1E-40A3-AB7A-CEE58F0AEEC1)
 - [Beyond equalization](../posts/week-6/beyond-equalization/)
 
 > [Editing 2 - Equalization](x-devonthink-item://0850320E-BC6F-48E0-A63E-92A7830F2E62)
-
-## Friday
-
-- [Quiz](x-devonthink-item://D382622D-335D-4FBD-BDC6-763C38F89C16) - Compression and Equalization
 - Frequency-selective dynamics
 - The power of sidechains
 
