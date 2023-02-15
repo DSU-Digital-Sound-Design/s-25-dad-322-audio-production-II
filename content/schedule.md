@@ -144,6 +144,7 @@ author: ""
 
 ## Wednesday
 
+- Drum editing projects incomplete
 - Recording day
 
 ## Friday
