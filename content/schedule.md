@@ -149,11 +149,6 @@ author: ""
 
 ## Friday
 
-<!-- TODO: show alternative transient design plugins: https://cambridge-mt.com/ms/ch10/
-read tempo drive dynamics section and look at some of the freeware plugins
-download some freeware limiteresr
--->
-
 - Show alternative compressor plugins
   - [MCompressor](https://www.meldaproduction.com/MCompressor), [RoughRider 3](https://www.audiodamage.com/pages/free-downloads), [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 - Beyond compression - [gating, transient enhancement](../posts/week-5/beyond-compression/)
