@@ -151,7 +151,7 @@ author: ""
 
 - Show alternative compressor plugins
   - [MCompressor](https://www.meldaproduction.com/MCompressor), [RoughRider 3](https://www.audiodamage.com/pages/free-downloads), [TDR Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
-- Beyond compression - [gating, transient enhancement](../posts/week-5/beyond-compression/)
+- Beyond compression - [gating, transient enhancement](../posts/week-6/beyond-compression/)
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 

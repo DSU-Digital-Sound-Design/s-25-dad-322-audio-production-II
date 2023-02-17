@@ -8,6 +8,8 @@ title: "Beyond Compression"
 
 We can use gating to do the opposite of compression. We can turn down the quiet sounds that we might not want in our recording. I'll look at the Hurray For the Riff Raff recording and use Gating and dynamic split to clean up the recording.
 
+> Instead of Gating we can try to use an Expander, which is like a Gate but has a ratio control.
+
 > Useful Reaper hint:
 >
 > - Marquee zoom: cmd + option + right drag. Zooms in on the selected area.
@@ -29,6 +31,10 @@ Also, turn the gate off and listen to the timbre of the sound. Make sure you are
 If we need to we can use the filter section to limit what the gate is hearing. We can click the "preview filter output" check box to hear what we're filtering out.
 
 > Also try to gate the snare tracks.
+
+## Parallel Processed Gated Snare
+
+> Another useful application of this parallel expansion is emphasizing drum transients. Set the expander/gate with a high threshold and fast attack and release times to isolate just a tiny “blip” at the start of each hit, and then mix that back in with the unprocessed sound.
 
 # Transient Enhancement
 
