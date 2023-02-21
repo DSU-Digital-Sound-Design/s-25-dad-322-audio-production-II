@@ -155,7 +155,6 @@ author: ""
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
-<!--
 # Week 7 (2/20)
 
 ## Monday
@@ -164,13 +163,17 @@ author: ""
 
 ## Wednesday
 
+- No class - Blizzard
+
+<!--
+## Friday
+
 - Recording - one source, multiple mics
 - more percussion and other recordings
-- Editing 2 - Equalization DUE
 
-> Reading: Pre-Production in Mixing Mixing in Pre-Production by Dylan Lauzon
+# Week 8 (2/27)
 
-## Friday
+## Monday
 
 - [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
 - [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
@@ -181,12 +184,6 @@ author: ""
 - Frequency-selective dynamics
 - The power of sidechains
 - In class work on project 2, listening to stems
-
-# Week 8 (2/27)
-
-## Monday
-
-- Recording day
 
 ## Wednesday
 
