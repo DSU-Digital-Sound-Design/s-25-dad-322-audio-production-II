@@ -165,12 +165,12 @@ author: ""
 
 - No class - Blizzard
 
-<!--
 ## Friday
 
 - Recording - one source, multiple mics
 - more percussion and other recordings
 
+<!--
 # Week 8 (2/27)
 
 ## Monday
