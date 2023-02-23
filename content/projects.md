@@ -52,6 +52,8 @@ Turn in your consolidated project file to D2L.
 
 <!-- Download the project [here](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/EuWGkmSoIypMuOlPxDGoF08B9JTZjG3xsK0eAJyxHln1lg?e=26PgbD). -->
 
+<!-- Use the rubric here: [DAD 322 Final Project Rubric - Google Sheets](https://docs.google.com/spreadsheets/d/1nYIMVII_1_kSKZnwc59caMSjpjRcNrvCmMJkOqts6kI/edit#gid=1386834576) -->
+
 Complete all mixing tasks from Projects 1 and 2, but this time for our class song. Make an arrangement out of the parts we recorded. This includes project organization, rhythmic quantization, pitch correction, EQ, balance, panning, dynamics processing and transient design.
 
 The project can include reverb and delay. Those effects will be covered the week of March 7 onward.

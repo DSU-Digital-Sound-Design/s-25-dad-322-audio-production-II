@@ -170,27 +170,25 @@ author: ""
 - Recording - one source, multiple mics
 - more percussion and other recordings
 
-<!--
 # Week 8 (2/27)
 
 ## Monday
 
-- [Equalization for a reason](../posts/week-6/equalizing-for-a-reason/)
-- [Filters & eqs](x-devonthink-item://D533C16D-A0AF-4319-ABF5-5FCBA0ECA254?page=267)
-- [equalization notes](x-devonthink-item://F6881B98-DA1E-40A3-AB7A-CEE58F0AEEC1)
-- [Beyond equalization](../posts/week-6/beyond-equalization/)
+- [EQ Slides](../posts/week-8/EQ_slides.pdf)
+- [Equalization for a reason](../posts/week-8/equalizing-for-a-reason/)
 
-> [Editing 2 - Equalization](x-devonthink-item://0850320E-BC6F-48E0-A63E-92A7830F2E62)
-- Frequency-selective dynamics
-- The power of sidechains
-- In class work on project 2, listening to stems
+> [Editing 2 - Equalization](../assignments/eq-lab/)
 
+<!--
 ## Wednesday
 
 - More recording
 
 ## Friday
 
+- [Beyond equalization](../posts/week-6/beyond-equalization/)
+- Frequency-selective dynamics
+- The power of sidechains
 - Recording
 
 # Week 9 (3/6)

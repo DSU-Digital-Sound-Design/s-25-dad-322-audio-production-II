@@ -14,6 +14,8 @@ Listening in mono will help you make these decisions because the stereo field ca
 
 Let's listen to [some examples](https://cambridge-mt.com/ms/ch11/) from the book to hear what we're talking about.
 
+> Spend some time listening to the tracks with EQ and no EQ. Try to hear the instruments that change tone from one to the other.
+
 Just as we did when we first starting building the balance, we'll start EQing the most important parts of the mix, carving space out of each subsequent instrument so we can still hear the important ones.
 
 # Basic EQ tools and techniques
