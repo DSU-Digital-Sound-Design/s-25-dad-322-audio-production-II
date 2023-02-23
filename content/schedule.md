@@ -177,7 +177,7 @@ author: ""
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
 - [Equalization for a reason](../posts/week-8/equalizing-for-a-reason/)
 
-> [Editing 2 - Equalization](../assignments/eq-lab/)
+> [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
 <!--
 ## Wednesday
