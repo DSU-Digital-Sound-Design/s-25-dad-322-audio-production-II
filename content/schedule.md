@@ -172,6 +172,10 @@ author: ""
 
 # Week 8 (2/27)
 
+- Recording all week
+
+# Week 9 (3/6)
+
 ## Monday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
@@ -182,24 +186,12 @@ author: ""
 <!--
 ## Wednesday
 
-- More recording
-
-## Friday
-
 - [Beyond equalization](../posts/week-6/beyond-equalization/)
 - Frequency-selective dynamics
 - The power of sidechains
 - Recording
-
-# Week 9 (3/6)
-
-## Monday
-
 - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
 - [Project 2](../projects/#project-2) Due
-
-## Wednesday
-
 - Look at your grades and redo anything that you need to
 - Finish FSD
   - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
