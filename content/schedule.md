@@ -184,30 +184,15 @@ author: ""
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 > Mixing project - see details on D2L
 
-<!--
 ## Wednesday
 
-- [Beyond equalization](../posts/week-6/beyond-equalization/)
-- Frequency-selective dynamics
-- The power of sidechains
-- Recording
-- [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
-- [Project 2](../projects/#project-2) Due
-- Look at your grades and redo anything that you need to
-- Finish FSD
-  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
-
-> Introduce Project 3 - mixing our class song - add details from [Mixing with reverb](x-devonthink-item://6DB02ECA-9D0F-4750-9BE7-96A8208A2A3C)
+- [Beyond equalization](../posts/week-9/beyond-equalization/)
 
 ## Friday
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
-- Making an IR??
-- Dynamic Reverb, Layering Reverb, Abbey Road Reverb
-- Reverb in a mix context
-- Types of reverb: halls, plates, springs,
-- Mixing with delays
 
+<!--
 # Week 10 (3/13)
 
 - Spring Break - No Classes
@@ -216,47 +201,53 @@ author: ""
 
 ## Monday
 
-- Quiz 3 - Mixing strategies details from [Quiz 3](x-devonthink-item://DCA23335-753C-45ED-9F87-C448E2AED96D)
-- work on project 3
+- listen to project 2
 
 ## Wednesday
 
-- work on project 3
-- I'll come around and listen to people's mixes and give critiques
+- More [reverb](../posts/week-12/reverb/)
 - start preparing to teach a lesson
 
 ## Friday
 
-[Project 3](../projects/#project-3) Due - your mix of the recording project
+- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
 # Week 12 (3/27)
 
 ## Monday
 
+- Mixing with delays
+- Mixing with [Delays](../posts/week-14/delays/)
 - Talk about teaching a lesson
-- Listen to project in class
+- Plan lesson dates and times
 
 ## Wednesday
 
-- Back to [reverb](../posts/week-12/reverb/)
+- [More delay](../posts/week-15/more-delays) - third party plugins
+
 
 ## Friday
 
-- Talk about teaching lesson topics
-- Plan lesson dates and times
-- More on [reverb](../posts/week-12/reverb/)
+- Frequency-selective dynamics
+  - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
+- Finish FSD
+  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
+
+
 
 # Week 13 (4/3)
 
 ## Monday
 
-- Talk about teaching lesson topics and plan lesson dates and times
-- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
-- Mixing with delays
+- Stereo enhancements
+- Talk about teaching lesson topics
+
 
 ## Wednesday
 
-- Teach lesson
+
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
+- Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
 
 ## Friday
 
@@ -266,16 +257,16 @@ author: ""
 
 ## Monday
 
-- Teach lesson
+- Teach lesson - Jacob
 
 ## Wednesday
 
-- Teach lesson
+- Teach lesson - Sam
 - Introduce Final - include details from [session documentation](x-devonthink-item://591C32A5-6151-4E86-B31A-582BE582C540)
 
 ## Friday
 
-- Mixing with [Delays](../posts/week-14/delays/)
+- Teach lesson - Noah
 
 # Week 15 (4/17)
 
@@ -284,18 +275,14 @@ author: ""
 - Please upload your project 3 to google drive or a similar service.
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 - Look at all these free plugins from [Plugin Alliance](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html)
-- [More delay](../posts/week-15/more-delays) - third party plugins
 
 ## Wednesday
 
-- Stereo enhancements
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
-- Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
-
+- Work/recording day
 
 ## Friday
 
-- Work day
+- Work/recording day
 
 # Week 16 (4/24)
 
