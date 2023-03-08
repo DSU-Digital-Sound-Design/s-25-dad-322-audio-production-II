@@ -186,6 +186,7 @@ author: ""
 
 ## Wednesday
 
+- Opportunities: MasterSingers and Cyberology Podcast
 - [Beyond equalization](../posts/week-9/beyond-equalization/)
 
 ## Friday
