@@ -193,7 +193,6 @@ author: ""
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
-<!--
 # Week 10 (3/13)
 
 - Spring Break - No Classes
@@ -204,6 +203,7 @@ author: ""
 
 - listen to project 2
 
+<!--
 ## Wednesday
 
 - More [reverb](../posts/week-12/reverb/)
