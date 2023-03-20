@@ -191,7 +191,7 @@ author: ""
 
 ## Friday
 
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
+- blizzard day
 
 # Week 10 (3/13)
 
@@ -203,12 +203,13 @@ author: ""
 
 - listen to project 2
 
-<!--
 ## Wednesday
 
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 - More [reverb](../posts/week-12/reverb/)
 - start preparing to teach a lesson
 
+<!--
 ## Friday
 
 - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
