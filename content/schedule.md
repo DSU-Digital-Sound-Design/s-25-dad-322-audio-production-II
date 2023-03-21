@@ -205,6 +205,7 @@ author: ""
 
 ## Wednesday
 
+- more listening to project 2
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 - More [reverb](../posts/week-12/reverb/)
 - start preparing to teach a lesson
