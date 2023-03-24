@@ -206,26 +206,24 @@ author: ""
 ## Wednesday
 
 - more listening to project 2
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
-- More [reverb](../posts/week-12/reverb/)
 - start preparing to teach a lesson
 
-<!--
 ## Friday
 
-- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
 # Week 12 (3/27)
 
 ## Monday
 
-- Mixing with delays
-- Mixing with [Delays](../posts/week-14/delays/)
-- Talk about teaching a lesson
-- Plan lesson dates and times
+- More [reverb](../posts/week-12/reverb/)
+- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
 
+<!--
 ## Wednesday
 
+- Mixing with delays
+- Mixing with [Delays](../posts/week-14/delays/)
 - [More delay](../posts/week-15/more-delays) - third party plugins
 
 
