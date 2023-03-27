@@ -216,40 +216,35 @@ author: ""
 
 ## Monday
 
-- More [reverb](../posts/week-12/reverb/)
-- Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
+- Noah project presentation
 
-<!--
+<!--  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
+
 ## Wednesday
 
-- Mixing with delays
-- Mixing with [Delays](../posts/week-14/delays/)
-- [More delay](../posts/week-15/more-delays) - third party plugins
-
+- More [reverb](../posts/week-12/reverb/)
 
 ## Friday
 
+- Mixing with [Delays](../posts/week-14/delays/)
+
+<!--
+not getting to this
 - Frequency-selective dynamics
   - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
 - Finish FSD
-  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir
-
-
+  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir -->
 
 # Week 13 (4/3)
 
 ## Monday
 
 - class presentations
-- Stereo enhancements
-- Talk about teaching lesson topics
-
 
 ## Wednesday
 
 - lesson presentations
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
-- Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
+- [More delay](../posts/week-15/more-delays) - third party plugins
 
 ## Friday
 
@@ -259,16 +254,18 @@ author: ""
 
 ## Monday
 
-- Teach lesson - Jacob
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
+- Introduce Final - include details from [session documentation](x-devonthink-item://591C32A5-6151-4E86-B31A-582BE582C540)
+- Keep coming to class, we'll be listening to each other progress as we go
 
 ## Wednesday
 
-- Teach lesson - Sam
-- Introduce Final - include details from [session documentation](x-devonthink-item://591C32A5-6151-4E86-B31A-582BE582C540)
+- Work on final
 
 ## Friday
 
-- Teach lesson - Noah
+- Work on final
+- Bring recordings in on Monday so we can listen in class
 
 # Week 15 (4/17)
 
