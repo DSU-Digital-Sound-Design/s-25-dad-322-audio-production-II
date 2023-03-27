@@ -240,13 +240,14 @@ author: ""
 
 ## Monday
 
+- class presentations
 - Stereo enhancements
 - Talk about teaching lesson topics
 
 
 ## Wednesday
 
-
+- lesson presentations
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
 - Drum Editing made easy with [MK Slicer](https://forum.cockos.com/showthread.php?p=2436358#post2436358)
 
