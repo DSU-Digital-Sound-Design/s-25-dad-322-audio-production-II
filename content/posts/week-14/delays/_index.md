@@ -2,9 +2,7 @@
 title: "Mixing with delays"
 ---
 
-## Track Manger
-
-The track manager in Reaper can make working with large projects much more manageable. So let's set it up and use it for this project.
+> Let's first listen to [Mike Senior's examples](https://cambridge-mt.com/ms/ch17/) of delay for mixing
 
 ## Delays in Reaper
 
