@@ -272,6 +272,7 @@ author: ""
 
 - Work/recording day
 - I can play on projects or other students in class at this time
+- Or, other topics you want to cover?
 
 ## Wednesday
 
