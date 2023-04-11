@@ -226,10 +226,9 @@ author: ""
 
 ## Friday
 
-- Mixing with [Delays](../posts/week-14/delays/)
-
-<!--
-not getting to this
+- snow day?
+- <!--
+  not getting to this
 - Frequency-selective dynamics
   - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
 - Finish FSD
@@ -244,7 +243,6 @@ not getting to this
 ## Wednesday
 
 - lesson presentations
-- [More delay](../posts/week-15/more-delays) - third party plugins
 
 ## Friday
 
@@ -254,26 +252,26 @@ not getting to this
 
 ## Monday
 
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
-- Introduce Final - include details from [session documentation](x-devonthink-item://591C32A5-6151-4E86-B31A-582BE582C540)
+- No class - Easter Holiday
+
 - Keep coming to class, we'll be listening to each other progress as we go
 
 ## Wednesday
 
-- Work on final
+- Mixing with [Delays](../posts/week-14/delays/)
+- [More delay](../posts/week-15/more-delays) - third party plugins
 
 ## Friday
 
-- Work on final
-- Bring recordings in on Monday so we can listen in class
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
+- Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 # Week 15 (4/17)
 
 ## Monday
 
-- Please upload your project 3 to google drive or a similar service.
-- Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
-- Look at all these free plugins from [Plugin Alliance](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html)
+- Work/recording day
+- I can play on projects or other students in class at this time
 
 ## Wednesday
 
@@ -282,9 +280,20 @@ not getting to this
 ## Friday
 
 - Work/recording day
+- Listen to the recordings we've made for the project
 
 # Week 16 (4/24)
 
+## Monday
+
+- Jacob shows mixing progress
+
+## Wednesday
+
+- Noah shows mixing progress
+
+## Friday
+
+- Sam shows mixing progress
+
 > Exam - Monday, May 1st 1 - 3:00 pm
->
-> -->
