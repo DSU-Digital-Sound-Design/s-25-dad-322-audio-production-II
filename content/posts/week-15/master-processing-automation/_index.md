@@ -25,8 +25,6 @@ We can check the overall perceived loudness of the mix with a loudness meter. Ad
 > Save this chain of effects as a preset. Next, Right-click, then go to `FX Chains -> Save all FX as chain...`
 > We will recreate this FX chain with third-party plugins and compare the results.
 
-> First, get this amazing free bundle from [PA SoundWide](https://www.plugin-alliance.com/en/products/pa-soundwide-bundle.html).
-
 Freeware plugin options:
 
 - EQ
@@ -46,7 +44,7 @@ Freeware plugin options:
 - Loudness Meter
   - [Youlean Loudness Meter 2](https://youlean.co/youlean-loudness-meter/)
 - All in one - these plugins do a bit of all of the above.
-  - bx_masterdesk - included in the bundle.
+  - [PA FREE bx_masterdesk Classic - Plugin Alliance](https://www.plugin-alliance.com/en/products/bx_masterdesk_classic.html)
 
 > Now try to recreate our FX chain but with 3rd party plugins. See your settings from the Reaper plugins and figure out how to get the same effect with the 3rd party plugins. Save each of your chains as a FX chain in Reaper.
 
