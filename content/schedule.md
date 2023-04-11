@@ -227,12 +227,6 @@ author: ""
 ## Friday
 
 - snow day?
-- <!--
-  not getting to this
-- Frequency-selective dynamics
-  - [Frequency-selective dynamics](../posts/week-9/frequency-selective-dynamics/)
-- Finish FSD
-  - Multiband dynamic EQ, ReaXComp - Multiband compressor, ReaFir -->
 
 # Week 13 (4/3)
 
@@ -246,15 +240,13 @@ author: ""
 
 ## Friday
 
-- No class - Easter Holiday
+- No class -- Easter Holiday
 
 # Week 14 (4/10)
 
 ## Monday
 
-- No class - Easter Holiday
-
-- Keep coming to class, we'll be listening to each other progress as we go
+- No class -- Easter Holiday
 
 ## Wednesday
 
