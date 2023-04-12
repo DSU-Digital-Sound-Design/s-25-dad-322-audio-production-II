@@ -250,6 +250,7 @@ author: ""
 
 ## Wednesday
 
+- Practice for a minute with the [WebTet](https://webtet.net/apcl/#/reverberation) ear trainer on reverb and delay.
 - Mixing with [Delays](../posts/week-14/delays/)
 - [More delay](../posts/week-15/more-delays) - third party plugins
 
