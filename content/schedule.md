@@ -256,14 +256,17 @@ author: ""
 
 ## Friday
 
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
+- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
 # Week 15 (4/17)
 
 ## Monday
 
-- Work/recording day
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
+  <!-- - https://www.youtube.com/watch?v=3ncr_aLySF4 -->
+  <!-- https://cambridge-mt.com/ms/ch19/ -->
+- Add some stuff on automation
 - I can play on projects or other students in class at this time
 - Or, other topics you want to cover?
 
