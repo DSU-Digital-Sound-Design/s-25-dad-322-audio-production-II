@@ -26,7 +26,7 @@ Mike Senior also suggests using adding a wide synth pad or noise texture (tape h
 
 ## Adjusting Stereo Spread
 
-Manipulating the stereo spread of a mix is easy with mono recordings. With stereo recordings, narrowing tracks is simple. The difficulty comes when one wants to widen a stereo track. We can have greater control over the width of stereo tracks using MS encoding.
+With stereo recordings, narrowing tracks is simple. The difficulty comes when one wants to _widen a stereo track._ We can have greater control over the width of stereo tracks using MS encoding.
 
 From the book:
 
@@ -41,12 +41,81 @@ Other stereo tools:
 
 ## Static Enhancements
 
+MS processing can only alter what's already there. But, what about _widening mono tracks_?
+
 ### EQ based widening
+
+- duplicate your mono track;
+- pan the original and duplicate tracks to opposite sides of the stereo image;
+- insert an equalizer into the original channel and make any old selection of cuts and boosts;
+- copy that equalizer setting to the duplicate channel, but with the gain settings of the equalizer inverted so that cuts become boosts, and boosts become cuts.
+
+> An EQ setting with lots of small peaks and troughs usually creates a more even feeling of frequency spread, which is why this technique is often associated with graphic EQ
+
+> Nonetheless, I’ve never had particularly good results with basic EQ-based widening for important music parts, because of the way it destabilizes the phantom image and seems to make instruments sound less solid in the mix. Better to save it for incidental parts that suit a more diffuse and background role.
+>
+> -- Mike Senior
 
 ### Comb Filtering
 
+Comb filtering is similar to the previous method, and better for general purpose uses. Comb filtering will create more peaks and troughs than possible with an EQ plug-in.
+
+- Stereo delay send - 20ms delay time
+- no feedback
+- invert the polarity of the return signal’s left channel only
+
+![](invert-phase.png)
+
 ### Haas Delays
+
+Pan a delayed echo of the signal about 30 ms.
+
+> For the widest stereo effect, you should pan the wet
+> and dry sounds to opposite stereo extremes, but I find
+> that most of the best applications for this Haas delay effect
+> are where the wet and dry signals aren’t pushed that far apart.
 
 ### Pitch Shifting
 
-### A Classic Pitch-Shifted Delay Patch
+- duplicate a track and pan hard left and right
+- apply +5/-5 cents pitch shifting to each track
+- ReaPitch can do this without track duplication
+- A variation: Put an LFO on the pitch shift amount for some interesting movement
+
+## Modulated Enhancements
+
+### Auto-panning and Rotary Speaker Emulation
+
+- [Cableguys | PanCake](https://www.cableguys.com/pancake.html)
+- [MAutopan | MeldaProduction](https://www.meldaproduction.com/MAutopan)
+- [Rob Papen RP-PAN (Pan tool, Panning Modulator, Stereo Tool)](https://www.audiopluginsforfree.com/rob-papen-rp-pan/)
+- PanMan - Soundtoys
+
+### Dynamic Tone and Pitch Changes
+
+Modulated tonal changes may provide a more useable stereo enhancement than the static EQ trick we used earlier.
+
+You can try the following as send effects to modulate the left and right channels of a
+
+- Chorusing,
+- flanging,
+- and phasing
+
+Andy Wallace likes this kind of treatment on bass:
+
+> “Not so much as ‘Dig the flange on the bass!’, because I kind of prefer that nobody even knows it’s there. . . . I use that just to open things up a little bit so that everything is not kick, snare, bass right down the middle. Not that there’s anything wrong with that, but sometimes it feels sonically a little more interesting to me.”
+
+Adam Moseley does something similar, but for different reasons:
+
+> “Sometimes the emotional point of the song will be the warmth of it, and you need to have this surrounding warmth come out of the speakers when the first bass note happens. I want it to sound like it’s just come out and put its arms around you, like it’s warm water, or your parent with a warm towel. So even if it was a mono bass . . . I’ll put it into some kind of stereo thing.”
+
+Freeware with l/r out of phase options:
+
+- [Blue Cat's Flanger](https://www.bluecataudio.com/Products/Product_Flanger/) + phaser + chorus
+  - or get the bundle: [Blue Cat's Freeware Plug-ins Pack II](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
+- [GVST - GChorus](https://www.gvst.co.uk/gchorus.htm)
+
+## Stereo Enhancement plugins
+
+- [Wider | Polyverse Music](https://polyversemusic.com/products/wider/)
+- [Stereo Touch - Voxengo](https://www.voxengo.com/product/stereotouch/)
