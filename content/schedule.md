@@ -263,21 +263,22 @@ author: ""
 
 ## Monday
 
-- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation), and Endgame
-  <!-- - https://www.youtube.com/watch?v=3ncr_aLySF4 -->
-  <!-- https://cambridge-mt.com/ms/ch19/ -->
-- Add some stuff on automation
-- I can play on projects or other students in class at this time
-- Or, other topics you want to cover?
+- [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
+  - bus processing techniques and concepts
 
 ## Wednesday
 
+- Automation and rides
+  - [Mike Senior Video](https://video.cambridge-mt.com/CMTPatrons_MSFTSSWorkflowDemoCh19b_HD.mp4)
+  - also look at his final mix with the automation drawn in
 - Work/recording day
 
 ## Friday
 
+- Watch mastering video:
+  - [(148) Mastering Kendrick Lamar's 'HUMBLE' with Mike Bozzi - YouTube](https://www.youtube.com/watch?v=PBcAwVrX5GQ)
+  - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
 - Work/recording day
-- Listen to the recordings we've made for the project
 
 # Week 16 (4/24)
 
