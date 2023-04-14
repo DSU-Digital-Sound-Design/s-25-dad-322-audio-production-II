@@ -271,6 +271,7 @@ author: ""
 - Automation and rides
   - [Mike Senior Video](https://video.cambridge-mt.com/CMTPatrons_MSFTSSWorkflowDemoCh19b_HD.mp4)
   - also look at his final mix with the automation drawn in
+  - [Automations & Transitions: Take Your Mix to the Next Level - Marc Daniel Nelson](https://www.youtube.com/watch?v=123mrzYiBj8)
 - Work/recording day
 
 ## Friday
