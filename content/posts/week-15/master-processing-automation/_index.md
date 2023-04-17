@@ -2,6 +2,8 @@
 title: "Finishing a mix"
 ---
 
+Mike senior listening examples: [Chapter 19: Master-buss Processing, Automation, & Endgame](https://cambridge-mt.com/ms/ch19/)
+
 ## Master Buss Processing - General Concepts
 
 It's common to add processing on our master bus to create a more combined sound. This can be a challenging process to take care not to undo your decisions in the mixing process.
