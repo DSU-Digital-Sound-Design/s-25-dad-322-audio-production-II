@@ -2,32 +2,32 @@
 title: "Finishing a mix"
 ---
 
-## Master Bus Processing - general concepts
+## Master Buss Processing - General Concepts
 
-It's common to add processing on our master bus to create a more combined sound. This can be a challenging process that takes care not to undo your decisions in the mixing process.
+It's common to add processing on our master bus to create a more combined sound. This can be a challenging process to take care not to undo your decisions in the mixing process.
 
 ### Compression
 
 Compression is one of the most common processors on the master.
 
-Some uses:
+Below are some uses for master buss compression:
 
-- It introduces some level interaction between different parts in your mix by ducking quiet signals slightly in response to louder ones, and in doing so it gives a feeling that the mix coheres better. It’s common to hear engineers talk of master-buss compression “gluing the mix together” on account of this.
+- It introduces some level of interaction between different parts in your mix by ducking quiet signals slightly in response to louder ones, and in doing so it gives a feeling that the mix coheres better. It’s common to hear recording engineers talk of master-buss compression “gluing the mix together” on account of this.
 - It can create pumping effects that add a subjective sense of loudness and aggression, which suits certain music genres, especially rock music.
 - By boosting lower-level signals, it draws more attention to internal mix details and generally makes the music seem more emotionally engaging.
 - If a characterful compressor is used, then it may subjectively enhance some
   aspects of the mix—for example, by adding subtle distortion artifacts at certain frequencies.
 - Some engineers feel that it reduces the negative side effects of down-the-line
-  mastering or transmission compression. Here’s Andy Wallace, for example: “A long time ago, I learned that [radio compression] was seriously changing how the low end sounded and the balance . . . That’s when I really started experimenting with a substantial amount of stereo compression. And I found that if I had something compressed ahead of time and was happy with the sound of it, the additional compression from the radio station had less effect.”
+  mastering or transmission compression. Here’s Andy Wallace, for example “A long time ago, I learned that [radio compression] was seriously changing how the low end sounded and the balance . . . That’s when I really started experimenting with a substantial amount of stereo compression. And I found that if I had something compressed ahead of time and was happy with the sound of it, the additional compression from the radio station had less effect.”
 - It evens out the dynamics of the entire mix signal, increasing the production’s average levels so that it appears louder at a given metered peak level.
 
 Concepts:
 
-> Master-buss compression simply for the purposes of “mix glue” rarely uses more than about 2 to 3dB of gain reduction at most. Where you want to keep transient smoothing and pumping artifacts to a minimum, you’ll likely want to rely on a slow attack time and automatic release time, whereas faster release time settings will tend to draw out more of the mix details. Ratios over 2:1 are unlikely to be useful in these cases, and you may discover that ratios as low as 1.1:1 may be more appropriate, depending on the musical style. If you’re looking for more aggressive pumping compression, however, then you might even see 8dB of gain reduction on peaks, with faster attack/release times and higher ratios. Lee DeCarlo also recommends one important refinement: “I’ll play with the release and the attack times until I can actually make that limiter pump in time with the music.”
+> Master-buss compression simply for the purposes of “mix glue” rarely uses more than about 2 to 3 dB of gain reduction at most. Where you want to keep transient smoothing and pumping artifacts to a minimum, you’ll likely want to rely on a **slow attack time and automatic release time**, whereas **faster release time settings will tend to draw out more of the mix details**. Ratios over 2:1 are unlikely to be useful in these cases, and you may discover that ratios as low as 1.1:1 may be more appropriate, depending on the musical style. If you’re looking for more **aggressive pumping compression**, however, then you might even see **8 dB of gain reduction on peaks, with faster attack/release times and higher ratios.** Lee DeCarlo also recommends one important refinement: “I’ll play with the release and the attack times until I can actually make that limiter pump in time with the music.”
 
 Watch out for these common side effects of compression on the master:
 
-- _Loss of attack on prominent transients, such as kick and snare drums._ Suggested remedies: reduce gain reduction; increase attack time; reduce ratio; adjust knee softness; switch level-detection mode from peak to average (RMS); select a different compressor design.
+- _Loss of attack on prominent transients, such as kick and snare drums._ Suggested remedies: reduce gain reduction; increase attack time; reduce the ratio; adjust knee softness; switch level-detection mode from peak to average (RMS); select a different compressor design.
 - _Excessive gain pumping._ Suggested remedies: reduce gain reduction; adjust release time or switch to automatic mode; apply low-frequency EQ cut in the level-detection side-chain; select a different compressor design.
 - _Unwanted distortion._ Suggested remedies: lengthen attack and release times; adjust knee softness; select a different compressor design.
 - _Loss of weight on instruments with low-end transients, such as kick drums._ Suggested remedies: reduce gain reduction; lengthen attack time; apply low- frequency EQ cut in the level-detection side-chain; adjust knee softness; select a different compressor design.
@@ -40,7 +40,7 @@ If you can't hear these side effects follow advice from Andy Wallace:
 
 ### Equalization
 
-Use EQ on the master If you've gotten to the end of the process and decide that the overall tone of your mix needs a bit of tweaking. You should add this after any compression.
+Use EQ on the master if you've gotten to the end of the process and decide that the overall tone of your mix needs a bit of tweaking. You should add this after any compression.
 
 Spike Stent explains the rationale here:
 
@@ -49,19 +49,19 @@ Spike Stent explains the rationale here:
 ### Stereo Manipulation
 
 - Multi-band MS processing
-- Or other techniques we covered in there width lesson
+- Or other techniques we covered in the width lesson
 
 ### "Special Sauces"
 
 Coloristic things to try:
 
 - distortion techniques
-- analogue, tube, classic mix consoles or historic tape machines
+- analog, tube, classic mix consoles or historical tape machines
 
 ### General Considerations for Master-buss Processing
 
-- never try to completely finalize all your mix settings before getting your choice of master-buss processing involved
-- Top down vs bottom up
+- never try to finalize all your mix settings before getting your choice of master-buss processing involved
+- Top down vs. bottom up
 
 > “Why would you wait till the end?" asks Jaycen Joshua. “You want to hear what it’s doing immediately. If you wait to the end, it’s going to change your mix completely.”
 
@@ -69,10 +69,10 @@ Coloristic things to try:
 
 ### Suggested Processing Strategies
 
-- _Full-band “top-down” squeeze_. This is where you attempt to gently squeeze a large section of a signal’s dynamic range, using very low-ratio compression operating above a low threshold level, such that subtle compression is happening almost all the time. As long as gain reduction is kept within 3dB or so, it’s usually possible to keep pumping artifacts relatively benign by adjusting attack/release times by ear. Potential side effects include undue emphasis of low-level details such as background sounds, reverb/delay effects, and incidental noises; unwanted overall level increases during sections with sparser arrangement; and reduction in transient definition.
+- _Full-band “top-down” squeeze_. This is where you attempt to gently squeeze a large section of a signal’s dynamic range, using very low-ratio compression operating above a low threshold level, such that subtle compression is happening almost all the time. As long as gain reduction is kept within 3 dB or so, it’s usually possible to keep pumping artifacts relatively benign by adjusting attack/release times by ear. Potential side effects include undue emphasis of low-level details such as background sounds, reverb/delay effects, and incidental noises; unwanted overall level increases during sections with sparser arrangement; and reduction in transient definition.
 - _Full-band “bottom-up” squeeze_. A similar approach as in the top-down squeeze, except that the dynamic range below the compressor’s threshold is targeted. There are specialist processors for this purpose (called upward compressors or de-expanders), but you can also achieve much the same effect using subtle full-band parallel compression. Potential side effects are akin to those of top-down squeeze—transient definition tends to suffer less, but you get less peak control and an increased likelihood of unwanted overall level increases during sparser arrangement sections.
 - _Full-band limiting._ This is usually a much faster-acting gain reduction designed to stop signal peaks dead, while leaving the remainder of the dynamic range comparatively unscathed. In some types of music, an intelligently designed peak limiter can achieve a peak reduction of several decibels before audible problems start arising. Potential side effects include pumping, bass distortion, softening of transients, and reduction of apparent drum levels.
-- _Multiband compression/limiting._ Using a multiband configuration for any of the three dynamics processes I’ve just described gives you additional scope for dynamic-range reduction before pumping artifacts impinge on your enjoyment of the music. However, pumping is only one of the potential side effects of compression-based loudness enhancement, and if you use multi- band processing to increase the amount of gain reduction, then you can eas- ily end up with greater side effects in terms of mix-balance alteration and transient softening. Any multiband approach also adds further problems of its own: because the amount of gain-reduction in each frequency band will depend on the overall level of frequencies within it, changes in the spectral content of the mix (perhaps as a result of alterations in the instrumentation) can trigger unwanted changes in the overall mix tonality as the compression/limiting adjusts its gain-reduction—it can be almost as if some maniac were randomly tweaking an EQ over your whole mix in real time. There are also engineers who feel that multiband gain reduction drains the life out of a production by ironing out the tonal contrasts between its musical sections.
+- _Multiband compression/limiting._ Using a multiband configuration for any of the three dynamics processes I’ve just described gives you additional scope for dynamic-range reduction before pumping artifacts impinge on your enjoyment of the music. However, pumping is only one of the potential side effects of compression-based loudness enhancement, and if you use multi-band processing to increase the amount of gain reduction, then you can easily end up with greater side effects in terms of mix-balance alteration and transient softening. Any multiband approach also adds further problems of its own: because the amount of gain-reduction in each frequency band will depend on the overall level of frequencies within it, changes in the spectral content of the mix (perhaps as a result of alterations in the instrumentation) can trigger unwanted changes in the overall mix tonality as the compression/limiting adjusts its gain-reduction—it can be almost as if some maniac were randomly tweaking an EQ over your whole mix in real time. There are also engineers who feel that multiband gain reduction drains the life out of a production by ironing out the tonal contrasts between its musical sections.
 - _Subtle distortion_. By adding distortion harmonics to a mixed signal, you can increase its harmonic density and apparent loudness with very little increase in its peak signal levels. Subtle valve, tape, and transformer distortions are all options here, and if you need greater control over the exact nature of the harmonics additions, then parallel or frequency-selective configurations may be appropriate. Potential side effects include fatiguing tonal harshness, emphasized vocal sibilance, increase in the apparent level of treble percussion instruments in the balance, veiling of midrange details, and unwanted overall changes to the mix tonality.
 - _Clipping._ Yes, clipping—whether it’s straight digital-style flat topping of the waveform peaks or some kind of modeled analog saturation that rounds them off more smoothly. You can find any number of textbooks that threaten hellfire and brimstone should you dare abuse your full mix in this way, but such admonitions are at odds with widespread commercial practice—examine the waveforms of the top 40 singles any week of the year and you’ll see clipping in abundance. The advantage of clipping as I see it is that it doesn’t seem to affect the subjective attack or balance of prominent drum parts as much as peak limiting, so it tends to suit styles with hard-hitting rhythm parts. Potential side effects include subjective tonal change of clipped peaks and unwanted distortion on more steady-state signal waveforms, although this may be disguised to some extent by distorted instruments, such as electric guitars, within the music itself. (For a particularly striking example of this tactic, check out the Imagine Dragons single “Radioactive.”)
 
@@ -100,7 +100,7 @@ Next, let's add a multi-band compressor. In Reaper, that's `ReaXComp.` Start wit
 
 Finally, link each threshold together, so they all move simultaneously. For example, touch the threshold of the second band, go to Param -> Parameter Modulation / MIDI Link -> Link from MIDI or fx parameter, then select the threshold of the first band. Go through and link each other band to the first band. Finally, adjust the threshold to get a slight gain reduction across the bands.
 
-Your master is probably clipping now. To fix this, we'll add a mastering limiter, `ReaLimit.` This will turn down only the peaks, so we don't clip. Then, finally, change the `Brickwall ceiling` to adjust the final mix level. Here a lower threshold will make the mix sound louder, raising the level of the quieter parts to match the louder parts.
+Your master is probably clipping now. To fix this, we'll add a mastering limiter. `ReaLimit.` This will turn down only the peaks, so we don't clip. Then, finally, change the `Brickwall ceiling` to adjust the final mix level. Here a lower threshold will make the mix sound louder, raising the level of the quieter parts to match the louder parts.
 
 We can check the overall perceived loudness of the mix with a loudness meter. Add the `Loudness Meter Peak/RMS/LUFS` JS plugin to the master track. A good target LUFS-I value is -10 LUFS. Click on the meters to make them reset after you've changed other parameters.
 
@@ -160,4 +160,4 @@ A straightforward way to do this is to use the SWS Extensions Snapshots feature.
 
 ## Reference Mix
 
-Finally we need to set up a reference mix to check this against other popular songs. We can add a song, then take it out of the master parent send, so that it's not getting our master fx added to it. Then we send it directly to our speakers, outputs 1-2.
+Finally, we need to set up a reference mix to check this against other popular songs. We can add a song, then take it out of the master parent send, so that it's not getting our master fx added to it. Then we send it directly to our speakers, outputs 1-2.
