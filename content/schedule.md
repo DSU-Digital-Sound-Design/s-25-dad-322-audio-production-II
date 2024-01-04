@@ -1,12 +1,11 @@
 ---
 title: "Schedule"
 date: "2023-1-9"
-author: ""
 ---
 
 {{< toc >}}
 
-# Week 1 (1/9)
+# Week 1 (1/8)
 
 ## Monday
 
@@ -25,7 +24,7 @@ author: ""
 
 > `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
 
-## Friday
+<!-- ## Friday
 
 - Discuss Eno reading
   - [Recorded lecture on the studio as a compositional tool](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
@@ -36,7 +35,7 @@ author: ""
 - A field trip to my office to see how you shouldn't setup your studio.
   - Listen to some of the same songs and try to hear the deficiencies in my room.
 
-# Week 2 (1/16)
+# Week 2 (1/15)
 
 ## Monday
 
@@ -58,7 +57,7 @@ author: ""
 
 > Homework: Make a list of six mix references. Your list should represent three styles of music . Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
 
-# Week 3 (1/23)
+# Week 3 (1/22)
 
 ## Monday
 
@@ -84,7 +83,7 @@ author: ""
 - Do a different [drum edit](../posts/week-3/friday/)
   - This time with a manual method, leaving more of the original intact
 
-# Week 4 (1/30)
+# Week 4 (1/29)
 
 ## Monday
 
@@ -107,7 +106,7 @@ author: ""
 - [Punching in](../posts/week-4/punching-in/)
 - Let's spend the rest of the class building up enough tracks to be able to mix later in the semester.
 
-# Week 5 (2/6)
+# Week 5 (2/5)
 
 ## Monday
 
@@ -134,7 +133,7 @@ author: ""
 
 > HW: See the class song I emailed out and write something to add to it.
 
-# Week 6 (2/13)
+# Week 6 (2/12)
 
 ## Monday
 
@@ -155,7 +154,7 @@ author: ""
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
-# Week 7 (2/20)
+# Week 7 (2/19)
 
 ## Monday
 
@@ -170,11 +169,11 @@ author: ""
 - Recording - one source, multiple mics
 - more percussion and other recordings
 
-# Week 8 (2/27)
+# Week 8 (2/26)
 
 - Recording all week
 
-# Week 9 (3/6)
+# Week 9 (3/4)
 
 ## Monday
 
@@ -193,11 +192,11 @@ author: ""
 
 - blizzard day
 
-# Week 10 (3/13)
+# Week 10 (3/11)
 
 - Spring Break - No Classes
 
-# Week 11 (3/20)
+# Week 11 (3/18)
 
 ## Monday
 
@@ -212,7 +211,7 @@ author: ""
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
-# Week 12 (3/27)
+# Week 12 (3/25)
 
 ## Monday
 
@@ -220,15 +219,16 @@ author: ""
 
 <!--  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
 
+<!--
 ## Wednesday
 
 - More [reverb](../posts/week-12/reverb/)
 
 ## Friday
 
-- snow day?
+- No class -- Easter Holiday
 
-# Week 13 (4/3)
+# Week 13 (4/1)
 
 ## Monday
 
@@ -240,13 +240,12 @@ author: ""
 
 ## Friday
 
-- No class -- Easter Holiday
 
-# Week 14 (4/10)
+# Week 14 (4/8)
 
 ## Monday
 
-- No class -- Easter Holiday
+
 
 ## Wednesday
 
@@ -259,7 +258,7 @@ author: ""
 - [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
-# Week 15 (4/17)
+# Week 15 (4/15)
 
 ## Monday
 
@@ -281,7 +280,7 @@ author: ""
   - [(148) Mastering ‘Happy’ by Pharrell Williams - YouTube](https://www.youtube.com/watch?v=9w6sdNs58tc)
 - Work/recording day
 
-# Week 16 (4/24)
+# Week 16 (4/22)
 
 ## Monday
 
@@ -295,6 +294,6 @@ author: ""
 
 - Sam shows mixing progress
 
-> Exam - Monday, May 1st 1 - 3:00 pm
+> Exam - April 29, 3:30 – 5:30 pm -->
 
 <!-- edit -->
