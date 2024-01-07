@@ -12,7 +12,7 @@ date: "2023-1-9"
 - Syllabus overview
 - Semester Introduction
 - Finding the textbooks in the [DSU Library](https://library.dsu.edu)
-- [Short intro to Reaper](../posts/week-1/reaper-intro/)
+- [Some extra stuff about Reaper](../posts/week-1/reaper-intro/)
 
 > Assignment [Written Assignment 1 - Edison's List](../assignments/wr1/)
 

@@ -1,11 +1,11 @@
 # Edison’s list
 
-## Due: Wednesday, January 11, 1:00 pm
+## Due: Wednesday, January 10, 1:00 pm
 
 ## Submit to: D2L
 
-In an article for the North American Review , Thomas Edison (1878)
-imagined 10 possible use cases for his new invention of the phonograph :[^1]
+In an article for the North American Review, Thomas Edison (1878)
+imagined 10 possible use cases for his new invention of the phonograph:[^1]
 
 1. Letter writing and dictation without the aid of a stenographer.
 2. Phonographic books for the blind.
@@ -28,39 +28,14 @@ imagined 10 possible use cases for his new invention of the phonograph :[^1]
 
 # Instructions
 
-Prepare a written reply for an in-class discussion:
+Prepare a written response for an in-class discussion centered on Thomas Edison's list of technologies. This preparation involves several steps:
 
-- Sort Edison’s list according to actual usage today (from frequent
-  to rare), according to your best personal estimate.
-- Assign a percentage to each item that in your opinion reflects its
-  contemporary significance (should add up to 100%).
-- For the purpose of the discussion, let’s extend ‘the phonograph’
-  to any sound recording technology in general use today. You
-  can be liberal in your interpretation of Edison’s list in terms of
-  contemporary technology.
-- Argue in favor of your list. You can make use of statistics and
-  other published information to make your case, but I’m primarily interested in your personal view on recording technology’s
-  cultural significance in different areas. Try to consider cultural
-  and social contexts other than your own.
-- Why are the items at the bottom of your list there? Will some
-  of them become more significant in the future? Speculate about
-  underlying technological, social, and cultural developments!
-- Offer a personal critical perspective on how technology has developed (and will continue to develop) since Edison’s invention.
-  Consider the sociocultural changes that accompany these developments, to which degree you are in favor of them, but also in
-  which respects you are not.
-
-# Submission format
-
-Submit a single-page Microsoft Word document named writeup.docx (300 words max.).
-
-# References & useful resources
-
-Edison, Thomas A. (1878). “The Phonograph and Its Future.” In: _The
-North American Review_ 126.262, pp. 527–36. JSTOR: 25110210.
-
-Sterne, Jonathan (2003). _The Audible Past. Cultural Origins of Sound
-Reproduction_. Durham and London: Duke University Press. 450 pp.
-mit library: 001141682.
+1. **Reordering Edison's Technologies**: Rearrange the items on Edison's list based on their current usage frequency. Begin with the most frequently used and end with the least used, based on your best guess.
+2. **Assigning Significance Percentages**: Allocate a percentage to each item, reflecting its modern-day significance. Ensure that the total percentage for all items equals 100%.
+3. **Broadening the Definition of 'the Phonograph'**: When discussing 'the phonograph', consider it as any widely-used sound recording technology today. Feel free to interpret other items on Edison’s list in the context of modern technology.
+4. **Supporting Your List**: Justify the order of your list. While you may use statistics and published data to support your argument, the focus should be on your perspective regarding the cultural significance of recording technologies. Include considerations of different cultural and social contexts.
+5. **Examining Lower-ranked Items**: Analyze why certain items are at the bottom of your list. Speculate about their potential future significance and the technological, social, and cultural factors that might influence this.
+6. **Personal Critical Perspective**: Offer a critique of how technology has evolved since Edison's time. Discuss the sociocultural changes that accompany these technological advancements, expressing both your approval and disapproval of these changes.
 
 [^1]: Sterne 2003, p. 202.
 
