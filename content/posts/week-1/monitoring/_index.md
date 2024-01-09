@@ -8,20 +8,29 @@ margin = 0.2
 
 <!-- show_notes = "separate-page" -->
 
-# Hearing and listening
+## The Importance of Hearing and Listening in Audio Mixing
+
+- Understanding the critical role of reliable hearing in audio mixing
+- Navigating the challenges of mixing in less-than-ideal environments
+- Learning to make objective decisions based on what you hear
+- The common misconception about processing techniques
 
 {{% note %}}
 
-- Before we get to mixing we have to spend some time talking about hearing and listening. How does the technology we're using effect our ability to hear and understand? Also, what effect does the room have on what we hear?
-- What are some issues that could come up if we have a poorly setup mixing environment?
+- Reliable hearing is essential for audio mixing. Without accurate auditory feedback, efforts in mixing can be counterproductive, leading to mixes that don't translate well across different playback systems.
+- Professional engineers often have access to high-end equipment and acoustically treated spaces, but many also excel in less ideal conditions. Adopting their tactics can be beneficial even in small, less equipped studios.
+- The ability to make objective decisions about audio, such as EQ adjustments or vocal clarity, is crucial. This skill goes beyond the capabilities of the equipment used.
+- Many who struggle with their mixes believe their techniques are at fault. However, the root issue often lies in not being able to accurately hear or interpret what is being heard.
 
 {{%/ note %}}
 
 ---
 
-## Famous studios around the world
+## Ideal environments - Famous studios around the world
 
-- Hans Zimmer's [Music Lair](https://stuckincustoms.smugmug.com/Portfolio/i-hMnTR4b/A)
+- Hans Zimmer's Music Lair
+  - [(41) Look Inside Hans Zimmer's LA Studio — Hans Zimmer Strings - YouTube](https://www.youtube.com/watch?v=dFcvQY3U6XA)
+  - [14th Street Music](https://14thstreetmusic.com/)
 - [Electric Lady Studios](https://electricladystudios.com/)
 - [Real World Studios](https://www.realworldstudios.com/)
 - [Abbey Road Studios](https://www.abbeyroad.com/)
@@ -30,19 +39,36 @@ margin = 0.2
 
 {{% note %}}
 
-- While most professional engineers have access to the best equipment and purpose built rooms, they also have method of getting the best results when moving from one room to another.
-- Being able to interpret what you're hearing regardless of the environment is the most important part of mixing.
-- If you want to be a great musician, hearing and listening are the most important things, its no different in engineering.
+Here are some of the ideal environments I mentioned before. 
+{{%/ note %}}
+
+---
+
+## Real-world studios
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O1YYbaLQN0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Selecting the Right Monitoring Equipment for Audio Mixing
+
+- Choosing appropriate monitoring equipment
+- Maximizing value for money in monitor selection
+- Understanding the limitations of hi-fi speakers for studio use
+- Personal preference in monitor choice
+
+{{% note %}}
+
+- Choosing the right equipment for monitoring is crucial as it provides the primary feedback for all mixing decisions. Quality monitoring systems, which offer a clear and even frequency response, are often expensive but vital for accurate audio representation.
+- Volume isn't as critical as audio quality in studio monitors. Famous mix engineers often prefer smaller, nearfield monitors for a more accurate sound, rather than large, powerful speakers.
+- For small studios, it's advisable to focus on achieving high-quality stereo sound rather than investing in a complex surround setup, especially when working with a limited budget.
+- Hi-fi speakers, designed to enhance audio, aren't ideal for studio work where identifying flaws in a mix is essential. Active or powered speakers are a better choice due to their convenience and built-in amplification tailored to the speaker's design.
+- Monitor choice is subjective, and getting accustomed to the specific sound of your chosen monitors is part of the learning process. Familiarity with your monitors, aided by reference recordings, is key to effective mixing.
 
 {{%/ note %}}
 
 ---
 
-## Real world studios
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O1YYbaLQN0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
 
 ## Studio Monitors
 
@@ -126,12 +152,31 @@ margin = 0.2
 
 ---
 
+## Critical Speaker Positioning for Optimal Audio Mixing
+
+- Importance of direct speaker alignment to the listening position
+- The phenomenon of phase and comb filtering in audio
+- Vertical alignment and its impact on audio quality
+- Comb filtering between speaker drivers in nearfield monitors
+
+{{% note %}}
+
+- Precise speaker positioning is essential. Speakers should be aimed directly at the listening position to ensure accurate high-frequency reproduction, as high frequencies are more directional and can be obscured by obstacles.
+- Phase and comb filtering significantly affect audio quality. When two identical audio signals are slightly out of alignment, phase cancellation occurs, altering the sound's tonality. This effect is especially pronounced with complex, real-world sounds like music.
+- Vertical alignment of speakers is crucial due to the waveguide effect and the positioning of multiple drivers in nearfield monitors. Misalignment can result in comb filtering, particularly around crossover frequencies, affecting mid-range frequencies.
+- Comb filtering is a critical issue in two-driver nearfield monitors. Misalignments between the woofer and tweeter can cause frequency cancellations in the sensitive mid-frequency range, impacting critical sound elements like vocals and snare drums.
+
+{{%/ note %}}
+
+---
+
+
 ## How to set up the monitors?
 
 ![](monitor-setup.png)
 
 {{< note >}}
 
-The first step in setting up studio monitors is check if they are a good distance apart. A good rule of thumb is to have them an equal distance apart from each other and also to have your seat to be that same distance from the monitors. The angle of the monitors can also make an impact in your sound. Studies show that having the speakers at a 30 degree angle will work best for listening purposes.
+Here's a helpful diagram. 
 
 {{< /note >}}
