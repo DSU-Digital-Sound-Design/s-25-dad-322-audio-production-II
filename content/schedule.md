@@ -19,8 +19,7 @@ date: "2023-1-9"
 ## Wednesday
 
 - Review Edison homework
-- [Hearing and listening + Using nearfield monitors](../posts/week-1/monitoring/)xw
-  - the technology of listening
+- [Hearing and listening + Using nearfield monitors](../posts/week-1/monitoring/)
 
 > `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
 
