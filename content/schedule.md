@@ -23,17 +23,21 @@ date: "2023-1-9"
 
 > `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
 
-<!-- ## Friday
+## Friday
 
 - Discuss Eno reading
   - [Recorded lecture on the studio as a compositional tool](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
   - [Questions](../posts/week-1/studio-as-a-compositional-tool/)
 - [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
 - [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
+  - [Notes on bass references](../posts/week-1/bass-reference-notes)
 - Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint. These might be songs you use for a reference mix later in the semester.
 - A field trip to my office to see how you shouldn't setup your studio.
   - Listen to some of the same songs and try to hear the deficiencies in my room.
 
+> Homework - bring in two bass references to class on Wednesday. One should be a song that's good for checking the range of yours speakers, the other should sound good on speakers with a limited range, like the Post Malone song in the references.
+
+<!-- 
 # Week 2 (1/15)
 
 ## Monday
