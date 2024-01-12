@@ -15,7 +15,7 @@ title: "Bass Reference Notes"
   - Providing context for low-end mixing decisions.
   - Offering exemplary models to challenge and improve mixing skills.
 
-**Specific Reference Tracks and Their Usefulness**
+**Mike's References**
 
 **Calvin Harris feat. Kelis: 'Bounce'**: Highlights perfect timing of kick-drum frequencies, ensuring punchiness and clarity without overwhelming bass. Demonstrates how to balance kick and bass for rhythmic definition and effective translation onto small playback systems.
 
@@ -36,3 +36,7 @@ title: "Bass Reference Notes"
 **Anderson Paak: 'Lockdown'**: Offers a blend of smoothness and power in the kick and bass sounds. It stands as an updated, sub-heavy version of older references like Dr. Dre's "2001" album.
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/lockdown/1519032499?i=1519032500"></iframe>
+
+**My List**
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/loading/1694554543?i=1694554787"></iframe>

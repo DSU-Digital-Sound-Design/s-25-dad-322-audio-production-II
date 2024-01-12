@@ -37,13 +37,13 @@ date: "2023-1-9"
 
 > Homework - bring in two bass references to class on Wednesday. One should be a song that's good for checking the range of yours speakers, the other should sound good on speakers with a limited range, like the Post Malone song in the references.
 
-<!-- 
 # Week 2 (1/15)
 
 ## Monday
 
 - No class - MLK Day
 
+<!-- 
 ## Wednesday
 
 - Listen to students bass references - 20 minutes
