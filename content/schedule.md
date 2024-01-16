@@ -48,7 +48,6 @@ date: "2023-1-9"
 - See: [Should I mix on headphones or speakers? - Blog | Splice](https://splice.com/blog/mix-on-headphones-or-speakers/)
 - Listen to student's bass references - 20 minutes
 - [Supplemental Monitoring](../posts/week-2/wednesday) 
-- Mixing Consoles presentation - [Mixing consoles](../posts/week-2/wednesday/mixers.pdf)
 
 <!-- 
 ## Friday
