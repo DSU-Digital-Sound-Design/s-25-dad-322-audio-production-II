@@ -43,13 +43,14 @@ date: "2023-1-9"
 
 - No class - MLK Day
 
-<!-- 
 ## Wednesday
 
-- Listen to students bass references - 20 minutes
-- [Supplemental Monitoring](../posts/week-2/wednesday) - [PDF](../posts/week-2/wednesday/supplemental-monitoring.pdf) and low end damage limitation
+- See: [Should I mix on headphones or speakers? - Blog | Splice](https://splice.com/blog/mix-on-headphones-or-speakers/)
+- Listen to student's bass references - 20 minutes
+- [Supplemental Monitoring](../posts/week-2/wednesday) 
 - Mixing Consoles presentation - [Mixing consoles](../posts/week-2/wednesday/mixers.pdf)
 
+<!-- 
 ## Friday
 
 - [Presonus Monitor Station reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)
