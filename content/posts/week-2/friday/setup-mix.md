@@ -1,38 +1,39 @@
 ---
-title: "Importing and Organizing"
+title: "Importing and Organizing Audio Projects in Reaper"
 ---
 
-Find a project from [The 'Mixing Secrets' Free Multitrack Download Library](https://cambridge-mt.com/ms/mtk/) to practice with. Once it's downloaded create a new Reaper project. Set the project settings like below:
+Select a project from [The 'Mixing Secrets' Free Multitrack Download Library](https://cambridge-mt.com/ms/mtk/). After downloading your chosen project, create a new Reaper project. Configure your project settings to mirror the following:
 
 ![](../project-settings.png)
 
-Now, open the notes that come with the tracks to see what the BPM should be set to. Then, drag in your tracks. Make sure they're in number order and color them by track type.
+Begin by reviewing the notes accompanying the tracks to determine the correct BPM (Beats Per Minute). Next, import your tracks into the project, ensuring they are sequentially ordered and color-coded based on the type of track.
 
-Organize like tracks into folders. Drums will all go into a drums folder. Guitars into a guitars folder, etc. Use the track manager to organize larger projects.
+Group similar tracks into dedicated folders. For instance, consolidate all drum tracks into a 'Drums' folder, and all guitar tracks into a 'Guitars' folder, and so on. Employ the track manager for efficient organization of projects with an extensive number of tracks.
 
-## Label song sections with markers
+## Label Song Sections with Markers
 
-Insert markers to delineate song sections using the _M_ shortcut. View all of your markers easily in the _Region/Marker Manager_.
+Utilize markers to distinguish different sections of the song. Insert markers with the `M` shortcut. You can oversee all markers effortlessly in the _Region/Marker Manager_.
 
-## Trimming silence
+## Trimming Silence
 
-We're now going to clean up up each track by editing out the silences and sections where other instruments bleed into the mic. We have to listen to each track one by one to do this. It will also help us learn the mix. We should also listen for any imperfection in the recording to try to fix them before we start the mixing.
+The next phase involves refining each track by eliminating silences and areas where sound from other instruments spill into a given mic. Trimming unnecessary audio cleans up the tracks and deepens your familiarity with the mix. Pay close attention to any flaws in the recording, addressing them before starting the mixing process.
 
-This process is often called "strip silence" in various DAWs.
+This procedure is called "strip silence" in various Digital Audio Workstations (DAWs).
 
-In Reaper this can be done with "Dynamic Split". First, make the track large with "shift + !".Then click "D" to open up the dynamic split dialogue. Select "when gate opens" and "when gate closes". Then change the gate threshold until you reach your desired outcome. It's better to take out less because it can sound really artificial to cut in and out. Try this first on a vocal track.
+In Reaper, this can be accomplished using the "Dynamic Split" feature. To begin, enlarge the track using "shift + !" and then press "D" to launch the dynamic split dialogue. Opt for "when gate opens" and "when gate closes". Adjust the gate threshold until you achieve a satisfactory result. Exercise caution to avoid over-trimming, as excessive cutting can yield an unnaturally abrupt sound. Initially, apply this technique on a vocal track for practice.
 
-> Also try "Item: Auto trim/split items (remove silence)..."
+This action helps automate the process:
 
-Use the below settings:
+> "Item: Auto trim/split items (remove silence)..."
+
+Use these settings:
 
 ![](../auto-trim.png)
 
-## How to use a reference mix
+## Utilizing a Reference Mix
 
-- Setup a folder with all your tracks
-- Add your reference mix outside of the folder. Make sure this track isn't routed through your master if you have any master fx.
-- Match the loudness with LUFS Meter. Use your ears and the meter
-- Now you can A/B between your reference mix and your mix
-- In Reaper use option + command to exclusive solo
-- add more references as takes
+1. Create a folder containing all your project tracks.
+2. Place your reference mix track outside this folder. Ensure that this track does not route through your master channel if you're using any master effects.
+3. Calibrate the loudness of your reference mix using a LUFS Meter, balancing between the readings of the meter and your auditory judgment.
+4. Facilitate comparison (A/B testing) between your mix and the reference mix. In Reaper, you can solo tracks exclusively using option + command.
+5. Consider adding additional reference tracks as needed.

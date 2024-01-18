@@ -49,17 +49,22 @@ date: "2023-1-9"
 - Listen to student's bass references - 20 minutes
 - [Supplemental Monitoring](../posts/week-2/wednesday) 
 
-<!-- 
 ## Friday
 
-- [Presonus Monitor Station reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)
-- [Supplemental Monitoring](../posts/week-2/wednesday) - Finish talking about SPAN
-- Mixing resources: [Sound on Sound](https://www.soundonsound.com/), [TapeOp](https://tapeop.com/), [Pensado's Place](https://www.pensadosplace.tv/)
-- [From subjection impressions to objective results](../posts/week-2/friday/)
-- [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)
+- Resources
+  - [Presonus Monitor Station reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)
+  - Mixing resources: 
+    - [Sound on Sound](https://www.soundonsound.com/), 
+    - [TapeOp](https://tapeop.com/), 
+    - [Pensado's Place](https://www.pensadosplace.tv/)
+- Lecture
+  - [Supplemental Monitoring](../posts/week-2/wednesday/#/13) - Finish talking about SPAN
+  - [From subjection impressions to objective results](../posts/week-2/friday/)
+  - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)
 
-> Homework: Make a list of six mix references. Your list should represent three styles of music . Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it.
+> Homework: Make a list of six mix references. Your list should represent three styles of music. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it. Eventually you'll pick references depending on what mix you're working on, but for now choose mixes that you think work well as overall mixes. 
 
+<!-- 
 # Week 3 (1/22)
 
 ## Monday
