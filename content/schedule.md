@@ -59,6 +59,7 @@ date: "2023-1-9"
     - [Pensado's Place](https://www.pensadosplace.tv/)
 - Lecture
   - [Supplemental Monitoring](../posts/week-2/wednesday/#/13) - Finish talking about SPAN
+    - Also, a short video on [SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)
   - [From subjection impressions to objective results](../posts/week-2/friday/)
   - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)
 
