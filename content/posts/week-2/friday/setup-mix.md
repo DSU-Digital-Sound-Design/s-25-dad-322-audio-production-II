@@ -2,7 +2,7 @@
 title: "Importing and Organizing Audio Projects in Reaper"
 ---
 
-Select a project from [The 'Mixing Secrets' Free Multitrack Download Library](https://cambridge-mt.com/ms/mtk/). After downloading your chosen project, create a new Reaper project. Configure your project settings to mirror the following:
+Download the [Living in the City](https://cambridge-mt.com/ms/mtk/#HurrayForTheRiffRaff) mix from Cambridge Multi-tracks. After downloading your project, create a new Reaper project. Configure your project settings to mirror the following:
 
 ![](../project-settings.png)
 
@@ -10,9 +10,6 @@ Begin by reviewing the notes accompanying the tracks to determine the correct BP
 
 Group similar tracks into dedicated folders. For instance, consolidate all drum tracks into a 'Drums' folder, and all guitar tracks into a 'Guitars' folder, and so on. Employ the track manager for efficient organization of projects with an extensive number of tracks.
 
-## Label Song Sections with Markers
-
-Utilize markers to distinguish different sections of the song. Insert markers with the `M` shortcut. You can oversee all markers effortlessly in the _Region/Marker Manager_.
 
 ## Trimming Silence
 
@@ -29,6 +26,8 @@ This action helps automate the process:
 Use these settings:
 
 ![](../auto-trim.png)
+
+Finish the process by listening to each of the tracks soloed and ensuring that no audio has been inadvertently removed.
 
 ## Utilizing a Reference Mix
 
