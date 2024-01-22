@@ -61,7 +61,6 @@ date: "2023-1-9"
   - [Supplemental Monitoring](../posts/week-2/wednesday/#/13) - Finish talking about SPAN
     - Also, a short video on [SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)
   - [From subjection impressions to objective results](../posts/week-2/friday/)
-  - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 
 > Homework: Make a list of six mix references. Your list should represent three styles of music. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it. Eventually you'll pick references depending on what mix you're working on, but for now choose mixes that you think work well as overall mixes. 
 
@@ -70,6 +69,7 @@ date: "2023-1-9"
 ## Monday
 
 - Listen to one of each of your mix references
+- [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 - [More organization](../posts/week-3/monday/more-organization/)
 - [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
