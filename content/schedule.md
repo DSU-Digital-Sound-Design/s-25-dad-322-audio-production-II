@@ -71,17 +71,17 @@ date: "2023-1-9"
 - Listen to one of each of your mix references
 - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 - [More organization](../posts/week-3/monday/more-organization/)
-- [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
 
-<!-- 
+
 ## Wednesday
 
-- [Timing adjustments without tempo stretching](../posts/week-3/monday/timing-and-tuning/)
+- [Tempo mapping](../posts/week-3/monday/timing-and-tuning/)
   - finish tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-> Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Monday
+> Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
 
+<!-- 
 ## Friday
 
 - Review drum quantization
