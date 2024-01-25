@@ -81,14 +81,11 @@ date: "2023-1-9"
 
 > Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
 
-<!-- 
 ## Friday
 
-- Review drum quantization
-  - Answer any questions related to this
-- Do a different [drum edit](../posts/week-3/friday/)
-  - This time with a manual method, leaving more of the original intact
+- Finish [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
+<!-- 
 # Week 4 (1/29)
 
 ## Monday
