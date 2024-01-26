@@ -85,7 +85,6 @@ date: "2023-1-9"
 
 - Finish [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-<!-- 
 # Week 4 (1/29)
 
 ## Monday
@@ -96,6 +95,7 @@ date: "2023-1-9"
 
 > Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Friday
 
+<!-- 
 ## Wednesday
 
 - Finish Vocal Alignment - backing vocals
