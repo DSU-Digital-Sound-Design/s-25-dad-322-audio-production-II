@@ -93,7 +93,7 @@ date: "2023-1-9"
   - ReaTune - manual and automatic adjustments
   - Vocal Alignment
 
-> Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Friday
+> Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Monday. 
 
 <!-- 
 ## Wednesday
