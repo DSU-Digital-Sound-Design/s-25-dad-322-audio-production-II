@@ -66,6 +66,10 @@ This text focuses on two essential aspects of vocal production: tuning and align
 - **Bulk Marker Removal**:
    - To remove multiple markers, select the item, make a time selection over the markers, and then choose the appropriate option to remove them.
 
+### Backing Vocals
+
+- Now align the backing vocals with the lead and the bass. Add stretch markers to the beginning and end of each word. I would add stretch markers to each track separately so that you make sure each word has the correct stretch marker placement. Then group them and move the stretch markers on all backing vocals to align the words together. 
+
 #### Finalizing Alignment
 
 - **Group Your Vocals**: After editing, group your vocals together.

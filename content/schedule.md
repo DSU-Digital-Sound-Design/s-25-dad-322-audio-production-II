@@ -95,14 +95,13 @@ date: "2023-1-9"
 
 > Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Monday. 
 
-<!-- 
 ## Wednesday
 
-- Finish Vocal Alignment - backing vocals
 - Drum recording - One source (Percussion), one mic (ADK S7)
   - What kind of composition do we want to create?
   - Create backing tracks for playing to?
 
+<!-- 
 ## Friday
 
 - [Takes and comping](../posts/week-4/takes-comping/)
