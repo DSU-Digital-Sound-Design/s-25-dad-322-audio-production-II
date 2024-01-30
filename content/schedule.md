@@ -97,9 +97,11 @@ date: "2023-1-9"
 
 ## Wednesday
 
-- Drum recording - One source (Percussion), one mic (ADK S7)
+- Finish [Tuning and vocal aligning](../posts/week-4/tuning/) - aligning backup vocals
+- Recording the class song
   - What kind of composition do we want to create?
   - Create backing tracks for playing to?
+  - Drums, bass, other instruments?
 
 <!-- 
 ## Friday
