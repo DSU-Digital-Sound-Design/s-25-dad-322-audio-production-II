@@ -103,13 +103,13 @@ date: "2023-1-9"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
-<!-- 
 ## Friday
 
 - [Takes and comping](../posts/week-4/takes-comping/)
 - [Punching in](../posts/week-4/punching-in/)
 - Let's spend the rest of the class building up enough tracks to be able to mix later in the semester.
 
+<!-- 
 # Week 5 (2/5)
 
 ## Monday
