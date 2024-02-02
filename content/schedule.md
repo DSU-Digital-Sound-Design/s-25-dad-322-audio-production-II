@@ -107,18 +107,20 @@ date: "2023-1-9"
 
 - [Takes and comping](../posts/week-4/takes-comping/)
 - [Punching in](../posts/week-4/punching-in/)
-- Let's spend the rest of the class building up enough tracks to be able to mix later in the semester.
+- Recording guitars and bass? 
 
-<!-- 
 # Week 5 (2/5)
 
 ## Monday
 
-- [Building raw balance](../posts/week-5/balance/)
-- [Panning](../posts/week-5/panning)
+- Recording drums - one mic in front of the kit.
+- We'll put the class song on hold for a bit and work on mixing projects.
 
 ## Wednesday
 
+- [Building raw balance](../posts/week-5/balance/)
+<!-- 
+- [Panning](../posts/week-5/panning)
 - Intro Mix assignment 1
 - Finish balance on Better way
   - add HPF
