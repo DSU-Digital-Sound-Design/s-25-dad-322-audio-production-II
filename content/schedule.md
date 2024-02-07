@@ -119,6 +119,10 @@ date: "2023-1-9"
 ## Wednesday
 
 - [Building raw balance](../posts/week-5/balance/)
+
+> Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. 
+> DUE February 19th at 1:00 pm.
+
 <!-- 
 - [Panning](../posts/week-5/panning)
 - Intro Mix assignment 1
@@ -128,7 +132,6 @@ date: "2023-1-9"
   - copy fader values to items
 - Drum recording - One source (Percussion), one mic
 
-> Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. Render any edits you made before starting to balance the mix.
 >
 > - [The 'Mixing Secrets' Free Multitrack Download Library - Suggestions For Newbies!](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale) provides some good suggestions for simple projects to start with. Chose one that has at least 10 tracks.
 
