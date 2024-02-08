@@ -123,25 +123,13 @@ date: "2023-1-9"
 > Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. 
 > DUE February 19th at 1:00 pm.
 
-<!-- 
-- [Panning](../posts/week-5/panning)
-- Intro Mix assignment 1
-- Finish balance on Better way
-  - add HPF
-  - panning
-  - copy fader values to items
-- Drum recording - One source (Percussion), one mic
-
->
-> - [The 'Mixing Secrets' Free Multitrack Download Library - Suggestions For Newbies!](https://cambridge-mt.com/ms/mtk-newbies/#SmallScale) provides some good suggestions for simple projects to start with. Chose one that has at least 10 tracks.
 
 ## Friday
 
 - [Compressing for a reason](../posts/week-5/compression/)
-- Go over your mixing balance projects (if we have time)
+  - Pick some tracks in the mix and experiment with compression settings.
 
-> HW: See the class song I emailed out and write something to add to it.
-
+<!-- 
 # Week 6 (2/12)
 
 ## Monday
