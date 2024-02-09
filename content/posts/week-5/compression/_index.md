@@ -61,6 +61,8 @@ margin = 0.2
 - While some instruments, like electric guitars, may not require compression due to their inherent characteristics, others, particularly vocals and bass, often benefit from it to maintain consistent levels throughout a performance.
 - Compression is not always necessary, but in many modern music productions, it's essential for achieving the polished sound expected in commercial releases, addressing issues from uneven instrumental performances to the technical challenges posed by electronic and acoustic instruments.
 
+- From here go to the mix and work on some of the tracks that you think might benefit from compression.
+
 {{%/ note %}}
 
 ---
@@ -85,7 +87,7 @@ margin = 0.2
 
 ## When to Look Beyond Compression
 
-- Recognizing limitations of compression
+- Recognizing the limitations of compression
 - Exploring alternative processing solutions
 - Deciding between individual track vs. group channel compression
 - Making informed decisions on processing techniques
@@ -172,6 +174,24 @@ margin = 0.2
   - **Stage 3:** If necessary, apply a second layer of compression with faster, higher-ratio settings or a limiter for controlling remaining peaks, carefully adjusting attack and release times to avoid artifacts on consonant sounds.
 - Despite the extensive use of compression, achieving the level of consistency expected in commercial releases often requires manual fader automation to fine-tune vocal presence and clarity, emphasizing consonants and phrases as needed.
 - The goal is to balance effective dynamic control with maintaining the natural quality of the vocal performance, avoiding overprocessing by reserving detailed automation for later stages in the mixing process.
+
+{{%/ note %}}
+
+---
+
+## Parallel Compression: Enhancing Dynamics
+
+- Parallel compression blends processed and unprocessed signals
+- Retains original track dynamics while controlling peaks
+- Common in drums, piano, and acoustic guitar processing
+- Avoids loudness bias by careful balance control
+
+{{% note %}}
+
+- Parallel compression, also known as "New York" compression, mixes compressed ("wet") and uncompressed ("dry") versions of a sound, preserving natural dynamics and transients while achieving desired loudness and tone.
+- Especially beneficial for transient-rich instruments, this technique allows for aggressive compression without sacrificing the clarity of the original performance, keeping the music's dynamics lively.
+- It's a favored technique among professionals for its ability to maintain the essence of the original sound while still benefiting from the sustain and body added by compression.
+- To counteract loudness bias and ensure a balanced mix, it's recommended to group both signals and adjust their overall level together, preventing the common pitfall of overemphasizing the processed signal.
 
 {{%/ note %}}
 

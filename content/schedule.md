@@ -129,15 +129,15 @@ date: "2023-1-9"
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 
-<!-- 
 # Week 6 (2/12)
 
 ## Monday
 
-- Listen to your balance mixes so far. Class critique.
-- [More compression settings](../posts/week-6/compression-pt-2/)
+- What projects are you all working on for the mixing assignment?
+- Finish - [Compressing for a reason](../posts/week-5/compression/)
 - [Compression Lab](../posts/week-6/compression-lab/)
 
+<!-- 
 ## Wednesday
 
 - Drum editing projects incomplete

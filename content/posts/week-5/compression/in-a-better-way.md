@@ -14,7 +14,7 @@ If tracks have too much dynamic range they can stick out of a mix in an unpleasa
 
 First let's look at [some compression examples](https://cambridge-mt.com/ms/ch9/) from the book. -->
 
-## Compression in Better Way
+<!-- ## Compression in Better Way
 
 Steps:
 
@@ -22,5 +22,5 @@ Steps:
 2. Pick a compressor, i'll use ReaComp or MCompressor.
 3. Set the threshold and makeup gain
 4. Listen for how the track sounds in the mix. Does it sound better or worse? In context of the song, we'll try to back off of the compression to see if we can use less.
-5. Do we need to change the level of any of the media items before they get to the compressor for more consistent inputs?
+5. Do we need to change the level of any of the media items before they get to the compressor for more consistent inputs? -->
 
