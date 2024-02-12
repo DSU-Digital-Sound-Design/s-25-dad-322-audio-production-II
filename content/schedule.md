@@ -135,9 +135,12 @@ date: "2023-1-9"
 
 - What projects are you all working on for the mixing assignment?
 - Finish - [Compressing for a reason](../posts/week-5/compression/)
-- [Compression Lab](../posts/week-6/compression-lab/)
+- [Compression Lab](../posts/week-6/compression-lab/) 
+  - Turn in the results by Friday. 
+- Fridays class: 
+  - Friday we'll have some mix listening sessions, so make sure everyone has a song picked and something to show. The mix doesn't have to be finished, but it should be far enough along that we can hear what you're doing.
+  - Then we'll spend extra time on the class song.
 
-<!-- 
 ## Wednesday
 
 - Beyond compression - [gating, transient enhancement](../posts/week-6/beyond-compression/)
@@ -146,6 +149,7 @@ date: "2023-1-9"
 
 ## Friday
 
+- Mix listening sessions
 - Recording day
 
 # Week 7 (2/19)
@@ -154,6 +158,7 @@ date: "2023-1-9"
 
 - No class - President's Day
 
+<!-- 
 ## Wednesday
 
 - No class - Blizzard
