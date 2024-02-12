@@ -192,6 +192,7 @@ margin = 0.2
 - Especially beneficial for transient-rich instruments, this technique allows for aggressive compression without sacrificing the clarity of the original performance, keeping the music's dynamics lively.
 - It's a favored technique among professionals for its ability to maintain the essence of the original sound while still benefiting from the sustain and body added by compression.
 - To counteract loudness bias and ensure a balanced mix, it's recommended to group both signals and adjust their overall level together, preventing the common pitfall of overemphasizing the processed signal.
+- In Reaper, we can do this using an FX container running in parallel with the original track. Then control the wet/dry mix of the container.
 
 {{%/ note %}}
 

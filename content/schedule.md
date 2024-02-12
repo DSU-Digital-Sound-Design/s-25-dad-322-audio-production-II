@@ -137,6 +137,7 @@ date: "2023-1-9"
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
 - Finish - [Compressing for a reason](../posts/week-5/compression/)
+- Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Friday. 
 - Fridays class: 
@@ -145,7 +146,7 @@ date: "2023-1-9"
 
 ## Wednesday
 
-- Beyond compression - [gating, transient enhancement](../posts/week-6/beyond-compression/)
+- Beyond compression: [gating, transient enhancement](../posts/week-6/beyond-compression/)
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
 
