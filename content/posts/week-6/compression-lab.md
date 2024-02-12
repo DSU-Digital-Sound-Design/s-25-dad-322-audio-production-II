@@ -59,7 +59,6 @@ This lab is designed to introduce students to the practical application of compr
 
 ### Step 3: Voice Compression
 
-- Add a vocal sample to the project.
 - Apply compression to the vocal track, experimenting with different compressors and settings to achieve a balanced and polished sound.
 
 ### Step 4: Comparison and Analysis
