@@ -134,6 +134,8 @@ date: "2023-1-9"
 ## Monday
 
 - What projects are you all working on for the mixing assignment?
+  -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
+  -  Look at some challenges with particular projects.
 - Finish - [Compressing for a reason](../posts/week-5/compression/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Friday. 
