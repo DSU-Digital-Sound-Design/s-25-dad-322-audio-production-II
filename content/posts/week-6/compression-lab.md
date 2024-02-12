@@ -25,7 +25,6 @@ This lab is designed to introduce students to the practical application of compr
 2. **RoughRider 3**: Go to [Audio Damage Free And Legacy Products](https://www.audiodamage.com/pages/free-and-legacy) and download RoughRider 3.
 3. **TDR Kotelnikov**: Download TDR Kotelnikov from [Tokyo Dawn Records](https://www.tokyodawn.net/tdr-kotelnikov/).
 
-Ensure each compressor is correctly installed and available in your DAW before proceeding.
 
 #### Explore Compressor Settings
 
@@ -66,7 +65,7 @@ Ensure each compressor is correctly installed and available in your DAW before p
 ### Step 4: Comparison and Analysis
 
 - Repeat the drum compression process with a different compressor.
-- A/B compare the results with the initial compression to determine which compressor or settings you prefer.
+- A/B the results with the initial compression to determine which compressor or settings you prefer.
 
 
 <!-- ## Class Lab
