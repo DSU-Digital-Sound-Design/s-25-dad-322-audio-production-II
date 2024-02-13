@@ -146,9 +146,12 @@ date: "2023-1-9"
 
 ## Wednesday
 
-- Beyond compression: [gating, transient enhancement](../posts/week-6/beyond-compression/)
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
+- Beyond compression: 
+  - [pres](../posts/week-6/beyond-compression/)
+  - [example](../posts/week-6/beyond-compression/comp-ex/)
+  - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
 ## Friday
 
