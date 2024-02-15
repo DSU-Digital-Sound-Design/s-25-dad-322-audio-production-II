@@ -156,7 +156,10 @@ date: "2023-1-9"
 ## Friday
 
 - Mix listening sessions
+  - We'll listen to a few different student's in process mixes and talk about what's working and what's not.
 - Recording day
+  - Calvin plays some violin for the class song
+  - extra percussion? 
 
 # Week 7 (2/19)
 
