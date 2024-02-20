@@ -167,11 +167,11 @@ date: "2023-1-9"
 
 - No class - President's Day
 
-<!-- 
 ## Wednesday
 
-- No class - Blizzard
+- Listen to each student's mix and critique - 10 minutes each
 
+<!-- 
 ## Friday
 
 - Recording - one source, multiple mics
