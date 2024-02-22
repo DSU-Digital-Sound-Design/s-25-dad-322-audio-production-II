@@ -171,12 +171,14 @@ date: "2023-1-9"
 
 - Listen to each student's mix and critique - 10 minutes each
 
-<!-- 
 ## Friday
 
+- Finish listening and critiquing mixes
 - Recording - one source, multiple mics
+  - Drums 
 - more percussion and other recordings
 
+<!-- 
 # Week 8 (2/26)
 
 - Recording all week
