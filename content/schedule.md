@@ -184,24 +184,26 @@ date: "2023-1-9"
 - Electric guitar
 - Review drum editing with new drums 
 
-<!-- ## Wednesday
+## Wednesday
+
+- Last percussion day 
+- Cover again the drum editing 
+
+## Friday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
 - [Equalization for a reason](../posts/week-8/equalizing-for-a-reason/)
 
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
-> Mixing project - see details on D2L
 
-
-## Friday
-
-- [Beyond equalization](../posts/week-9/beyond-equalization/) -->
 
 <!-- 
 # Week 9 (3/4)
 
 ## Monday
 
+> Mixing project - see details on D2L
+- [Beyond equalization](../posts/week-9/beyond-equalization/)
 
 ## Wednesday
 
