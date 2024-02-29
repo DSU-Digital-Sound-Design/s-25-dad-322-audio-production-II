@@ -192,7 +192,8 @@ date: "2023-1-9"
 ## Friday
 
 - [EQ Slides](../posts/week-8/EQ_slides.pdf)
-- [Equalization for a reason](../posts/week-8/equalizing-for-a-reason/)
+- [Using EQ](../posts/week-8/using-eq/)
+<!-- - [Equalization for a reason](../posts/week-8/equalizing-for-a-reason/) -->
 
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
