@@ -8,7 +8,7 @@ title: "Beyond Equalization"
 
 # Distortion as a mix tool
 
-Distortion can be a really useful tool to make sounds stick out of a mix without changing their volume. A good use for distortion would be to brighten a bass/synth line with not a lot of higher frequencies. Reaper has several built in options for us to try:
+Distortion can be a really useful tool to make sounds stick out of a mix without changing their volume. A good use for distortion would be to brighten a bass/synth line with not a lot of higher frequencies. Reaper has several built-in options for us to try:
 
 - Distortion
 - Distortion (Fuzz)
@@ -18,7 +18,7 @@ We'll add this as a parallel track so we can mix the results back in with the or
 
 We can also try it on drums, vocals, background vocals, and acoustic guitar.
 
-There are other plugins that we might want to try that are emulations of tape machines, mixing consoles, hardware outboard units, guitar amps, effects pedals, soft-clippers, vacuum tubes, transistors, and transformers etc.
+There are other plugins that we might want to try such as emulations of tape machines, mixing consoles, hardware outboard units, guitar amps, effects pedals, soft-clippers, vacuum tubes, transistors, transformers etc.
 
 Here are some cool freeware plugins:
 
@@ -40,7 +40,7 @@ Soundtoys (installed on the studio computers) have a few very good plugins for d
 
 # Exciter
 
-Also add harmonic distortion, but in a different way to distortion plugins. Exciters typically target specific frequency ranges, not the whole signal, like a saturation or distortion plugin.
+Also, add harmonic distortion, but in a different way to distortion plugins. Exciters typically target specific frequency ranges, not the whole signal, like a saturation or distortion plugin.
 
 - JS plugins
   - Exciter
@@ -48,7 +48,7 @@ Also add harmonic distortion, but in a different way to distortion plugins. Exci
 
 # Low-end enhancements
 
-Distortion can add higher frequencies components to low end sounds. But, if you want to add more to a low end of a sound you can use subharmonics processors.
+Distortion can add higher frequency components to low-end sounds. But, if you want to add more to a low end of a sound you can use subharmonics processors.
 
 Reaper has a built in plugin called 50 Hz Kicker and another called Thunderkick.
 
@@ -57,7 +57,7 @@ Freeware that I have tried:
 - Thump by Metric Halo
 - bx_subfilter - this one sounds pretty good
 
-Let's try using Thump on our drum track to add some more low end to the kick drum. I'll create a send and add Thump to the send. I'll also add a low pass filter so that we're only effecting the low frequencies.
+Let's try using Thump on our drum track to add some more low-end to the kick drum. I'll create a send and add Thump to the send. I'll also add a low pass filter so that we're only effecting the low frequencies.
 
 **Drum Triggering**
 
