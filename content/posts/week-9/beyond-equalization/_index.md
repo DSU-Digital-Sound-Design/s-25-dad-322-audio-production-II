@@ -48,16 +48,16 @@ Also, add harmonic distortion, but in a different way to distortion plugins. Exc
 
 # Low-end enhancements
 
-Distortion can add higher frequency components to low-end sounds. But, if you want to add more to a low end of a sound you can use subharmonics processors.
+Distortion can add higher frequency components to low-end sounds. But, if you want to add more to the low end of a sound you can use subharmonics processors.
 
-Reaper has a built in plugin called 50 Hz Kicker and another called Thunderkick.
+Reaper has a built-in plugin called 50 Hz Kicker and another called Thunderkick.
 
 Freeware that I have tried:
 
 - Thump by Metric Halo
 - bx_subfilter - this one sounds pretty good
 
-Let's try using Thump on our drum track to add some more low-end to the kick drum. I'll create a send and add Thump to the send. I'll also add a low pass filter so that we're only effecting the low frequencies.
+Let's try using Thump on our drum track to add some more low-end to the kick drum. I'll create a send and add Thump to the send. I'll also add a low pass filter so that we're only affecting the low frequencies.
 
 **Drum Triggering**
 
