@@ -203,15 +203,22 @@ date: "2023-1-9"
 
 - [Beyond equalization](../posts/week-9/beyond-equalization/)
 
-<!-- 
 ## Wednesday
 
-> Mixing project - see details on D2L
+- Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
+  - Drum Triggering
+  - Effects on synth pads for movement 
+    - Chorus, Tremolo, Vibrato 
+    - Also look at Sound Toys for these effects
+- [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
+
+> Introduce presentations 
 
 ## Friday
 
-- blizzard day
+- Students show arrangements of the class song
 
+<!-- 
 # Week 10 (3/11)
 
 - Spring Break - No Classes
