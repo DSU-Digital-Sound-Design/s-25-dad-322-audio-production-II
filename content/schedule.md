@@ -205,6 +205,7 @@ date: "2023-1-9"
 
 ## Wednesday
 
+- Lake County Museum Podcast internship opportunity
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
   - Drum Triggering
   - Effects on synth pads for movement 
