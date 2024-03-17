@@ -12,6 +12,10 @@ What is reverb used for? It can enhance these elements:
 - Sustain
 - Spread
 
+> Examples from [Chapter 16: Mixing With Reverb](https://cambridge-mt.com/ms/ch16/)
+
+---
+
 Now we mostly use plugins for reverb, but reverb has a history before digital effects. Some of the ways engineers used to generate reverb were: chambers, plates and springs.
 
 ### Inside the reverb chambers at Capricorn Sound Studios

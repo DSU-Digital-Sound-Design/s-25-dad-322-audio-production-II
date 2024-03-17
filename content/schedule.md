@@ -219,7 +219,6 @@ date: "2023-1-9"
 
 - Students show arrangements of the class song
 
-<!-- 
 # Week 10 (3/11)
 
 - Spring Break - No Classes
@@ -228,17 +227,17 @@ date: "2023-1-9"
 
 ## Monday
 
-- listen to project 2
+- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
 ## Wednesday
 
-- more listening to project 2
 - start preparing to teach a lesson
 
 ## Friday
 
-- [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
+- listen to project 2
 
+<!-- 
 # Week 12 (3/25)
 
 ## Monday
