@@ -35,6 +35,7 @@ Let's download and install the following reverb plugins:
   - [TENS jr.](https://www.audiopluginsforfree.com/tens-jr/) - great sounding spring 
   - [Flex Reverb](https://www.audiopluginsforfree.com/flex-reverb/) - sort of boring sounding, but good interface
   - [Reverb | Airwindows](https://www.airwindows.com/category/reverb/)
+  - [FogPad - Reverb plugin](https://www.igorski.nl/download/fogpad)
 
 Let's go to [Mike's page](https://cambridge-mt.com/ms/ch16/) for some advice on choosing reverbs and working with them.
 
