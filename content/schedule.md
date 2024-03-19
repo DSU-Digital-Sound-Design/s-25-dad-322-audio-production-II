@@ -232,29 +232,32 @@ date: "2023-1-9"
 ## Wednesday
 
 - start preparing to teach a lesson
+- More [reverb](../posts/week-12/reverb/)
 
 ## Friday
 
 - listen to project 2
 
-<!-- 
 # Week 12 (3/25)
 
 ## Monday
 
-- Noah project presentation
+- Mixing with [Delays](../posts/week-14/delays/)
 
 <!--  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
 
-<!--
 ## Wednesday
 
-- More [reverb](../posts/week-12/reverb/)
+- More [delay](../posts/week-15/more-delays) - third-party plugins
 
 ## Friday
 
 - No class -- Easter Holiday
 
+> Presentation proposal due by midnight  
+
+<!--
+<!-- z
 # Week 13 (4/1)
 
 ## Monday
@@ -263,22 +266,22 @@ date: "2023-1-9"
 
 ## Wednesday
 
-- lesson presentations
+- class presentations
 
 ## Friday
 
+- class presentations
 
 # Week 14 (4/8)
 
 ## Monday
 
 
+- lesson presentations
 
 ## Wednesday
 
-- Practice for a minute with the [WebTet](https://webtet.net/apcl/#/reverberation) ear trainer on reverb and delay.
-- Mixing with [Delays](../posts/week-14/delays/)
-- [More delay](../posts/week-15/more-delays) - third party plugins
+
 
 ## Friday
 
