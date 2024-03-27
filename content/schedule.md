@@ -268,10 +268,16 @@ date: "2023-1-9"
 ## Wednesday
 
 - class presentations
+  - Hunter
+  - Calvin 
+  - David 
 
 ## Friday
 
 - class presentations
+  - Reiter
+  - Wiley 
+  - Michael
 
 # Week 14 (4/8)
 
@@ -279,6 +285,9 @@ date: "2023-1-9"
 
 
 - Class presentations
+  - Orlando
+  - Abbie 
+  - Mason 
 
 <!--
 ## Wednesday
