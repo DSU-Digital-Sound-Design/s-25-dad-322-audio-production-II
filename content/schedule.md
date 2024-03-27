@@ -242,12 +242,14 @@ date: "2023-1-9"
 
 ## Monday
 
-- Mixing with [Delays](../posts/week-14/delays/)
+- Snow day! 
 
 <!--  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
 
 ## Wednesday
 
+- Volunteer for presentations next week, starting on Wednesday
+- Mixing with [Delays](../posts/week-14/delays/)
 - More [delay](../posts/week-15/more-delays) - third-party plugins
 
 ## Friday
@@ -256,13 +258,12 @@ date: "2023-1-9"
 
 > Presentation proposal due by midnight  
 
-<!--
-<!-- z
+
 # Week 13 (4/1)
 
 ## Monday
 
-- class presentations
+- No class - Easter Holiday
 
 ## Wednesday
 
@@ -277,8 +278,9 @@ date: "2023-1-9"
 ## Monday
 
 
-- lesson presentations
+- Class presentations
 
+<!--
 ## Wednesday
 
 
