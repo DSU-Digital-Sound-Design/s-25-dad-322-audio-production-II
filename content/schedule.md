@@ -250,7 +250,6 @@ date: "2023-1-9"
 
 - Volunteer for presentations next week, starting on Wednesday
 - Mixing with [Delays](../posts/week-14/delays/)
-- More [delay](../posts/week-15/more-delays) - third-party plugins
 
 ## Friday
 
@@ -285,15 +284,19 @@ date: "2023-1-9"
 
 
 - Class presentations
-  - Orlando
   - Abbie 
   - Mason 
 
-<!--
 ## Wednesday
 
+- Orlando
+- Start working on the radio mix for Thursdays show. 
+  - An example:[WWOZ Stream Archive](https://www.wwoz.org/listen/archive/)
+- More [delay](../posts/week-15/more-delays) - third-party plugins
 
+> Talk about final project
 
+<!--
 ## Friday
 
 - [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
