@@ -289,8 +289,8 @@ date: "2023-1-9"
 
 ## Wednesday
 
-- Orlando
-- Start working on the radio mix for Thursdays show. 
+- Orlando presentation 
+- Start working on the radio mix for Thursday's show. 
   - An example:[WWOZ Stream Archive](https://www.wwoz.org/listen/archive/)
 - More [delay](../posts/week-15/more-delays) - third-party plugins
 
