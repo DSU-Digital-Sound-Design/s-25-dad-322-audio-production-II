@@ -298,17 +298,17 @@ date: "2023-1-9"
 ## Friday
 
 - More [delay](../posts/week-15/more-delays) - third-party plugins
-- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
-<!--
 # Week 15 (4/15)
 
 ## Monday
 
+- [Stereo Enhancements](../posts/week-14/stereo-enhancements/)
 - [Master-Buss Processing, Automation](../posts/week-15/master-processing-automation)
   - bus processing techniques and concepts
 
+<!--
 ## Wednesday
 
 - Automation and rides
