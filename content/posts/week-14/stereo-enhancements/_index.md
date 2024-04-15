@@ -68,7 +68,7 @@ Comb filtering is similar to the previous method, and better for general purpose
 
 ### Haas Delays
 
-Pan a delayed echo of the signal about 30 ms.
+Duplicate the track. Hardpan one left and the other track right. Delay the right track by 20-40ms.
 
 > For the widest stereo effect, you should pan the wet
 > and dry sounds to opposite stereo extremes, but I find
