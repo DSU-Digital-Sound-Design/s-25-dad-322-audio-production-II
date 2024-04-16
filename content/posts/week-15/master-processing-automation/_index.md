@@ -4,7 +4,7 @@ title: "Finishing a mix"
 
 Mike senior listening examples: [Chapter 19: Master-buss Processing, Automation, & Endgame](https://cambridge-mt.com/ms/ch19/)
 
-## Master Buss Processing - General Concepts
+## Master-Buss Processing - General Concepts
 
 It's common to add processing on our master bus to create a more combined sound. This can be a challenging process to take care not to undo your decisions in the mixing process.
 
@@ -12,7 +12,7 @@ It's common to add processing on our master bus to create a more combined sound.
 
 Compression is one of the most common processors on the master.
 
-Below are some uses for master buss compression:
+Below are some uses for master-buss compression:
 
 - It introduces some level of interaction between different parts in your mix by ducking quiet signals slightly in response to louder ones, and in doing so it gives a feeling that the mix coheres better. It’s common to hear recording engineers talk of master-buss compression “gluing the mix together” on account of this.
 - It can create pumping effects that add a subjective sense of loudness and aggression, which suits certain music genres, especially rock music.
@@ -32,7 +32,7 @@ Watch out for these common side effects of compression on the master:
 - _Loss of attack on prominent transients, such as kick and snare drums._ Suggested remedies: reduce gain reduction; increase attack time; reduce the ratio; adjust knee softness; switch level-detection mode from peak to average (RMS); select a different compressor design.
 - _Excessive gain pumping._ Suggested remedies: reduce gain reduction; adjust release time or switch to automatic mode; apply low-frequency EQ cut in the level-detection side-chain; select a different compressor design.
 - _Unwanted distortion._ Suggested remedies: lengthen attack and release times; adjust knee softness; select a different compressor design.
-- _Loss of weight on instruments with low-end transients, such as kick drums._ Suggested remedies: reduce gain reduction; lengthen attack time; apply low- frequency EQ cut in the level-detection side-chain; adjust knee softness; select a different compressor design.
+- _Loss of weight on instruments with low-end transients, such as kick drums._ Suggested remedies: reduce gain reduction; lengthen attack time; apply low-frequency EQ cut in the level-detection side-chain; adjust knee softness; select a different compressor design.
 - _Undesirable alterations in the subjective mix balance._ Suggested remedies: reduce gain reduction; lengthen attack and/or release times; adjust knee softness; select a different compressor design.
 - _Unappealing tonal changes to the mix._ Suggested remedies: use a gain plugin to adjust the signal level feeding the compressor; select a different compressor design.
 
@@ -63,7 +63,7 @@ Coloristic things to try:
 ### General Considerations for Master-buss Processing
 
 - never try to finalize all your mix settings before getting your choice of master-buss processing involved
-- Top down vs. bottom up
+- Top-down vs. bottom up
 
 > “Why would you wait till the end?" asks Jaycen Joshua. “You want to hear what it’s doing immediately. If you wait to the end, it’s going to change your mix completely.”
 
@@ -98,7 +98,7 @@ Next, add a compressor to glue the mix together and make it more dynamic. A free
 
 Right-click on the track and select `Bypass Chain` to hear what it sounds like without your master processing. Doing this can show you if you're doing something positive to the mix.
 
-Next, let's add a multi-band compressor. In Reaper, that's `ReaXComp.` Start with the low end and `Solo current band` so that you only hear that band. Then, adjust that band to compress the sub-bass frequency range, around 160 Hz. Next, change the following three bands to pass the correct parts of the frequency spectrum for this mix. Set the ratio of each compressor to 4:1, a good starting point. Also, turn on `Program dependent release` for each band.
+Next, let's add a multi-band compressor. In Reaper, that's `ReaXComp.` Start with the low-end and `Solo current band` so that you only hear that band. Then, adjust that band to compress the sub-bass frequency range, around 160 Hz. Next, change the following three bands to pass the correct parts of the frequency spectrum for this mix. Set the ratio of each compressor to 4:1, a good starting point. Also, turn on `Program dependent release` for each band.
 
 Finally, link each threshold together, so they all move simultaneously. For example, touch the threshold of the second band, go to Param -> Parameter Modulation / MIDI Link -> Link from MIDI or fx parameter, then select the threshold of the first band. Go through and link each other band to the first band. Finally, adjust the threshold to get a slight gain reduction across the bands.
 
