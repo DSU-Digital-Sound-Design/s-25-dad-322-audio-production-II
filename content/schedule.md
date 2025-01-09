@@ -1,74 +1,75 @@
 ---
 title: "Schedule"
-date: "2023-1-9"
+date: "2025-1-13"
 ---
 
 {{< toc >}}
 
-# Week 1 (1/8)
+# Week 1 (1/13)
 
 ## Monday
 
 - Syllabus overview
 - Semester Introduction
 - Finding the textbooks in the [DSU Library](https://library.dsu.edu)
-- [Some extra stuff about Reaper](../posts/week-1/reaper-intro/)
+- [Some extra resources about Reaper](../posts/week-1/reaper-intro/)
 
-> Assignment [Written Assignment 1 - Edison's List](../assignments/wr1/)
+> **Assignment**: [Written Assignment 1 - Edison's List](../assignments/wr1/)
 
 ## Wednesday
 
 - Review Edison homework
-- [Hearing and listening + Using nearfield monitors](../posts/week-1/monitoring/)
+- [Hearing and Listening + Using Nearfield monitors](../posts/week-1/monitoring/)
 
-> `Reading`: The Studio as Compositional Tool, Brian Eno. Submit a written response to D2L.
+> **Reading**: *The Studio as Compositional Tool* by Brian Eno. Submit a written response to D2L.
 
 ## Friday
 
-- Discuss Eno reading
-  - [Recorded lecture on the studio as a compositional tool](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
+- Discuss Eno reading:
+  - [Recorded lecture on *The Studio as a Compositional Tool*](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
   - [Questions](../posts/week-1/studio-as-a-compositional-tool/)
-- [Setting up a home studio environment](https://youtu.be/rLrZdahhCCE)
-- [Low-end mixing references](../posts/week-1/CambridgeMT_5BassReferences.pdf)
-  - [Notes on bass references](../posts/week-1/bass-reference-notes)
-- Listen to some of your favorite music and try to understand what you're hearing from a mixing standpoint. These might be songs you use for a reference mix later in the semester.
-- A field trip to my office to see how you shouldn't setup your studio.
+- [Setting up a Home Studio Environment](https://youtu.be/rLrZdahhCCE)
+- [Low-end Mixing References](../posts/week-1/CambridgeMT_5BassReferences.pdf)
+  - [Notes on Bass References](../posts/week-1/bass-reference-notes)
+- Listen to your favorite music and analyze its mix. These might become your reference mixes later.
+- Field trip to my office: Learn how **not** to set up a studio.
   - Listen to some of the same songs and try to hear the deficiencies in my room.
 
-> Homework - bring in two bass references to class on Wednesday. One should be a song that's good for checking the range of yours speakers, the other should sound good on speakers with a limited range, like the Post Malone song in the references.
-
-# Week 2 (1/15)
+> **Homework** - Bring two bass references to class on Wednesday:
+> 1. A song good for testing speaker range.
+> 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references).
+<!-- 
+# Week 2 (1/20)
 
 ## Monday
 
-- No class - MLK Day
+- No class (MLK Day)
 
 ## Wednesday
 
-- See: [Should I mix on headphones or speakers? - Blog | Splice](https://splice.com/blog/mix-on-headphones-or-speakers/)
-- Listen to student's bass references - 20 minutes
-- [Supplemental Monitoring](../posts/week-2/wednesday) 
+- No class (Professional Development)
 
 ## Friday
 
-- Resources
-  - [Presonus Monitor Station reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)
-  - Mixing resources: 
-    - [Sound on Sound](https://www.soundonsound.com/), 
-    - [TapeOp](https://tapeop.com/), 
-    - [Pensado's Place](https://www.pensadosplace.tv/)
-- Lecture
-  - [Supplemental Monitoring](../posts/week-2/wednesday/#/13) - Finish talking about SPAN
-    - Also, a short video on [SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)
-  - [From subjection impressions to objective results](../posts/week-2/friday/)
+- Resources:  
+  - [Presonus Monitor Station Reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)  
+  - Mixing resources:  
+    - [Sound on Sound](https://www.soundonsound.com/)  
+    - [TapeOp](https://tapeop.com/)  
+    - [Pensado's Place](https://www.pensadosplace.tv/)  
+- Lecture:  
+  - [Supplemental Monitoring](../posts/week-2/wednesday/#/13): Finish discussing SPAN.  
+  - [Short Video on SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)  
+  - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
 
-> Homework: Make a list of six mix references. Your list should represent three styles of music. Make sure you listen on different speakers and in different rooms and at different volumes. Write a paragraph about each song, explaining why you picked it. Eventually you'll pick references depending on what mix you're working on, but for now choose mixes that you think work well as overall mixes. 
+> **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
-# Week 3 (1/22)
+
+# Week 3 (1/27)
 
 ## Monday
 
-- Listen to one of each of your mix references
+- Listen to one of your mix references
 - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 - [More organization](../posts/week-3/monday/more-organization/)
 
@@ -79,13 +80,13 @@ date: "2023-1-9"
   - finish tempo mapping
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-> Assignment: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
+> **Assignment**: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
 
 ## Friday
 
 - Finish [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
-# Week 4 (1/29)
+# Week 4 (2/3)
 
 ## Monday
 
@@ -93,7 +94,7 @@ date: "2023-1-9"
   - ReaTune - manual and automatic adjustments
   - Vocal Alignment
 
-> Complete vocal tuning and aligning project for _Better Way_, submit to D2L by Monday. 
+> **Assignment**: Complete the vocal tuning and aligning project for *Better Way* and submit to D2L by Monday.  
 
 ## Wednesday
 
@@ -109,7 +110,7 @@ date: "2023-1-9"
 - [Punching in](../posts/week-4/punching-in/)
 - Recording guitars and bass? 
 
-# Week 5 (2/5)
+# Week 5 (2/10)
 
 ## Monday
 
@@ -120,19 +121,21 @@ date: "2023-1-9"
 
 - [Building raw balance](../posts/week-5/balance/)
 
-> Mixing Assignment 1 - Choose a different medium difficulty project than we did in class and create a mixdown with proper balance using item gain, fader levels, and panning. Also, complete any necessary timing and tuning adjustments using the methods we learned in class. 
-> DUE February 19th at 1:00 pm.
-
+> **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 19th at 1:00 pm.  
 
 ## Friday
 
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 
-# Week 6 (2/12)
+# Week 6 (2/17)
 
 ## Monday
 
+- No class - President's Day
+
+
+## Wednesday
 - What projects are you all working on for the mixing assignment?
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
@@ -144,7 +147,8 @@ date: "2023-1-9"
   - Friday we'll have some mix listening sessions, so make sure everyone has a song picked and something to show. The mix doesn't have to be finished, but it should be far enough along that we can hear what you're doing.
   - Then we'll spend extra time on the class song.
 
-## Wednesday
+
+## Friday
 
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
@@ -153,19 +157,17 @@ date: "2023-1-9"
   - [example](../posts/week-6/beyond-compression/comp-ex/)
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
-## Friday
+
+# Week 7 (2/24)
+
+## Monday
 
 - Mix listening sessions
   - We'll listen to a few different students in process mixes and talk about what's working and what's not.
 - Recording day
-  - Calvin plays some violin for the class song
+  - ___ plays some violin for the class song
   - extra percussion? 
 
-# Week 7 (2/19)
-
-## Monday
-
-- No class - President's Day
 
 ## Wednesday
 
@@ -175,7 +177,7 @@ date: "2023-1-9"
 
 - Finish listening and critiquing mixes
 
-# Week 8 (2/26)
+# Week 8 (3/3)
 
 ## Monday 
 
@@ -197,13 +199,29 @@ date: "2023-1-9"
 > [Editing 2 - Equalization](../assignments/eq-lab/) - start in class
 
 
-# Week 9 (3/4)
+# Week 9 (3/10)
+
+- Spring Break - No Classes
+
+# Week 10 (3/17)
 
 ## Monday
 
 - [Beyond equalization](../posts/week-9/beyond-equalization/)
 
+> Introduce Presentations
+
 ## Wednesday
+
+- No class (MoxSonic Conference/Festival Travel)
+
+## Friday
+
+- No class (MoxSonic Conference/Festival Travel)
+  
+# Week 11 (3/21)
+
+## Monday
 
 - Lake County Museum Podcast internship opportunity
 - Finish [Beyond equalization](../posts/week-9/beyond-equalization/)
@@ -213,52 +231,37 @@ date: "2023-1-9"
     - Also look at Sound Toys for these effects
 - [Frequency Selective Dynamics](../posts/week-9/frequency-selective-dynamics/)
 
-> Introduce presentations 
 
-## Friday
-
-- Students show arrangements of the class song
-
-# Week 10 (3/11)
-
-- Spring Break - No Classes
-
-# Week 11 (3/18)
-
-## Monday
+## Wednesday
 
 - [Mixing with reverb](../posts/week-9/mixing-with-reverb/)
 
-## Wednesday
+## Friday
 
 - start preparing to teach a lesson
 - More [reverb](../posts/week-12/reverb/)
 
-## Friday
-
-- listen to project 2
-
-# Week 12 (3/25)
+# Week 12 (3/31)
 
 ## Monday
 
-- Snow day! 
-
-<!--  didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse -->
+- listen to project 2
 
 ## Wednesday
 
+ didn't get to this - Other [reverb tricks](../posts/week-13/reverb-tricks) - gated, dynamic, reverse
+
 - Volunteer for presentations next week, starting on Wednesday
-- Mixing with [Delays](../posts/week-14/delays/)
 
 ## Friday
 
-- No class -- Easter Holiday
+- Mixing with [Delays](../posts/week-14/delays/)
+
 
 > Presentation proposal due by midnight  
 
 
-# Week 13 (4/1)
+# Week 13 (4/7)
 
 ## Monday
 
@@ -267,29 +270,22 @@ date: "2023-1-9"
 ## Wednesday
 
 - class presentations
-  - Hunter
-  - Calvin 
-  - David 
+
 
 ## Friday
 
 - class presentations
-  - Reiter
-  - Wiley 
-  - Michael
 
-# Week 14 (4/8)
+# Week 14 (4/14)
 
 ## Monday
 
 
 - Class presentations
-  - Abbie 
-  - Mason 
 
 ## Wednesday
 
-- Orlando presentation 
+
 - Start working on the radio mix for Thursday's show. 
   - An example:[WWOZ Stream Archive](https://www.wwoz.org/listen/archive/)
 
@@ -300,7 +296,7 @@ date: "2023-1-9"
 - More [delay](../posts/week-15/more-delays) - third-party plugins
 - Reminder to complete your recordings as soon as you can. Next week we'll be working on the mixes in class. We can also do any overdubs that might need someone else in our class.
 
-# Week 15 (4/15)
+# Week 15 (4/21)
 
 ## Monday
 
@@ -322,21 +318,4 @@ date: "2023-1-9"
 - [Envelopes and Automation](../posts/week-15/envelopes-automation)
 
 
-<!--
-# Week 16 (4/22)
-
-## Monday
-
-- Jacob shows mixing progress
-
-## Wednesday
-
-- Noah shows mixing progress
-
-## Friday
-
-- Sam shows mixing progress
-
-> Exam - April 29, 3:30 – 5:30 pm -->
-
-<!-- edit -->
+ -->
