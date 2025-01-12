@@ -1,7 +1,5 @@
 # Edison’s list
 
-## Due: Wednesday, January 10, 1:00 pm
-
 ## Submit to: D2L
 
 In an article for the North American Review, Thomas Edison (1878)
