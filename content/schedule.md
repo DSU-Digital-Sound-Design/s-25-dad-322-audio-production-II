@@ -28,16 +28,19 @@ date: "2025-1-13"
 - Discuss Eno reading:
   - [Recorded lecture on *The Studio as a Compositional Tool*](https://www.ubuweb.com/media/sound/eno_brian/Eno-Brian_Interview_KPFA_1980_Part-2.mp3)
   - [Questions](../posts/week-1/studio-as-a-compositional-tool/)
-- [Setting up a Home Studio Environment](https://youtu.be/rLrZdahhCCE)
+- Continue: - [Hearing and Listening + Using Nearfield monitors](../posts/week-1/monitoring/)
+- Watch at home if we run out of time: 
+  - [Setting up a Home Studio Environment](https://youtu.be/rLrZdahhCCE)
 - [Low-end Mixing References](../posts/week-1/CambridgeMT_5BassReferences.pdf)
   - [Notes on Bass References](../posts/week-1/bass-reference-notes)
 - Listen to your favorite music and analyze its mix. These might become your reference mixes later.
 - Field trip to my office: Learn how **not** to set up a studio.
   - Listen to some of the same songs and try to hear the deficiencies in my room.
 
-> **Homework** - Bring two bass references to class on Wednesday:
+<!-- > **Homework** - Bring two bass references to class on Wednesday:
 > 1. A song good for testing speaker range.
-> 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references).
+> 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references). -->
+
 <!-- 
 # Week 2 (1/20)
 
