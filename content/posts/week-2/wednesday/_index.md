@@ -31,6 +31,7 @@ margin = 0.2
 
 
 ---
+
 ## The Legacy of the Auratone 5C Super Sound Cube
 
 - Importance in Historic Hit Records
@@ -48,6 +49,7 @@ margin = 0.2
 {{%/ note %}}
 
 ---
+
 ## Quotes
 
 > “I love Auratones!” enthuses Jackson’s long time producer and engineer Bruce Swedien. “You know what Quincy [Jones] calls them? The Truth Speakers! There’s no hype with an Auratone. . . . Probably 80 percent of the mix is done on Auratones, and then I’ll have a final listen or two on the big speakers.”

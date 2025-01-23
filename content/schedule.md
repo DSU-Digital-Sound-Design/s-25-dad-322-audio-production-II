@@ -41,7 +41,6 @@ date: "2025-1-13"
 > 1. A song good for testing speaker range.
 > 2. A song that sounds great on limited-range speakers (e.g., Post Malone in the references). -->
 
-<!-- 
 # Week 2 (1/20)
 
 ## Monday
@@ -63,11 +62,12 @@ date: "2025-1-13"
 - Lecture:  
   - [Supplemental Monitoring](../posts/week-2/wednesday/#/13): Finish discussing SPAN.  
   - [Short Video on SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)  
-  - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
+  - Mix Referencing - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
 
 > **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
 
+<!-- 
 # Week 3 (1/27)
 
 ## Monday
