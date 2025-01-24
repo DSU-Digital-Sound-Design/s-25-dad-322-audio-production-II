@@ -29,6 +29,20 @@ Use these settings:
 
 Finish the process by listening to each of the tracks soloed and ensuring that no audio has been inadvertently removed.
 
+
+
+## Color-Coding and Track Renaming
+
+Color-coding and renaming tracks are essential for maintaining a clear overview of your project. This practice enhances your workflow and helps you quickly identify specific tracks. For instance, you might color-code all drum tracks in blue, guitar tracks in green, and vocal tracks in red. This visual organization simplifies the mixing process and streamlines your workflow. You can also rename tracks to reflect the instrument or part they represent, such as "Kick Drum" or "Lead Guitar." 
+
+## Regions and Markers
+
+Regions and markers are indispensable tools for navigating your project. Regions are used to define sections of your project, such as verses, choruses, and bridges. Markers, on the other hand, are used to highlight specific points in your project, such as key changes or significant events. By utilizing regions and markers effectively, you can easily navigate your project and make precise edits and adjustments.
+
+Use the following shortcuts to create regions and markers:
+- To create a region: make a time selection and type `shift + R`
+- To create a marker: `m`
+
 ## Utilizing a Reference Mix
 
 1. Create a folder containing all your project tracks.

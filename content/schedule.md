@@ -31,11 +31,8 @@ date: "2025-1-13"
 - Continue: - [Hearing and Listening + Using Nearfield monitors](../posts/week-1/monitoring/)
 - Watch at home if we run out of time: 
   - [Setting up a Home Studio Environment](https://youtu.be/rLrZdahhCCE)
-- [Low-end Mixing References](../posts/week-1/CambridgeMT_5BassReferences.pdf)
-  - [Notes on Bass References](../posts/week-1/bass-reference-notes)
-- Listen to your favorite music and analyze its mix. These might become your reference mixes later.
-- Field trip to my office: Learn how **not** to set up a studio.
-  - Listen to some of the same songs and try to hear the deficiencies in my room.
+
+
 
 <!-- > **Homework** - Bring two bass references to class on Wednesday:
 > 1. A song good for testing speaker range.
@@ -53,6 +50,9 @@ date: "2025-1-13"
 
 ## Friday
 
+- [Low-end Mixing References](../posts/week-1/CambridgeMT_5BassReferences.pdf)
+  - [Notes on Bass References](../posts/week-1/bass-reference-notes)
+- Listen to your favorite music and analyze its mix. These might become your reference mixes later.
 - Resources:  
   - [Presonus Monitor Station Reference](https://pae-web.presonusmusic.com/downloads/products/pdf/MonitorStation_OwnersManual_EN.pdf)  
   - Mixing resources:  
@@ -60,23 +60,21 @@ date: "2025-1-13"
     - [TapeOp](https://tapeop.com/)  
     - [Pensado's Place](https://www.pensadosplace.tv/)  
 - Lecture:  
-  - [Supplemental Monitoring](../posts/week-2/wednesday/#/13): Finish discussing SPAN.  
+  - [Supplemental Monitoring](../posts/week-2/wednesday/) 
   - [Short Video on SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)  
   - Mix Referencing - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
 
 > **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
 
-<!-- 
 # Week 3 (1/27)
 
 ## Monday
 
-- Listen to one of your mix references
+- Listen to your mix references
 - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
-- [More organization](../posts/week-3/monday/more-organization/)
 
-
+<!-- 
 ## Wednesday
 
 - [Tempo mapping](../posts/week-3/monday/timing-and-tuning/)
