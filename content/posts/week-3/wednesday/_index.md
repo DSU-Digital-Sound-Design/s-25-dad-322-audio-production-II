@@ -10,7 +10,6 @@ We're going to use the snare and kick drum as guides to add stretch markers to o
 
 #### Preparing the Project
 
-- **Load Tracks**: Begin by loading Hurray For the Riff Raff's _Living in the City_ tracks into your Reaper project.
 - **Group Items**: Group all drum items together. This allows you to edit one track and simultaneously apply changes to all grouped tracks.
 - Turn off this setting: 
   - ![](select-one-item.png)

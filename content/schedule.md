@@ -74,15 +74,16 @@ date: "2025-1-13"
 - Listen to your mix references
 - [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
 
-<!-- 
 ## Wednesday
 
 - [Tempo mapping](../posts/week-3/monday/timing-and-tuning/)
   - finish tempo mapping
+- After tempo mapping, finish adding regions and markers. 
 - [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 > **Assignment**: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
 
+<!-- 
 ## Friday
 
 - Finish [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
