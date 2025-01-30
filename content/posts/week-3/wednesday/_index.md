@@ -50,6 +50,7 @@ We're going to use the snare and kick drum as guides to add stretch markers to o
 - **Split Snare Track**: Use "Dynamic split items" on the snare track. Ensure you choose "split selected and grouped items" to apply the split to all drum tracks based on the snare. Make sure the leading and trailing pads are set to 0.
 - **Repeat for Kick Track**: Follow the same process for the kick track.
 - Before moving onto the next step, make sure all of your splits are actually on a transient. If you don't do this the quantization will not work properly.
+- You'll want to temporarily disable snapping to move the splits by holding down the **shift key**.
 
 ####  Quantizing Drum Group
 - **Quantize to Grid**: Go to item -> item processing -> quantize item positions to the grid. Ensure "move group items with selected items" is selected.
