@@ -22,11 +22,7 @@ We're going to use the snare and kick drum as guides to add stretch markers to o
 - Open the dynamic split dialogue with the shortcut "D". Use the following settings: 
   - ![](adding-stretch.png)
 - **Add Stretch Markers**: Use the action "Add stretch markers to selected items and grouped items" to add stretch markers to the transients on the snare track.
-
-####  Managing Kick Track
-- Select the `kick out` kick track. For songs where you only have one kick you'll have to duplicate the kick first. 
-- **Add Transients to Duplicated Track**: Apply transients to this duplicated track. This step prevents the deletion of stretch markers from the snare track.
-- **Delete Copied Kick Track**: After adding stretch markers, delete the duplicated kick track.
+- Do the same process to one of the kick tracks. 
 
 ####  Ensuring All Hits Have Stretch Markers
 - **Inspect the Song**: Go through the entire song and check for any kick or snare hits that are missing stretch markers.
@@ -53,6 +49,7 @@ We're going to use the snare and kick drum as guides to add stretch markers to o
 #### Splitting Drum Tracks
 - **Split Snare Track**: Use "Dynamic split items" on the snare track. Ensure you choose "split selected and grouped items" to apply the split to all drum tracks based on the snare. Make sure the leading and trailing pads are set to 0.
 - **Repeat for Kick Track**: Follow the same process for the kick track.
+- Before moving onto the next step, make sure all of your splits are actually on a transient. If you don't do this the quantization will not work properly.
 
 ####  Quantizing Drum Group
 - **Quantize to Grid**: Go to item -> item processing -> quantize item positions to the grid. Ensure "move group items with selected items" is selected.
