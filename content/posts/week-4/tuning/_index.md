@@ -4,7 +4,7 @@ title: "Tuning and Aligning Vocals"
 
 ### Overview
 
-This text focuses on two essential aspects of vocal production: tuning and aligning vocals. We'll be practicing these skills using Benjamin John's song "Better Way". First, we'll tune the vocals using the ReaTune plugin, ensuring they are in the correct key and pitch-perfect. Then, we'll align the background vocals with the lead vocal, creating a cohesive and polished sound.
+This page focuses on two essential aspects of vocal production: tuning and aligning vocals. We'll be practicing these skills using Benjamin John's song "Better Way". First, we'll tune the vocals using the ReaTune plugin, ensuring they are in the correct key and pitch-perfect. Then, we'll align the background vocals with the lead vocal.
 
 ### Preparing the Track
 

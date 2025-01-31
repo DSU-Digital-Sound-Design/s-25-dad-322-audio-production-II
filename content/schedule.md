@@ -79,14 +79,12 @@ date: "2025-1-13"
 - [Tempo mapping](../posts/week-3/monday/timing-and-tuning/)
   - finish tempo mapping
 - After tempo mapping, finish adding regions and markers. 
-- [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
-
+  
 > **Assignment**: [Editing 1 - Drums](../posts/week-3/wednesday/) - Due Wednesday
 
-<!-- 
 ## Friday
 
-- Finish [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
+- [Drum quantization with multi-tracks](../posts/week-3/wednesday/)
 
 # Week 4 (2/3)
 
@@ -98,6 +96,7 @@ date: "2025-1-13"
 
 > **Assignment**: Complete the vocal tuning and aligning project for *Better Way* and submit to D2L by Monday.  
 
+<!-- 
 ## Wednesday
 
 - Finish [Tuning and vocal aligning](../posts/week-4/tuning/) - aligning backup vocals
