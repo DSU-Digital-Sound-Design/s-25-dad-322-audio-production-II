@@ -96,7 +96,6 @@ date: "2025-1-13"
 
 > **Assignment**: Complete the vocal tuning and aligning project for *Better Way* and submit to D2L by Monday.  
 
-<!-- 
 ## Wednesday
 
 - Finish [Tuning and vocal aligning](../posts/week-4/tuning/) - aligning backup vocals
@@ -105,6 +104,7 @@ date: "2025-1-13"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
+<!-- 
 ## Friday
 
 - [Takes and comping](../posts/week-4/takes-comping/)
