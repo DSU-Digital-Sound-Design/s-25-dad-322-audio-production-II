@@ -107,15 +107,15 @@ date: "2025-1-13"
 <!-- 
 ## Friday
 
-- [Takes and comping](../posts/week-4/takes-comping/)
-- [Punching in](../posts/week-4/punching-in/)
 - Recording guitars and bass? 
+- Recording drums - one mic in front of the kit.
 
 # Week 5 (2/10)
 
 ## Monday
 
-- Recording drums - one mic in front of the kit.
+- [Takes and comping](../posts/week-4/takes-comping/)
+- [Punching in](../posts/week-4/punching-in/)
 - We'll put the class song on hold for a bit and work on mixing projects.
 
 ## Wednesday
