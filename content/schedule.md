@@ -104,11 +104,9 @@ date: "2025-1-13"
   - Create backing tracks for playing to?
   - Drums, bass, other instruments?
 
-<!-- 
 ## Friday
 
-- Recording guitars and bass? 
-- Recording drums - one mic in front of the kit.
+- more recording the class song
 
 # Week 5 (2/10)
 
@@ -118,6 +116,7 @@ date: "2025-1-13"
 - [Punching in](../posts/week-4/punching-in/)
 - We'll put the class song on hold for a bit and work on mixing projects.
 
+<!-- 
 ## Wednesday
 
 - [Building raw balance](../posts/week-5/balance/)
