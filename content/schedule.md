@@ -116,15 +116,17 @@ date: "2025-1-13"
 - [Punching in](../posts/week-4/punching-in/)
 - We'll put the class song on hold for a bit and work on mixing projects.
 
-<!-- 
 ## Wednesday
+
+- Redo drum recording and record some alto saxophone. More practice. 
+
+
+<!-- 
+## Friday
 
 - [Building raw balance](../posts/week-5/balance/)
 
 > **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 19th at 1:00 pm.  
-
-## Friday
-
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 
