@@ -121,7 +121,6 @@ date: "2025-1-13"
 - Redo drum recording and record some alto saxophone. More practice. 
 
 
-<!-- 
 ## Friday
 
 - [Building raw balance](../posts/week-5/balance/)
@@ -130,6 +129,7 @@ date: "2025-1-13"
 - [Compressing for a reason](../posts/week-5/compression/)
   - Pick some tracks in the mix and experiment with compression settings.
 
+<!-- 
 # Week 6 (2/17)
 
 ## Monday
