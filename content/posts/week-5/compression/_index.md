@@ -7,19 +7,26 @@ margin = 0.2
 +++
 
 
-## Understanding Compression in Mixing
+## Introduction to Compression
 
-- Compression as an automated fader
-- Reducing undesirable signal-level variations
+- Definition: Compression as an automated fader
+- Purpose: Reducing undesirable signal-level variations
 - Example: Correcting vocal level inconsistencies
 - Compressors' role in achieving a balanced mix
 
 {{% note %}}
 
-- Compression in mixing can be likened to an automated fader, adjusting audio levels in real time to maintain balance.
-- It addresses issues like fluctuating signal levels, ensuring instruments and vocals retain their place in the mix.
-- For instance, a lead vocal with varying loudness (e.g., mumbled words vs. clear delivery) can be evened out with compression, avoiding the need for constant manual fader adjustments.
-- Compressors, by reducing dynamic range, help in achieving a consistent and balanced mix, making them invaluable in addressing the practical challenges of mixing.
+- **Role of Compression**: Helps achieve a balanced mix by managing dynamic range.  
+- **Dynamics Control**: Reduces level differences, ensuring all elements are audible without excessive volume shifts.  
+- **Stable Balance**: Addresses signal-level variations when a static fader position doesn’t work.  
+- **Glueing Elements Together**: Mix bus compression enhances cohesion, making sounds interact dynamically.  
+- **Individual Instrument Compression**:  
+  - Evens out bass guitar notes.  
+  - Ensures vocals remain consistently heard.  
+  - Makes drum hits more uniform.  
+- **Mix Buss Compression**: Helps unify the mix by creating subtle interactions between elements.  
+- **Compression as an Indicator**: Bus compression acts as a "soft ceiling," highlighting arrangement clashes.  
+- **Caution Against Over-Compression**: Can alter timbre, introduce noise, and make the mix sound lifeless. Use compression judiciously.
 
 {{%/ note %}}
 
@@ -29,18 +36,62 @@ margin = 0.2
 
 ---
 
+# Key Compression Controls 
+
+- Threshold
+- Makeup Gain
+- Ratio
+- Attack, and Release
+
+---
+
 ## Threshold and Makeup Gain 
 
-- Understanding Threshold control
-- Exploring Peak Reduction and Input Gain
+- Definition and function of Threshold
+- Peak Reduction vs. Input Gain
 - Importance of Makeup Gain
-- Practical tips for using compression effectively
+- Practical tips for effective use
 
 {{% note %}}
 
-- The Threshold control specifies the level above which audio is considered too loud, requiring adjustment to increase compression.
-- Peak Reduction and Input Gain controls offer alternative methods for managing compression, with distinct approaches to adjusting signal levels.
-- Makeup Gain is crucial for compensating the volume decrease caused by compression, ensuring the processed signal maintains its intended loudness.
+## Threshold 
+
+*   **Definition:** Threshold is a primary parameter that governs the activity of the side-chain in dynamics processing. It represents the **level at which a dynamics processor begins to adjust gain**. The threshold determines the point where the compressor starts turning the volume down.
+*   **Function in Compressors:**
+    *   The threshold setting determines the level at which the compressor will begin to proportionately reduce the incoming signal.
+    *   Signals **below the threshold remain unaffected**, while those **above are attenuated**.
+    *   Some compressors feature a **fixed threshold level**. In this case, the amount of compression is set by varying the input signal's level relative to that threshold. The more the signal exceeds the fixed threshold level, the more compression occurs.
+    *   The threshold can be adjusted to control the level of compression. Turning the threshold knob down increases the amount of compression, while turning it up decreases the amount of compression.
+*   **Function in Expanders:** For expanders, signals **below the threshold** have gain reduction applied to them.
+*   **Knee:** Most quality compressors offer hard and soft knee threshold options. A soft knee widens the threshold range, making the onset of compression less noticeable, while a hard knee setting causes the effect to engage quickly above the threshold point.
+*   **Dynamic EQ**: In Dynamic EQ, the threshold setting defines the relative threshold, or difference, between broadband and bandpass levels, which result in compression of sibilants.
+*   **Gain control**: On some devices, varying the input gain will correspondingly control the threshold level.
+*   **Threshold as a trigger**: Each of the threshold controls acts like a trigger or hinge point, activating gain reduction or expansion only when the input signal exceeds the set point value.
+
+
+## Peak Reduction and Input Gain
+
+*   **Peak Reduction**
+    *   A control labeled "Peak Reduction" (or sometimes just "Compression") increases compression, resulting in more reduction of peak levels, as it is turned up.
+*   **Input Gain**
+    *   With an Input Gain control, the compressor has a **fixed threshold level**. The amount of compression is set by **varying the input signal’s level relative to that threshold**.
+    *   Turning up the Input Gain control causes the signal to exceed the fixed threshold level, resulting in more compression. However, the **signal’s overall level also increases** as more compression is added.
+*   **Key Differences**
+    *   **Level Increase**: **Input Gain increases the overall signal level** as compression is added, whereas Peak Reduction typically makes the signal quieter when compression is applied.
+    *   **Fixed Threshold:** Input Gain controls are used on compressors that have a fixed threshold.
+    *   **Potential for Over-processing**: Input Gain can give a potentially misleading impression that processing is improving the sound due to the level hike, even if the amount of compression is excessive.
+    *   **Versatility**: Becoming comfortable with both control types gives access to a wider choice of compressors at mixdown.
+
+## Makeup Gain 
+
+*   **Definition:** Make-up Gain is a control on a compressor that **boosts the signal back up to its original level (or beyond)**, which is reduced when a compressor operates. It controls the desired output level with compression active. It allows you to compensate for the loss in loudness caused by the compressor.
+*   **Primary Function:** The most important thing when setting a compressor is using the Make-up Gain parameter.
+*   **Maintaining Balance:** Make-up gain helps to **maintain the audible loudness and overall mix balance** when compression is applied. When the compressor is switched in and out of the signal path, the goal is to keep the sound in the same place in the mix.
+*   **Avoiding Misleading Impressions**: It's important to adjust the compressor's Make-up Gain control to compensate for any loudness increase. This is done so that bypassing the compressor doesn't boost the subjective volume, which can mislead you into over-processing.
+*   **Setting by Ear**: Because a compressor causes a loudness change that varies with time, it's best to set the make-up gain by gut feeling. If there are doubts about the amount of make-up gain, it’s better to use a bit less. This way, you're less likely to think the compressor has a positive effect, and it makes you work harder to really find the optimal setting.
+
+## Practical Tips for Effective Use
+
 - For beginners, it's recommended to start with Threshold or Peak Reduction controls to avoid misleading impressions of sound improvement due to volume increases associated with Input Gain control. Mastering these controls can greatly enhance mix balance without delving into complex technicalities.
 
 {{%/ note %}}
@@ -49,10 +100,10 @@ margin = 0.2
 
 ## Identifying Tracks that Benefit from Compression
 
-- Assessing the need for compression
-- Identifying instability in track levels
-- Automatic gain makeup: pros and cons
-- Practical examples and scenarios
+- Evaluating instability in track levels
+- When fader adjustments are insufficient
+- Instruments that commonly require compression
+- Using automatic gain makeup: Pros and cons
 
 {{% note %}}
 
@@ -60,6 +111,20 @@ margin = 0.2
 - A key indicator for needing compression is if you find yourself constantly adjusting a track's fader to maintain balance, such as with vocals where some phrases are too soft or too loud.
 - While some instruments, like electric guitars, may not require compression due to their inherent characteristics, others, particularly vocals and bass, often benefit from it to maintain consistent levels throughout a performance.
 - Compression is not always necessary, but in many modern music productions, it's essential for achieving the polished sound expected in commercial releases, addressing issues from uneven instrumental performances to the technical challenges posed by electronic and acoustic instruments.
+
+## Automatic Gain Makeup: Pros and Cons
+
+*   **Definition**: Automatic gain makeup is a feature in some compressors that automatically compensates for the level change that occurs when compression is applied.
+*   **Pros**:
+    *   It seems like a bright idea on the face of it, because it leaves one hand free.
+*   **Cons**:
+    *   Automatic gain makeup often encourages inexperienced users to overcook the processing.
+    *   Automatic gain makeup designs almost always make compressed signals feel louder than uncompressed ones, which can mislead users into applying too much compression.
+    *   The loudness hike probably helps manufacturers sell more plug-ins.
+    *   The automatic option is not precise.
+
+In summary, while automatic gain makeup may seem convenient, the sources suggest that it can lead to over-compression due to the perceived loudness increase. It may be preferable to manually adjust the gain to ensure more accurate control over the final sound. One should be super vigilant when matching the subjective loudness of the processed and unprocessed sounds for comparison purposes, because most loudness processors make it ridiculously easy to mug yourself in this way. It is essential to focus on the side effects, not the loudness hike. Therefore, manual adjustment is generally recommended for better control.
+
 
 - From here go to the mix and work on some of the tracks that you think might benefit from compression.
 
@@ -105,14 +170,33 @@ margin = 0.2
 
 ## Refining Compression Settings: Ratio Control
 
-- Introduction to advanced compression parameters
-- Compression ratio's impact on dynamic range
-- Practical examples: Slap bass and acoustic guitar
-- Adjusting ratio for optimal compression effect
+- Definition
+- Impact on dynamic range
+- Example applications: slap bass, acoustic guitar
+- Adjusting ratios for optimal effect
 
 {{% note %}}
 
-- The compression ratio determines how aggressively a compressor reins in signals exceeding the threshold. It's a critical setting for tailoring the compressor's action to the specific dynamics of the input signal.
+## Definition 
+
+*   **Definition**: Compression ratio is a control on a compressor/limiter that **determines how much compression or limiting will occur when the signal exceeds the threshold**. It sets how firmly the compressor reins in signals that overshoot the threshold level. It is measured on the basis of **input level to output level**.
+*   **Function**:
+    *   It effectively sets **how much the volume changes** once the signal exceeds the threshold setting.
+    *   It determines the **slope of the input-to-output gain ratio**, which is the amount of input signal (in decibels) needed to cause a 1 dB increase at the compressor’s output.
+*   **Ratio Explained**:
+    *   A ratio of **1:1 results in no compression at all**. With a 1:1 ratio, the output tracks the input, meaning a 2 dB change at the input produces a 2 dB change at the output.
+    *   A ratio of **4:1 means that for every 4dB that goes into the compressor, 1dB will come out**. For every 4 dB increase above the threshold point the output only increases 1 dB.
+    *   A ratio of **10:1 or greater is considered limiting**. For a 10:1 ratio, a 10 dB blast at the input changes only 1 dB at the output.
+    *   Some compressors offer **infinity:1**, meaning overshoots are effectively stopped in their tracks, unable to cross the threshold at all.
+*   **Effect on Sound**:
+    *   **Low ratios** (around 2:1) are suitable if you want the compression to sound smooth and controlled.
+    *   **Higher ratios** (above 4:1) are appropriate if you want to hear the compressor work or if you want the sound to be punchier. The higher the compressor ratio control is set, the more likely you’ll hear the compressor or limiter work.
+*   **Practical Considerations**:
+    *   Different compressors can react quite differently for the same Ratio setting.
+    *   It's more practical to use a compressor with a gain-reduction meter to see when and how much the compressor is working as you adjust the Threshold and Ratio controls.
+
+In summary, **the compression ratio determines the degree to which the compressor reduces the dynamic range of a signal once it exceeds the threshold**. A higher ratio results in more aggressive compression, while a lower ratio provides more subtle dynamic control.
+
 - For dynamic instruments like a slap bass, high ratio settings are necessary to firmly control sporadic peaks, ensuring they don't overpower the mix.
 - Conversely, for instruments with a more consistent dynamic range, like an acoustic guitar, lower ratios provide gentle compression, maintaining musical dynamics while achieving a balanced level.
 - The key to effective compression is finding the right ratio that addresses the balance issue without sacrificing the instrument's natural performance dynamics. This often involves starting with a moderate ratio and adjusting based on the effect observed through the gain-reduction meter, aiming for the least aggressive setting that achieves the desired balance.

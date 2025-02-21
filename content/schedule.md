@@ -125,11 +125,9 @@ date: "2025-1-13"
 
 - [Building raw balance](../posts/week-5/balance/)
 
-> **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 19th at 1:00 pm.  
-- [Compressing for a reason](../posts/week-5/compression/)
-  - Pick some tracks in the mix and experiment with compression settings.
+> **Assignment**: Mixing Assignment 1: Choose a medium-difficulty project, create a mixdown with proper balance, adjust timing and tuning. DUE February 24th at 1:00 pm.  
 
-<!-- 
+
 # Week 6 (2/17)
 
 ## Monday
@@ -138,19 +136,29 @@ date: "2025-1-13"
 
 
 ## Wednesday
+
+- Saxophone and other recordings for the class song
+
+## Friday
+
+- Finish up final recordings for the class song 
 - What projects are you all working on for the mixing assignment?
   -  Look through [some options](https://cambridge-mt.com/ms/mtk/) and talk about what you're thinking about doing. 
   -  Look at some challenges with particular projects.
-- Finish - [Compressing for a reason](../posts/week-5/compression/)
+
+# Week 7 (2/24)
+
+## Monday
+
+- Listen to some of your mixes and critique them.
+- [Compressing for a reason](../posts/week-5/compression/)
+  - Pick some tracks in the mix and experiment with compression settings.
 - Some listening: [Chapter 9: Compressing For A Reason](https://cambridge-mt.com/ms/ch9/)
 - [Compression Lab](../posts/week-6/compression-lab/) 
   - Turn in the results by Friday. 
-- Fridays class: 
-  - Friday we'll have some mix listening sessions, so make sure everyone has a song picked and something to show. The mix doesn't have to be finished, but it should be far enough along that we can hear what you're doing.
-  - Then we'll spend extra time on the class song.
 
 
-## Friday
+## Wednesday
 
 - Limiting
   - Look at some [freeware limiters](https://cambridge-mt.com/ms/ch9/)
@@ -160,25 +168,11 @@ date: "2025-1-13"
   - And other plugins: [Chapter 10: Beyond Compression](https://cambridge-mt.com/ms/ch10/)
 
 
-# Week 7 (2/24)
-
-## Monday
-
-- Mix listening sessions
-  - We'll listen to a few different students in process mixes and talk about what's working and what's not.
-- Recording day
-  - ___ plays some violin for the class song
-  - extra percussion? 
-
-
-## Wednesday
-
-- Listen to each student's mix and critique - 10 minutes each
-
 ## Friday
 
 - Finish listening and critiquing mixes
 
+<!-- 
 # Week 8 (3/3)
 
 ## Monday 
