@@ -57,7 +57,6 @@ date: "2026-01-06"
     - [Pensado's Place](https://www.pensadosplace.tv/)  
 - Lecture:  
   - [Short Video on SPAN](https://www.youtube.com/watch?v=iZrWMv02tlA)  
-  - Mix Referencing - [From Subjective Impressions to Objective Results](../posts/week-2/friday/)  
 
 > **Homework**: Create a list of six mix references (three styles of music). Listen on various speakers and write a paragraph for each explaining your choices.  
 
@@ -68,7 +67,7 @@ date: "2026-01-06"
 ## Monday (1/26)
 
 - Listen to your mix references
-- [Setup a mix in Reaper](../posts/week-2/friday/setup-mix/)  
+- [Setup a mix in Reaper](../posts/week-3/setup-mix/)  
 
 ## Wednesday (1/28)
 
