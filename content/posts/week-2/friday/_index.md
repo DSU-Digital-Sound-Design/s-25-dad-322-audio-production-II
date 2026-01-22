@@ -6,19 +6,28 @@ custom_theme = "reveal-hugo/themes/sunblind.css"
 margin = 0.2
 +++
 
+# Pre-mixing
+The foundation for a successful mix
+
+
+
+---
+
 ## Understanding Monitoring in Small Studio Operations
 
-- The inherent subjectivity of listening challenges small-studio operators.
-- Objective decision-making is crucial in mixing for confident and efficient resource allocation.
-- Creativity is essential but insufficient without objective mixing skills.
-- Focusing on objective, down-to-earth decisions enhances commercial mixing quality.
+- Small studio operators face challenges making objective listening decisions.
+- Objective decision-making is crucial for efficient and confident mixing.
+- Creativity alone isn't enough—you need objective mixing skills too.
+- Making practical, objective decisions improves commercial mix quality.
 
 {{% note %}}
 
-- Monitoring systems in small studios can pinpoint your current position in the mixing process but navigating towards a polished mix relies on your subjective judgment and decision-making skills.
-- Balancing personal creativity with objective technical decisions is key; while creativity infuses uniqueness into your mix, it's the objective decisions that ensure your mix fits into the commercial mold efficiently.
-- Creativity is innate and abundant among small-studio users, but the challenge lies in making objective decisions that align the creative output with technical soundness for a broader appeal.
-- The chapter delves into practical techniques for answering essential mixing questions, emphasizing that even the most creative mix must align with commercial standards to resonate with the target audience.
+- Monitoring systems in small studios can show you where you are in the mixing process, but reaching a polished mix depends on your subjective judgment and decision-making skills.
+- Balance personal creativity with objective technical decisions. Creativity makes your mix unique, but objective decisions ensure it fits commercial standards efficiently.
+- Small-studio users have plenty of creativity, but the real challenge is making objective decisions that align creative output with technical quality for broader appeal.
+- Small studio environments are often untreated and subject to low-end resonance problems caused by ported speaker designs and room modes. Nearfield monitors placed close to the listening position help minimize room interaction.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 1: Monitoring in Small Studios
 
 {{%/ note %}}
 
@@ -26,17 +35,19 @@ margin = 0.2
 
 ## Fighting Your Own Ears in Mixing
 
-- The human auditory system inherently colors and adapts to sound.
-- This natural adaptation can mislead during mixing, affecting objectivity.
-- Awareness of physiological influences is crucial for accurate mix evaluation.
-- Understanding these quirks allows for compensation and more accurate mixing.
+- Your ears naturally color and adapt to sound.
+- This adaptation can mislead you during mixing and affect objectivity.
+- Understanding how your ears work is crucial for accurate mix evaluation.
+- Knowing these quirks helps you compensate and mix more accurately.
 
 {{% note %}}
 
-- While essential for daily life, the human ear's nonlinear response and adaptability can pose significant challenges in maintaining objectivity during the mixing process.
-- The auditory system's tendency to balance and clarify sounds can deceive a mixer into accepting a subpar mix, as it masks imperfections and alters perception subtly.
-- Gaining insight into the physiological processing of sound helps in recognizing and counteracting these biases, ensuring a more truthful and objective assessment of the mix.
-- By acknowledging and understanding the auditory system's intricacies, mixers can devise strategies to sidestep these natural biases, leading to a more authentic and professionally balanced mix.
+- While the human ear's nonlinear response and adaptability are essential for daily life, they create significant challenges for maintaining objectivity during mixing.
+- Your auditory system automatically balances and clarifies sounds, which can deceive you into accepting a subpar mix by masking imperfections and subtly altering your perception.
+- The human auditory system is naturally adaptive—it colors sensory input and can begin compensating for a "wonky" frequency balance within a few seconds, effectively hiding mix problems from the engineer's consciousness.
+- At high volumes, the ear's internal protection systems reduce dynamic range and overcompensate on frequency extremes, often resulting in a mix that sounds "limp" at quieter levels.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 2: Hearing Adaptation and Psychoacoustics
 
 {{%/ note %}}
 
@@ -44,17 +55,19 @@ margin = 0.2
 
 ## Shock Tactics for Objective Mixing
 
-- Frequent switching between monitoring systems prevents ear adaptation.
-- Taking regular breaks restores auditory perspective and prevents detail fixation.
-- Engaging with everyday sounds recalibrates auditory perception.
-- Investing in a quality monitor controller facilitates efficient system switching.
+- Switch between monitoring systems frequently (nearfields, grotboxes, headphones).
+- Use the "Hallway Trick"—listen from an adjoining room to hear overall balance.
+- Check your mix in mono to expose frequency masking and balance issues.
+- Use Auratones or similar midrange-focused speakers to simulate consumer playback.
 
 {{% note %}}
 
-- The human ear's ability to compensate for tonal imbalances, while useful in daily life, can mask mix flaws during prolonged listening sessions. Regularly changing monitors shocks the auditory system, providing a brief period of unbiased listening and revealing the mix's true character.
-- Prolonged mixing sessions can lead to a loss of objectivity and an overemphasis on details. Regular breaks, engaging in unrelated activities, and experiencing everyday sounds help reset auditory perception, allowing for a fresher, more objective evaluation upon return.
-- The convenience of switching between monitoring systems can be significantly enhanced by investing in a dedicated hardware monitor controller, streamlining the process and encouraging its routine use, ultimately contributing to a more accurate mix.
-- The practice of taking breaks is not just about physical rest; it's about providing a mental and auditory reset. Engaging in activities that expose you to natural sounds or simply changing the environment can serve as a reality check, ensuring your mix translates well outside the studio.
+- Your ears compensate for tonal imbalances in daily life, but this same ability masks mix flaws during prolonged listening sessions. Frequently switching between different monitoring systems (e.g., nearfields to an Auratone) resets the tonal frame of reference and provides a brief moment of clarity.
+- The "Hallway Trick": Listening to the mix from an adjoining room or hallway helps evaluate overall balance and "average the room" resonances.
+- Mono monitoring from a single speaker is a "ruthless" way to identify frequency masking and ensure central elements like the lead vocal are properly balanced.
+- "Grotboxes" and Auratones provide a midrange-focused perspective that mimics mass-market devices and resists room-acoustics problems.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 3: Objectivity Hacks; Auratone monitoring techniques
 
 {{%/ note %}}
 
@@ -62,17 +75,19 @@ margin = 0.2
 
 ## Breaks and Hearing Fatigue in Mixing
 
-- Continuous mixing tires the ears, especially impacting sensitivity to high frequencies.
-- Taking breaks is crucial for maintaining auditory sharpness throughout long sessions.
-- Finalizing mixes after breaks ensures objectivity and quality.
-- Industry professionals endorse breaks for fresh perspectives and avoiding mix fixation.
+- Take a break every 2 hours to rest your ears and maintain high-frequency sensitivity.
+- Apply the "Morning After" Rule—never finalize a mix late at night; revisit with fresh ears.
+- Leave the studio during breaks; remind your ears what the real world sounds like.
+- High-volume sessions reduce your effective workday from 10–12 hours to just 6 hours.
 
 {{% note %}}
 
-- Extended periods of mixing can lead to hearing fatigue, diminishing your ability to accurately perceive and balance high frequencies, which are critical for a polished mix.
-- Regular breaks rejuvenate your auditory sensitivity, ensuring that your ears remain sharp and capable of critical listening, which is a prerequisite for professional-level mixing.
-- Adhering to the practice of not finalizing mixes late in the day can prevent subpar outcomes. A rested and fresh perspective often reveals overlooked details or imbalances in the mix.
-- Testimonies from renowned engineers highlight the importance of breaks, not just for hearing health but also for maintaining a clear distinction between the technical and creative aspects of mixing. Returning to a mix with fresh ears often leads to more balanced decisions and a mix that truly represents the song's essence.
+- Extended mixing periods cause hearing fatigue, reducing your ability to accurately perceive and balance high frequencies—which are critical for a polished mix.
+- Experts suggest taking a break every two hours to rest both the ears and the eyes. A break should involve leaving the studio to get fresh air or reminding the ears what the real world sounds like—such as the sound of a kettle boiling.
+- The "Morning After" Rule: Objectivity is lowest late at night; therefore, engineers should "sleep on the mix" and listen with fresh ears the following morning to spot obvious mistakes.
+- Prolonged high-volume monitoring reduces a mixer's workday from 10–12 hours to as little as 6 hours due to physical fatigue.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 3: Taking Breaks and Ear Fatigue
 
 {{%/ note %}}
 
@@ -80,18 +95,19 @@ margin = 0.2
 
 ## Monitoring Level for Effective Mixing
 
-- Loud monitoring risks hearing damage and distorts audio perception.
-- Professional mix engineers advocate for mixing at low to moderate volumes.
-- Monitoring level influences perceived frequency balance and dynamic range.
-  - See [Equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour)
-- Variety in monitoring levels is crucial for understanding mix translation across different environments.
+- Mix primarily at **79 dB SPL** ("conversation level") for critical balance decisions.
+- Use brief 105 dB checks (20–30 seconds) to verify punch and set levels.
+- Balances made at low volumes translate better to louder systems (not vice versa).
+- [Equal-loudness contours](https://en.wikipedia.org/wiki/Equal-loudness_contour) explain why frequency perception changes with volume.
 
 {{% note %}}
 
-- Excessive volume during mixing can lead to hearing impairment and a distorted perception of the mix, making it vital to monitor at reasonable levels to preserve your most critical asset as a mixer—your hearing.
-- Professionals like Allen Sides and Kevin Killen recommend mixing primarily at low volumes, where critical balancing can be done effectively without risking hearing damage, and only briefly listening at high volumes for specific checks.
-- The perceived frequency balance of a mix changes with the monitoring volume due to the psychoacoustic phenomenon of equal-loudness contours, necessitating monitoring at various levels to understand how the mix translates across different listening conditions.
-- While listening at different volumes provides valuable insights into how a mix performs under various conditions, mix engineers must also decide which volume levels are most relevant for the intended audience and musical genre, ensuring the mix retains its clarity and impact in its typical listening environment.
+- A frequently cited standard for critical balancing is **79 dB SPL**, often described as "conversation level." Balances made at low volumes tend to translate better to louder systems, while the inverse is rarely true.
+- At low volumes, the ear is most sensitive to the midrange while extreme lows and highs become harder to perceive. At higher levels, the ear perceives a flatter response (Fletcher-Munson curves).
+- **Specific dB SPL benchmarks:** 79 dB for mixing work; 85 dB for monitor calibration (pink noise, C-weighted); 105 dB only for brief (20–30 second) checks to set levels and ensure punch.
+- George Massenburg suggests monitoring at extremely low levels—just 5 dB over background noise—to bring all elements into focus and ensure no instruments are lost in the balance. Listening very quietly simulates hostile listening conditions (car, office) to check if the lead vocal cuts through.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 4: Monitoring Levels; Fletcher-Munson/Equal-Loudness Contours; George Massenburg interview
 
 {{%/ note %}}
 
@@ -99,17 +115,19 @@ margin = 0.2
 
 ## A Jury of Your Peers in Mix Evaluation
 
-- Soliciting external feedback is crucial for objective mix assessment.
-- Even skilled mixers can lose objectivity, making external perspectives invaluable.
-- Learning to filter and apply feedback constructively enhances mixing skills.
-- Using reference tracks can clarify vague feedback and guide mix adjustments.
+- Getting external feedback is crucial for objective mix assessment.
+- Even skilled mixers lose objectivity—outside perspectives are invaluable.
+- Learn to filter and apply feedback constructively to improve your mixing.
+- Use reference tracks to clarify vague feedback and guide adjustments.
 
 {{% note %}}
 
-- Professional mixing involves not just technical skill but also the courage to face critique. By the end of the mixing process, the mixer's own ears are likely the least objective judge of the mix, making external feedback essential.
-- Experienced mixers like Alan Moulder and Alan Parsons emphasize the value of collaboration and external input for maintaining objectivity and achieving high-quality results.
-- While feedback is crucial, it's equally important to discern which critiques are constructive and aligned with the mix's intended style and which may be subjective preferences or genre-specific biases.
-- When feedback seems vague or contradictory, especially from non-musicians, using reference tracks can provide a concrete basis for comparison, helping to clarify the intended direction for mix adjustments.
+- Professional mixing requires not just technical skill but also courage to face critique. By the end of the mixing process, your own ears are likely the least objective judge of the mix, making external feedback essential.
+- George Massenburg suggests getting reference material from the artist at the beginning of the process to identify "irrationalities" early—what they envision vs. what's technically achievable.
+- Build a "snag list" by listening to the whole mix against references from start to finish, ideally with fresh ears first thing in the morning.
+- When feedback seems vague or contradictory (especially from non-musicians), use reference tracks to provide a concrete basis for comparison. This helps clarify the intended direction for mix adjustments.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 5: External Feedback; George Massenburg interview on client communication
 
 {{%/ note %}}
 
@@ -117,17 +135,19 @@ margin = 0.2
 
 ## The Art of Mix Referencing
 
-- Mix referencing is a crucial technique for objective mixing assessment.
-- Comparing mixes with top commercial productions ensures quality alignment.
-- Referencing bridges the gap between amateur and professional sonics affordably.
-- It compensates for monitoring system limitations and anchors sound judgment in reality.
+- Mix referencing is essential for objective mixing assessment.
+- Compare your mixes to top commercial productions to ensure quality.
+- Referencing affordably bridges the gap between amateur and professional sonics.
+- It compensates for monitoring limitations and grounds your decisions in reality.
 
 {{% note %}}
 
-- Mix referencing involves the systematic comparison of your mix with leading commercial tracks, providing a reality check and a benchmark for quality.
-- While initially disheartening for beginners, mix referencing is a potent learning tool, rapidly elevating the quality of productions towards commercial standards.
-- This process helps in making objective decisions about the mix by offering a standard to measure against, essential in environments where monitoring systems might not provide a true representation of the mix.
-- Despite its effectiveness in enhancing mix quality, mix referencing is often underutilized in small studios. Recognizing and harnessing its potential can provide a cost-effective means to bridge the quality gap between amateur and professional productions.
+- Mix referencing is the most powerful technique for making objective mix decisions and compensating for the inaccuracies of monitoring environments. It provides an anchor for relative judgments.
+- George Massenburg advises picking several of the Top 100 CDs and using them to prove to yourself that your ears are not deceiving you.
+- Continually comparing the work-in-progress against commercial reference tracks provides an objective anchor and compensates for the inaccuracies of a small studio's monitoring.
+- Check references across all available systems—nearfields, "grotboxes," and headphones—and even listen from an adjoining room or hallway to assess the "averaged" room response.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 6: Mix Referencing Fundamentals; George Massenburg interview
 
 {{%/ note %}}
 
@@ -135,20 +155,21 @@ margin = 0.2
 
 ## Choosing Your Material for Mix Referencing
 
-- Selecting high-quality reference tracks is crucial for effective mix referencing.
-  -   - A list: [Honor Roll](https://www.digido.com/honor-roll/) - hasn't been updated in a while
-  - [The Mix Review](https://themixreview.org/) - a good resource
+- **Never use MP3s**—only CDs or 24-bit high-resolution sources for accurate comparison.
+- Use "endstop markers"—tracks that define limits (max sibilance, max sub-bass, etc.).
+- Vet tracks on multiple systems; choose for sonic quality, not personal taste.
+- Resources for finding references:
+  - [The Mix Review](https://themixreview.org/)
   - [Best Reference Track For All Genres – Mastering The Mix](https://www.masteringthemix.com/blogs/learn/best-reference-track-for-all-genres)
-- Methodical vetting of tracks ensures alignment with top production standards.
-- Personal preferences can mislead; objective selection based on sound quality is essential.
-- A rigorous selection process enhances the effectiveness of reference materials.
 
 {{% note %}}
 
-- The selection of reference tracks is a pivotal step in mix referencing; using subpar or inappropriate tracks can inadvertently lower the benchmark for your own mix's quality.
-- A meticulous approach to choosing reference tracks, involving comparison across multiple systems and rigorous vetting, ensures that the selected tracks truly represent the highest quality in your target genre or style.
-- Personal biases towards favorite songs or famous tracks can detract from the objective quality assessment needed in mix referencing. It's crucial to distinguish between the emotional appeal of a track and its technical excellence as a reference.
-- The effort invested in rigorously selecting and vetting reference tracks pays off by providing a more accurate and demanding benchmark, pushing your mix quality closer to professional standards.
+- Engineers should systematically trawl their record collections and vet potential tracks on multiple listening systems. Avoid choosing tracks based on songwriting or personal favorites; select them based on sonic excellence.
+- **Never use MP3s or data-compressed streams**—their side effects lower the quality bar and compromise comparison effectiveness. Use only CDs or 24-bit high-resolution sources.
+- Use specific tracks as "endstop markers" for frequency extremes—one track might represent the absolute limit of acceptable vocal sibilance, while another defines the maximum allowable sub-bass.
+- Mandy Parnell warns that modern references are often "hypercompressed" and masterfully loud, which can lead young engineers to chase technically incorrect production standards.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 6: Choosing Reference Material; Mandy Parnell interview on modern loudness standards
 
 {{%/ note %}}
 
@@ -156,17 +177,42 @@ margin = 0.2
 
 ## What Makes a Good Reference in Mix Referencing
 
-- Selecting mix references requires a balance between personal sound preferences and commercial standards.
-- Genre-specific, contemporary references ensure relevance and market alignment.
-- Avoiding bias against musical taste is key; focus on production quality.
-- Mix references inspire rather than dictate, aiding in validating specific mix aspects.
+- Balance personal sound preferences with commercial standards when choosing references.
+- Use genre-specific, contemporary references to ensure relevance and market alignment.
+- Avoid letting musical taste bias your selection—focus on production quality.
+- Mix references inspire and validate decisions rather than dictate choices.
 
 {{% note %}}
 
-- Choosing the right mix references involves a delicate balance between subjective sound preferences and the objective quality recognized by the professional community. While your personal taste shapes your mix's character, aligning with industry standards is crucial for commercial viability.
-- Ensuring that your reference tracks are relevant to the genre and era you're working in is vital, as production techniques and listener expectations vary significantly across different musical styles and periods.
-- It's crucial to select reference tracks based on their sonic quality, not personal musical preferences. Even if a song isn't to your personal taste, its mix may still set a valuable benchmark for technical excellence.
-- Reference tracks serve as a source of inspiration and a benchmark for comparison, helping you understand how your mix stands up against established standards. They are not meant for direct emulation but for guiding decisions on aspects like bass levels, vocal treatment, and mix tonality, ensuring that your mix meets professional standards and audience expectations.
+- "You want to sound contemporary," says engineer Jimmy Douglass, "but you can't know what that is unless you listen to the records the audience is digging at the moment." Choose tracks that relate to the specific genre you are mixing.
+- Ronald Prent recommends Stevie Wonder's "Songs in the Key of Life" (specifically "Isn't She Lovely") and Lyle Lovett's "Joshua Judges Ruth" (mixed by Massenburg) as ideal references for their sonic and dynamic footprints.
+- Use reference tracks to evaluate: overall tonality/frequency balance, low-end consistency (kick and bass relationship), stereo image width and placement, and effects/ambience (reverb depth, length, and level).
+- Alastair Sims states that reference tracks are the best way to determine the level of audio editing (tuning and timing) expected by the client.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 6: Reference Track Selection; Jimmy Douglass, Ronald Prent, Alastair Sims interviews
+
+{{%/ note %}}
+
+---
+
+## Activity: Evaluating Reference Track Recommendations
+
+[Best Reference Track For All Genres – Mastering The Mix](https://www.masteringthemix.com/blogs/learn/best-reference-track-for-all-genres)
+
+- Listen to 2–3 of the recommended tracks in genres you know well.
+- Consider: Do you agree with the author's choices? Why or why not?
+- What sonic qualities make these tracks good (or poor) references?
+
+{{% note %}}
+
+- This is a hands-on listening activity. Open the link and explore the reference track recommendations together as a class.
+- Encourage students to think critically—just because a track is recommended doesn't mean it's the best choice for every situation.
+- Discussion prompts:
+  - Does this track have a balanced frequency spectrum?
+  - Is the dynamic range appropriate for the genre?
+  - Would you use this as an "endstop marker" for anything specific?
+  - Are there better examples you can think of?
+- Remind students that reference selection is subjective—the goal is to develop their own critical ear for evaluating sonic quality.
 
 {{%/ note %}}
 
@@ -174,16 +220,18 @@ margin = 0.2
 
 ## Getting the Best Out of Your References
 
-- Importance of quick comparisons
-- Editing highlights of reference tracks
-- The necessity of loudness-matching
-- Workarounds for small studios
+- Use A/B plugins (Magic AB, MCompare) for instant, level-matched switching.
+- Match loudness using LUFS meters—louder always sounds "better" and deceives you.
+- Reference in a separate DAW project to stay disciplined and avoid "tail-chasing."
+- Edit reference tracks to highlight key sections; skip intros for faster comparison.
 
 {{% note %}}
 
-- Rapid switching between a reference track and your work-in-progress is crucial due to the ear's quick adaptation, making contrasts more revealing.
-- Editing only the highlights of reference tracks accentuates the contrasts, avoiding skewed perceptions caused by introductory sections of songs.
-- Loudness-matching between reference tracks and your mix is essential to avoid biases in the evaluation process, as louder tracks tend to be perceived as better.
-- Small studios face challenges in loudness-matching due to the loudness of modern productions. Workarounds include finding subtly mastered tracks or applying loudness processing to your mix for a more accurate comparison.
+- The ear adapts to tonal imbalances within seconds; therefore, comparisons must be **instantaneous** to highlight differences before the hearing system recalibrates. Use A/B switching plugins (Magic AB, A|B Assist, or MCompare) for instant level-matched switching.
+- It is human nature for anything louder to be perceived as "better," which can deceive the engineer during comparisons. Use EBU R128/LUFS meters to match the Integrated Loudness of the reference track precisely.
+- Referencing in a dedicated DAW project (rather than inside the mix session) can prevent "tail-chasing" by making the engineer more disciplined about checking judgments across different monitors.
+- Chuck Ainlay always creates a "bass up" or "bass drum up" version during mastering to ensure the low end translates, often referencing the original rough mix to see what the artist preferred.
+
+**Sources:** Senior, "Mixing Secrets for the Small Studio" - Ch. 6: Effective Referencing Techniques; Chuck Ainlay mastering workflow; A/B plugin recommendations
 
 {{%/ note %}}
